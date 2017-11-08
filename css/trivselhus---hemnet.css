@@ -1,7 +1,7 @@
 .version.trivselhus___hemnet /* version checker */
 {
-	color: #000011;
-	background-color: #FFC374;
+	color: #0000EB;
+	background-color: #18B0F2;
 }
 
 .html
@@ -145,19 +145,19 @@
 	margin-left: 55px;
 	margin-top: 162px;
 	position: relative;
-	padding: 14px 38px 9.08510659694295px 28px;
+	padding: 12px 47px 9.08510659694295px 19px;
 }
 
-#u5497
+#u5511
 {
-	z-index: 50;
+	z-index: 52;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U5500_animation
+#U5523_animation
 {
 	width: 740px;
 	height: 160px;
@@ -172,7 +172,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-left: 9px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -193,19 +194,20 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 28px;
-	padding: 8px 37px 9.076478278358621px 20px;
+	padding: 9px 37px 9.076478278358621px 20px;
 }
 
-#u5496
+#u5512
 {
 	z-index: 51;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
+	margin-left: 6px;
 	position: relative;
 }
 
-#U5504_animation
+#U5519_animation
 {
 	width: 320px;
 	height: 160px;
@@ -220,7 +222,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 14px;
+	margin-top: 13px;
 	position: relative;
 }
 
@@ -234,12 +236,12 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 493px;
-	padding: 17px 20px 24.076478278358877px 15px;
+	padding: 21px 20px 24.076478278358877px 15px;
 }
 
-#u5498
+#u5513
 {
-	z-index: 52;
+	z-index: 50;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -247,7 +249,7 @@
 	position: relative;
 }
 
-#U5508_animation
+#U5515_animation
 {
 	width: 250px;
 	height: 720px;
@@ -262,7 +264,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 16px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -310,9 +312,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -351,9 +353,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
