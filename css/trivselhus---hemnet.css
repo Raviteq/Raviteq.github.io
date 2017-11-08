@@ -1,7 +1,7 @@
 .version.trivselhus___hemnet /* version checker */
 {
-	color: #0000EB;
-	background-color: #18B0F2;
+	color: #0000FD;
+	background-color: #0A7924;
 }
 
 .html
@@ -150,7 +150,7 @@
 
 #u5511
 {
-	z-index: 52;
+	z-index: 51;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
@@ -199,7 +199,7 @@
 
 #u5512
 {
-	z-index: 51;
+	z-index: 50;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
@@ -236,20 +236,20 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 493px;
-	padding: 21px 20px 24.076478278358877px 15px;
+	padding: 17px 20px 24.076478278358877px 15px;
 }
 
-#u5513
+#u5526
 {
-	z-index: 50;
+	z-index: 52;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
-	margin-left: 10px;
+	margin-left: 1px;
 	position: relative;
 }
 
-#U5515_animation
+#U5528_animation
 {
 	width: 250px;
 	height: 720px;
@@ -264,7 +264,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 12px;
+	margin-top: 16px;
 	position: relative;
 }
 
