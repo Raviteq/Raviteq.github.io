@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1513265304084">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1513265643526">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="498786773" ref="index"/>
@@ -11,9 +11,9 @@
     <file name="movehome---google-display.css" crc="3943119478" ref="movehome---google-display"/>
     <file name="trivselhus---remarketing.css" crc="357158445" ref="trivselhus---remarketing"/>
     <file name="movehome---adforms-display.css" crc="40544558" ref="movehome---adforms-display"/>
-    <file name="movehome---adforms-remarketing.css" crc="4210371256" ref="movehome---adforms-remarketing"/>
+    <file name="movehome---adforms-remarketing.css" crc="220674959" ref="movehome---adforms-remarketing"/>
     <file name="trivselhus---adfform-remarketing.css" crc="3896159888" ref="trivselhus---adfform-remarketing"/>
-    <file name="trivselhus---adfform-display.css" crc="3765224986" ref="trivselhus---adfform-display"/>
+    <file name="trivselhus---adfform-display.css" crc="3760292747" ref="trivselhus---adfform-display"/>
   </folder>
   <folder name="assets">
     <folder name="320x3204">
@@ -1946,7 +1946,7 @@
   <file name="movehome---hemnet.html" crc="529305621" seo="true" mt="1507646384068" redirect="true"/>
   <file name="movehome---google-display-kopia.html" crc="85953249" seo="true" mt="1505217138751" redirect="true"/>
   <file name="movehome---adforms-display.html" crc="3773986726" seo="true" mt="1513264886441" redirect="true"/>
-  <file name="movehome---adforms-remarketing.html" crc="3926362607" seo="true" mt="1513264890043" redirect="true"/>
-  <file name="trivselhus---adfform-display.html" crc="4250765908" seo="true" mt="1513265284597" redirect="true"/>
+  <file name="movehome---adforms-remarketing.html" crc="4177016167" seo="true" mt="1513265592361" redirect="true"/>
+  <file name="trivselhus---adfform-display.html" crc="4280060689" seo="true" mt="1513265624738" redirect="true"/>
   <file name="trivselhus---adfform-remarketing.html" crc="301770177" seo="true" mt="1513264983961" redirect="true"/>
 </manifest>
