@@ -1,7 +1,7 @@
 .version.movehome___adform_remarketing /* version checker */
 {
-	color: #000016;
-	background-color: #B77555;
+	color: #000005;
+	background-color: #C3E1DC;
 }
 
 .html
@@ -177,9 +177,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -375,27 +375,27 @@
 #u2541
 {
 	z-index: 32;
-	width: 983px;
+	width: 988px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -38px;
 	margin-top: 14px;
 	position: relative;
-	padding: 24px 38px 13.000000000000455px 14px;
+	padding: 30px 33px 13.000000000000455px 14px;
 }
 
-#u5614
+#u5649
 {
 	z-index: 83;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 3px;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U5616_animation
+#U5651_animation
 {
 	width: 980px;
 	height: 240px;
@@ -410,7 +410,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 20px;
+	margin-top: 14px;
 	position: relative;
 }
 
@@ -462,10 +462,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -504,10 +504,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;

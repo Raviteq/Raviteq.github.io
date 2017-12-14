@@ -1,7 +1,7 @@
 .version.trivselhus___adform_remarketing /* version checker */
 {
-	color: #000010;
-	background-color: #43B9BC;
+	color: #00001B;
+	background-color: #3D9E8F;
 }
 
 .html
@@ -251,26 +251,26 @@
 #u2456
 {
 	z-index: 26;
-	width: 484px;
+	width: 480px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-top: 33px;
 	position: relative;
-	padding: 19px 30px 15px 14px;
+	padding: 26px 34px 15.000000000000455px 14px;
 }
 
-#u5629
+#u5639
 {
 	z-index: 83;
 	width: 468px;
 	height: 400px;
 	background-color: transparent;
-	margin-left: 16px;
+	margin-left: 12px;
 	position: relative;
 }
 
-#U5631_animation
+#U5641_animation
 {
 	width: 468px;
 	height: 400px;
@@ -285,7 +285,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 30px;
+	margin-top: 23px;
 	position: relative;
 }
 

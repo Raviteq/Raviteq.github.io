@@ -1,7 +1,7 @@
 .version.trivselhus___adform_display /* version checker */
 {
-	color: #000014;
-	background-color: #915253;
+	color: #000016;
+	background-color: #EA7439;
 }
 
 .html
@@ -339,10 +339,10 @@
 	left: -29px;
 	margin-top: 18px;
 	position: relative;
-	padding: 11px 49px 13.000000000001364px 19px;
+	padding: 13px 39px 13.000000000001364px 29px;
 }
 
-#u5634
+#u5654
 {
 	z-index: 179;
 	width: 980px;
@@ -359,8 +359,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 11px;
-	margin-top: 16px;
+	margin-left: 1px;
+	margin-top: 14px;
 	position: relative;
 }
 
@@ -386,7 +386,7 @@
 	position: relative;
 }
 
-#U5636_animation,#U5415_animation
+#U5656_animation,#U5415_animation
 {
 	width: 980px;
 	height: 240px;
