@@ -1,7 +1,7 @@
 .version.trivselhus___adform_display /* version checker */
 {
-	color: #000016;
-	background-color: #FA4D33;
+	color: #0000E0;
+	background-color: #877E93;
 }
 
 .html
@@ -143,8 +143,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -217,7 +217,7 @@
 
 #u5392
 {
-	z-index: 179;
+	z-index: 177;
 	width: 1150px;
 	height: 200px;
 	background-color: transparent;
@@ -260,7 +260,7 @@
 
 #u5391
 {
-	z-index: 175;
+	z-index: 173;
 	width: 1000px;
 	height: 240px;
 	background-color: transparent;
@@ -302,7 +302,7 @@
 
 #u5393
 {
-	z-index: 178;
+	z-index: 176;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -339,12 +339,12 @@
 	left: -29px;
 	margin-top: 18px;
 	position: relative;
-	padding: 13px 39px 13.000000000001364px 29px;
+	padding: 20px 40px 13px 28px;
 }
 
-#u5395
+#u5609
 {
-	z-index: 174;
+	z-index: 179;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
@@ -359,8 +359,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 1px;
-	margin-top: 14px;
+	margin-left: 2px;
+	margin-top: 8px;
 	position: relative;
 }
 
@@ -379,14 +379,14 @@
 
 #u5394
 {
-	z-index: 176;
+	z-index: 174;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U5407_animation,#U5415_animation
+#U5611_animation,#U5415_animation
 {
 	width: 980px;
 	height: 240px;
@@ -420,7 +420,7 @@
 
 #u5390
 {
-	z-index: 177;
+	z-index: 175;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
@@ -462,7 +462,7 @@
 
 #u5397
 {
-	z-index: 172;
+	z-index: 171;
 	width: 660px;
 	height: 200px;
 	background-color: transparent;
@@ -516,7 +516,7 @@
 
 #u5335
 {
-	z-index: 169;
+	z-index: 168;
 	width: 480px;
 	height: 250px;
 	background-color: transparent;
@@ -592,19 +592,19 @@
 	background-color: #FFFFFF;
 	margin-top: 24px;
 	position: relative;
-	padding: 20px 20px 17.00000000000182px 19px;
+	padding: 17px 20px 17.00000000000182px 19px;
 }
 
-#u5333
+#u5536
 {
-	z-index: 168;
+	z-index: 178;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U5342_animation
+#U5538_animation
 {
 	width: 320px;
 	height: 160px;
@@ -619,7 +619,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 13px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -637,7 +637,7 @@
 
 #u5336
 {
-	z-index: 170;
+	z-index: 169;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
@@ -678,7 +678,7 @@
 
 #u5357
 {
-	z-index: 171;
+	z-index: 170;
 	width: 280px;
 	height: 140px;
 	background-color: transparent;
@@ -807,7 +807,7 @@
 
 #u5396
 {
-	z-index: 173;
+	z-index: 172;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;

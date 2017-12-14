@@ -1,7 +1,7 @@
 .version.movehome___adform_remarketing /* version checker */
 {
-	color: #0000E1;
-	background-color: #348042;
+	color: #000016;
+	background-color: #B77555;
 }
 
 .html
@@ -134,8 +134,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -208,19 +208,20 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 21px 28px 16.000000000000284px 14px;
+	padding: 29px 28px 16px 14px;
 }
 
-#u4805
+#u5585
 {
-	z-index: 82;
+	z-index: 81;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
+	margin-left: 12px;
 	position: relative;
 }
 
-#U4825_animation
+#U5600_animation
 {
 	width: 300px;
 	height: 250px;
@@ -235,33 +236,33 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 28px;
+	margin-top: 20px;
 	position: relative;
 }
 
 #u2532
 {
 	z-index: 33;
-	width: 262px;
+	width: 266px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-top: 33px;
 	position: relative;
-	padding: 17px 33px 13.250000000000455px 14px;
+	padding: 27px 29px 13px 14px;
 }
 
-#u4806
+#u5586
 {
-	z-index: 80;
+	z-index: 79;
 	width: 250px;
 	height: 360px;
 	background-color: transparent;
-	margin-left: 6px;
+	margin-left: 16px;
 	position: relative;
 }
 
-#U4813_animation
+#U5592_animation
 {
 	width: 250px;
 	height: 360px;
@@ -276,7 +277,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 32px;
+	margin-top: 22px;
 	position: relative;
 }
 
@@ -292,25 +293,26 @@
 #u2543
 {
 	z-index: 31;
-	width: 172px;
+	width: 176px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 136px;
 	position: relative;
-	padding: 20px 33px 14px 14px;
+	padding: 29px 29px 14.000000000000455px 14px;
 }
 
-#u4833
+#u5582
 {
-	z-index: 83;
+	z-index: 80;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
+	margin-left: 16px;
 	position: relative;
 }
 
-#U4835_animation
+#U5596_animation
 {
 	width: 160px;
 	height: 600px;
@@ -325,7 +327,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 29px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -338,12 +340,12 @@
 	background-color: #FFFFFF;
 	margin-top: 17px;
 	position: relative;
-	padding: 11px 21px 12.3601480263153px 16px;
+	padding: 12px 21px 12.3601480263153px 16px;
 }
 
-#u4804
+#u5584
 {
-	z-index: 81;
+	z-index: 82;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -351,7 +353,7 @@
 	position: relative;
 }
 
-#U4817_animation
+#U5604_animation
 {
 	width: 320px;
 	height: 320px;
@@ -366,34 +368,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 11px;
+	margin-top: 10px;
 	position: relative;
 }
 
 #u2541
 {
 	z-index: 32;
-	width: 984px;
+	width: 983px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -38px;
 	margin-top: 14px;
 	position: relative;
-	padding: 23px 37px 13.000000000000455px 14px;
+	padding: 24px 38px 13.000000000000455px 14px;
 }
 
-#u4803
+#u5614
 {
-	z-index: 79;
+	z-index: 83;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 4px;
+	margin-left: 3px;
 	position: relative;
 }
 
-#U4809_animation
+#U5616_animation
 {
 	width: 980px;
 	height: 240px;
@@ -408,7 +410,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 21px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -460,8 +462,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;
@@ -502,8 +504,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;
