@@ -1,7 +1,7 @@
 .version.trivselhus___adform_remarketing /* version checker */
 {
-	color: #0000F5;
-	background-color: #3DF853;
+	color: #000010;
+	background-color: #43B9BC;
 }
 
 .html
@@ -185,9 +185,9 @@
 	width: 390px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 285px;
@@ -221,7 +221,7 @@
 
 #u2472
 {
-	z-index: 75;
+	z-index: 74;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
@@ -251,26 +251,26 @@
 #u2456
 {
 	z-index: 26;
-	width: 480px;
+	width: 484px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-top: 33px;
 	position: relative;
-	padding: 30px 34px 15px 14px;
+	padding: 19px 30px 15px 14px;
 }
 
-#u2473
+#u5629
 {
-	z-index: 74;
+	z-index: 83;
 	width: 468px;
 	height: 400px;
 	background-color: transparent;
-	margin-left: 12px;
+	margin-left: 16px;
 	position: relative;
 }
 
-#U2484_animation
+#U5631_animation
 {
 	width: 468px;
 	height: 400px;
@@ -285,7 +285,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 19px;
+	margin-top: 30px;
 	position: relative;
 }
 
@@ -340,7 +340,7 @@
 
 #u5541
 {
-	z-index: 76;
+	z-index: 75;
 	width: 320px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
@@ -353,7 +353,7 @@
 
 #u5543
 {
-	z-index: 83;
+	z-index: 82;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -370,7 +370,7 @@
 
 #u5542-6
 {
-	z-index: 77;
+	z-index: 76;
 	width: 312px;
 	min-height: 34px;
 	background-color: transparent;
@@ -471,10 +471,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -513,10 +513,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
