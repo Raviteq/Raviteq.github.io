@@ -1,7 +1,7 @@
 .version.movehome___adforms_remarketing /* version checker */
 {
-	color: #00000D;
-	background-color: #273B8F;
+	color: #0000E9;
+	background-color: #FEB991;
 }
 
 .html
@@ -38,19 +38,19 @@
 
 #u89
 {
-	z-index: 84;
+	z-index: 83;
 	height: 56px;
 	top: 0px;
 }
 
 #u89-bw
 {
-	z-index: 84;
+	z-index: 83;
 }
 
 #u92
 {
-	z-index: 85;
+	z-index: 84;
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
@@ -58,7 +58,7 @@
 
 #u436
 {
-	z-index: 92;
+	z-index: 91;
 	top: 11px;
 	left: 50%;
 	margin-left: -343px;
@@ -66,7 +66,7 @@
 
 #u574
 {
-	z-index: 86;
+	z-index: 85;
 	width: 189px;
 	padding-bottom: 35px;
 	top: 11px;
@@ -76,7 +76,7 @@
 
 #u90-4
 {
-	z-index: 87;
+	z-index: 86;
 	width: 122px;
 	min-height: 18px;
 	top: 20px;
@@ -86,7 +86,7 @@
 
 #u91
 {
-	z-index: 91;
+	z-index: 90;
 	width: 189px;
 	height: 35px;
 	top: 11px;
@@ -134,8 +134,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -177,9 +177,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -375,31 +375,14 @@
 #u2541
 {
 	z-index: 32;
-	width: 994px;
+	width: 1035px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 13px;
 	left: -38px;
 	margin-top: 14px;
 	position: relative;
-	padding: 15px 27px 13px 14px;
-}
-
-#u5674
-{
-	z-index: 83;
-	width: 980px;
-	height: 240px;
-	background-color: transparent;
-	margin-left: 14px;
-	position: relative;
-}
-
-#U5676_animation
-{
-	width: 980px;
-	height: 240px;
-	border: none;
 }
 
 #u2512-6
@@ -410,8 +393,10 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 29px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 284px;
+	left: 14px;
 }
 
 #u2525-2,#u2542-2,#u4717-2,#u2512-2
@@ -462,10 +447,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
-	line-height: 19px;
 	color: #FFFFFF;
+	line-height: 19px;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -504,10 +489,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
-	line-height: 19px;
 	color: #FFFFFF;
+	line-height: 19px;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
