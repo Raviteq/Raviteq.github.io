@@ -1,7 +1,7 @@
 .version.movehome___adforms_remarketing /* version checker */
 {
-	color: #00001F;
-	background-color: #5D4DE8;
+	color: #00001E;
+	background-color: #15DAF5;
 }
 
 .html
@@ -221,17 +221,17 @@
 	padding: 21px 28px 16.000000000000284px 14px;
 }
 
-#u5749
+#u5844
 {
-	z-index: 98;
+	z-index: 94;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 12px;
+	margin-left: 6px;
 	position: relative;
 }
 
-#U5775_animation
+#U5853_animation
 {
 	width: 300px;
 	height: 250px;
@@ -253,26 +253,26 @@
 #u2532
 {
 	z-index: 47;
-	width: 321px;
+	width: 324px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-top: 33px;
 	position: relative;
-	padding: 23px 20px 24px 13px;
+	padding: 21px 17px 24px 13px;
 }
 
-#u5748
+#u5843
 {
-	z-index: 97;
+	z-index: 93;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
-	margin-left: 1px;
+	margin-left: 4px;
 	position: relative;
 }
 
-#U5771_animation
+#U5849_animation
 {
 	width: 320px;
 	height: 160px;
@@ -287,34 +287,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 11px;
+	margin-top: 13px;
 	position: relative;
 }
 
 #u5784
 {
 	z-index: 15;
-	width: 285px;
+	width: 262px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 1px;
 	margin-top: 15px;
 	position: relative;
-	padding: 14px 56px 15px 13px;
+	padding: 17px 79px 15px 13px;
 }
 
-#u5751
+#u5846
 {
-	z-index: 93;
+	z-index: 96;
 	width: 250px;
 	height: 360px;
 	background-color: transparent;
-	margin-left: 35px;
+	margin-left: 12px;
 	position: relative;
 }
 
-#U5755_animation
+#U5861_animation
 {
 	width: 250px;
 	height: 360px;
@@ -329,7 +329,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-top: 7px;
 	position: relative;
 }
 
@@ -350,26 +350,27 @@
 #u5782
 {
 	z-index: 22;
-	width: 250px;
+	width: 257px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
-	padding: 19px 28px 13px 14px;
+	padding: 18px 21px 13px 14px;
 }
 
-#u5750
+#u5845
 {
-	z-index: 99;
+	z-index: 97;
 	width: 250px;
 	height: 600px;
 	background-color: transparent;
+	margin-left: 7px;
 	position: relative;
 }
 
-#U5779_animation
+#U5865_animation
 {
 	width: 250px;
 	height: 600px;
@@ -384,7 +385,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 30px;
+	margin-top: 31px;
 	position: relative;
 }
 
@@ -401,17 +402,17 @@
 	padding: 20px 33px 14px 14px;
 }
 
-#u5752
+#u5847
 {
-	z-index: 94;
+	z-index: 95;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 6px;
+	margin-left: 3px;
 	position: relative;
 }
 
-#U5759_animation
+#U5857_animation
 {
 	width: 160px;
 	height: 600px;
@@ -433,26 +434,27 @@
 #u4716
 {
 	z-index: 29;
-	width: 320px;
+	width: 328px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 75px;
 	margin-top: 17px;
 	position: relative;
-	padding: 12px 26px 12.3601480263153px 16px;
+	padding: 15px 18px 12.160148026315483px 16px;
 }
 
-#u5747
+#u5842
 {
-	z-index: 96;
+	z-index: 99;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U5767_animation
+#U5873_animation
 {
 	width: 320px;
 	height: 320px;
@@ -467,34 +469,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-top: 7px;
 	position: relative;
 }
 
 #u2541
 {
 	z-index: 46;
-	width: 994px;
+	width: 1000px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -38px;
 	margin-top: 14px;
 	position: relative;
-	padding: 25px 27px 13px 14px;
+	padding: 18px 21px 13.05000000000041px 14px;
 }
 
-#u5753
+#u5841
 {
-	z-index: 95;
+	z-index: 98;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 14px;
+	margin-left: 20px;
 	position: relative;
 }
 
-#U5763_animation
+#U5869_animation
 {
 	width: 980px;
 	height: 240px;
@@ -509,7 +511,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 19px;
+	margin-top: 26px;
 	position: relative;
 }
 
