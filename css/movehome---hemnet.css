@@ -1,7 +1,7 @@
 .version.movehome___hemnet /* version checker */
 {
-	color: #00001B;
-	background-color: #82B92B;
+	color: #00001D;
+	background-color: #9ECA52;
 }
 
 .html
@@ -134,8 +134,8 @@
 	width: 871px;
 	min-height: 119px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -185,12 +185,12 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 22px 14px 26px;
+	padding: 16px 14px 26px;
 }
 
-#u6015
+#u6074
 {
-	z-index: 127;
+	z-index: 134;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
@@ -206,7 +206,7 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 7px;
-	margin-top: 15px;
+	margin-top: 21px;
 	position: relative;
 }
 
@@ -220,12 +220,12 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 529px;
-	padding: 11px 12px 10px 20px;
+	padding: 16px 12px 10px 20px;
 }
 
-#u6016
+#u6076
 {
-	z-index: 126;
+	z-index: 135;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -240,7 +240,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 20px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -254,12 +254,12 @@
 	margin-left: 88px;
 	margin-top: 19px;
 	position: relative;
-	padding: 19px 29px 17.13519306544555px 23px;
+	padding: 14px 15px 17px 37px;
 }
 
-#u6014
+#u6075
 {
-	z-index: 125;
+	z-index: 136;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
@@ -274,8 +274,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 14px;
-	margin-top: 19px;
+	margin-top: 24px;
 	position: relative;
 }
 
@@ -300,7 +299,7 @@
 
 #u6030
 {
-	z-index: 129;
+	z-index: 126;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
@@ -335,7 +334,7 @@
 
 #u6031
 {
-	z-index: 130;
+	z-index: 127;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -369,7 +368,7 @@
 
 #u6029
 {
-	z-index: 128;
+	z-index: 125;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
@@ -410,7 +409,7 @@
 
 #u6044
 {
-	z-index: 132;
+	z-index: 129;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
@@ -445,7 +444,7 @@
 
 #u6045
 {
-	z-index: 131;
+	z-index: 128;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -479,7 +478,7 @@
 
 #u6046
 {
-	z-index: 133;
+	z-index: 130;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
@@ -521,14 +520,14 @@
 
 #u6059
 {
-	z-index: 134;
+	z-index: 131;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U6026_animation,#U6037_animation,#U6052_animation,#U6063_animation
+#U6078_animation,#U6037_animation,#U6052_animation,#U6063_animation
 {
 	width: 320px;
 	height: 160px;
@@ -563,7 +562,7 @@
 
 #u6061
 {
-	z-index: 135;
+	z-index: 132;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -571,7 +570,7 @@
 	position: relative;
 }
 
-#U6022_animation,#U6041_animation,#U6048_animation,#U6067_animation
+#U6082_animation,#U6041_animation,#U6048_animation,#U6067_animation
 {
 	width: 250px;
 	height: 720px;
@@ -605,14 +604,14 @@
 
 #u6060
 {
-	z-index: 136;
+	z-index: 133;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U6018_animation,#U6033_animation,#U6056_animation,#U6071_animation
+#U6086_animation,#U6033_animation,#U6056_animation,#U6071_animation
 {
 	width: 740px;
 	height: 160px;
@@ -676,9 +675,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -718,9 +717,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
