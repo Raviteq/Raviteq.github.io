@@ -6,7 +6,7 @@
 //Edge binding end
 Symbol.bindElementAction(compId,symbolName,"document","compositionReady",function(sym,e){sym.setVariable("numLoops",0);});
 //Edge binding end
-Symbol.bindElementAction(compId,symbolName,"${Stage}","click",function(sym,e){window.open(dhtml.getVar('clickTAG','http://www.adform.com'),dhtml.getVar('landingPageTarget','_blank'));});
+Symbol.bindElementAction(compId,symbolName,"${Stage}","click",function(sym,e){mraid.open(Adform.getClickURL('clickTAG'));});
 //Edge binding end
 })("stage");
 //Edge symbol end:'stage'

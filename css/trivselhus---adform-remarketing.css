@@ -1,7 +1,7 @@
 .version.trivselhus___adform_remarketing /* version checker */
 {
-	color: #00000C;
-	background-color: #FDD14B;
+	color: #000008;
+	background-color: #C9FCCB;
 }
 
 .html
@@ -38,19 +38,19 @@
 
 #u89
 {
-	z-index: 84;
+	z-index: 82;
 	height: 56px;
 	top: 0px;
 }
 
 #u89-bw
 {
-	z-index: 84;
+	z-index: 82;
 }
 
 #u92
 {
-	z-index: 85;
+	z-index: 83;
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
@@ -58,7 +58,7 @@
 
 #u436
 {
-	z-index: 92;
+	z-index: 90;
 	top: 11px;
 	left: 50%;
 	margin-left: -343px;
@@ -66,7 +66,7 @@
 
 #u574
 {
-	z-index: 86;
+	z-index: 84;
 	width: 189px;
 	padding-bottom: 35px;
 	top: 11px;
@@ -76,7 +76,7 @@
 
 #u90-4
 {
-	z-index: 87;
+	z-index: 85;
 	width: 122px;
 	min-height: 18px;
 	top: 20px;
@@ -86,7 +86,7 @@
 
 #u91
 {
-	z-index: 91;
+	z-index: 89;
 	width: 189px;
 	height: 35px;
 	top: 11px;
@@ -251,30 +251,13 @@
 #u2456
 {
 	z-index: 26;
-	width: 480px;
+	width: 528px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 15px;
 	margin-top: 33px;
 	position: relative;
-	padding: 26px 34px 15.000000000000455px 14px;
-}
-
-#u5639
-{
-	z-index: 83;
-	width: 468px;
-	height: 400px;
-	background-color: transparent;
-	margin-left: 12px;
-	position: relative;
-}
-
-#U5641_animation
-{
-	width: 468px;
-	height: 400px;
-	border: none;
 }
 
 #u2432-6
@@ -285,8 +268,10 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 23px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 449px;
+	left: 14px;
 }
 
 #pu2436
@@ -341,31 +326,14 @@
 #u5541
 {
 	z-index: 75;
-	width: 320px;
+	width: 354px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 16px;
 	margin-left: 3px;
 	margin-top: 24px;
 	position: relative;
-	padding: 5px 24px 16px 10px;
-}
-
-#u5543
-{
-	z-index: 82;
-	width: 320px;
-	height: 320px;
-	background-color: transparent;
-	left: -1px;
-	position: relative;
-}
-
-#U5545_animation
-{
-	width: 320px;
-	height: 320px;
-	border: none;
 }
 
 #u5542-6
@@ -376,9 +344,10 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 7px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 332px;
+	left: 14px;
 }
 
 #u2424

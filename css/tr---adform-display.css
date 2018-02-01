@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000EE;
-	background-color: #81E0EB;
+	color: #00001B;
+	background-color: #AADBFC;
 }
 
 .html
@@ -640,7 +640,7 @@
 	position: relative;
 }
 
-#U5671_animation,#U5673_animation,#U5675_animation,#U5678_animation,#U5415_animation
+#U5671_animation,#U5673_animation,#U5675_animation,#U5678_animation,#U6307_animation
 {
 	width: 980px;
 	height: 240px;
@@ -681,7 +681,7 @@
 	position: relative;
 }
 
-#U6264_animation,#U5419_animation
+#U6264_animation,#U6329_animation
 {
 	width: 728px;
 	height: 90px;
@@ -818,7 +818,7 @@
 	position: relative;
 }
 
-#U5288_animation
+#U6311_animation
 {
 	width: 320px;
 	height: 320px;
@@ -858,7 +858,7 @@
 	position: relative;
 }
 
-#U5538_animation
+#U6315_animation
 {
 	width: 320px;
 	height: 160px;
@@ -899,7 +899,7 @@
 	position: relative;
 }
 
-#U6272_animation,#U5354_animation
+#U6272_animation,#U6328_animation
 {
 	width: 320px;
 	height: 240px;
@@ -1068,7 +1068,7 @@
 	position: relative;
 }
 
-#U5403_animation
+#U6327_animation
 {
 	width: 300px;
 	height: 600px;
@@ -1108,7 +1108,7 @@
 	position: relative;
 }
 
-#U5307_animation
+#U6305_animation
 {
 	width: 300px;
 	height: 250px;
@@ -1150,7 +1150,7 @@
 	position: relative;
 }
 
-#U5314_animation
+#U6302_animation
 {
 	width: 250px;
 	height: 360px;
@@ -1213,8 +1213,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
+	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;
@@ -1255,8 +1255,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
+	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;
