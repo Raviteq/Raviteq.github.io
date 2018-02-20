@@ -1,7 +1,7 @@
 .version.trivselhus___remarketing /* version checker */
 {
-	color: #000015;
-	background-color: #49CE2D;
+	color: #000010;
+	background-color: #AD6AE5;
 }
 
 .html
@@ -559,10 +559,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -601,10 +601,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;

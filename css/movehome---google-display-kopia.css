@@ -1,7 +1,7 @@
 .version.movehome___google_display_kopia /* version checker */
 {
-	color: #000014;
-	background-color: #B29A94;
+	color: #0000E2;
+	background-color: #F66C56;
 }
 
 .html
@@ -381,10 +381,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -423,10 +423,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;

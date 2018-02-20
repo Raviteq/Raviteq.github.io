@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #00001B;
-	background-color: #AADBFC;
+	color: #0000ED;
+	background-color: #EE2D3E;
 }
 
 .html
@@ -1213,10 +1213,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1255,10 +1255,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
