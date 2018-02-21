@@ -1,7 +1,7 @@
 .version.m___adforms_display /* version checker */
 {
-	color: #000005;
-	background-color: #D1951F;
+	color: #0000E5;
+	background-color: #9F6DDA;
 }
 
 .html
@@ -198,26 +198,27 @@
 #u4848
 {
 	z-index: 27;
-	width: 980px;
+	width: 990px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -9px;
 	margin-top: 16px;
 	position: relative;
-	padding: 10px 17px 13.382542372881858px;
+	padding: 10px 5px 13.382542372881858px 19px;
 }
 
-#u6427
+#u6468
 {
-	z-index: 100;
+	z-index: 107;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
+	margin-left: 10px;
 	position: relative;
 }
 
-#U6432_animation
+#U6474_animation
 {
 	width: 980px;
 	height: 240px;
@@ -232,7 +233,6 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 2px;
 	margin-top: 12px;
 	position: relative;
 }
@@ -240,27 +240,26 @@
 #u3645
 {
 	z-index: 28;
-	width: 730px;
+	width: 711px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 34px;
 	margin-top: 12px;
 	position: relative;
-	padding: 14px 56px 11.000000000000455px 21px;
+	padding: 15px 75px 11.000000000000455px 21px;
 }
 
-#u6428
+#u6467
 {
-	z-index: 101;
+	z-index: 106;
 	width: 711px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 19px;
 	position: relative;
 }
 
-#U6436_animation
+#U6470_animation
 {
 	width: 711px;
 	height: 250px;
@@ -275,7 +274,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
+	margin-top: 14px;
 	position: relative;
 }
 
@@ -301,7 +300,7 @@
 
 #u6429
 {
-	z-index: 102;
+	z-index: 100;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -344,7 +343,7 @@
 
 #u6430
 {
-	z-index: 103;
+	z-index: 101;
 	width: 250px;
 	height: 500px;
 	background-color: transparent;
@@ -391,7 +390,7 @@
 
 #u6450
 {
-	z-index: 107;
+	z-index: 105;
 	width: 250px;
 	height: 240px;
 	background-color: transparent;
@@ -433,7 +432,7 @@
 
 #u6449
 {
-	z-index: 106;
+	z-index: 104;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
@@ -474,7 +473,7 @@
 
 #u6447
 {
-	z-index: 104;
+	z-index: 102;
 	width: 980px;
 	height: 140px;
 	background-color: transparent;
@@ -516,7 +515,7 @@
 
 #u6448
 {
-	z-index: 105;
+	z-index: 103;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
