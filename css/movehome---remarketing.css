@@ -1,7 +1,7 @@
 .version.movehome___remarketing /* version checker */
 {
-	color: #0000FD;
-	background-color: #BAA2D0;
+	color: #0000EF;
+	background-color: #93059D;
 }
 
 .html
@@ -38,19 +38,19 @@
 
 #u89
 {
-	z-index: 101;
+	z-index: 100;
 	height: 56px;
 	top: 0px;
 }
 
 #u89-bw
 {
-	z-index: 101;
+	z-index: 100;
 }
 
 #u92
 {
-	z-index: 102;
+	z-index: 101;
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
@@ -58,7 +58,7 @@
 
 #u436
 {
-	z-index: 109;
+	z-index: 108;
 	top: 11px;
 	left: 50%;
 	margin-left: -343px;
@@ -66,7 +66,7 @@
 
 #u574
 {
-	z-index: 103;
+	z-index: 102;
 	width: 189px;
 	padding-bottom: 47px;
 	top: 11px;
@@ -76,7 +76,7 @@
 
 #u90-4
 {
-	z-index: 104;
+	z-index: 103;
 	width: 122px;
 	min-height: 18px;
 	top: 20px;
@@ -86,7 +86,7 @@
 
 #u91
 {
-	z-index: 108;
+	z-index: 107;
 	width: 189px;
 	height: 35px;
 	top: 11px;
@@ -112,7 +112,7 @@
 
 #u1135
 {
-	z-index: 111;
+	z-index: 110;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(-1,0,0,-1,32,32);
@@ -125,7 +125,7 @@
 
 #u1137
 {
-	z-index: 110;
+	z-index: 109;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(0,-1,1,0,0,32);
@@ -142,8 +142,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -183,9 +183,9 @@
 	width: 304px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 328px;
@@ -209,29 +209,12 @@
 #u1109
 {
 	z-index: 28;
-	width: 332px;
+	width: 348px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 7px;
 	position: relative;
-	padding: 29px 8px 7px;
-}
-
-#u1207
-{
-	z-index: 94;
-	width: 300px;
-	height: 250px;
-	background-color: transparent;
-	margin-left: 12px;
-	position: relative;
-}
-
-#U2145_animation
-{
-	width: 300px;
-	height: 250px;
-	border: none;
 }
 
 #u1119-6
@@ -242,8 +225,10 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 20px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 299px;
+	left: 8px;
 }
 
 #u1118
@@ -260,7 +245,7 @@
 
 #u1218
 {
-	z-index: 96;
+	z-index: 95;
 	width: 320px;
 	height: 50px;
 	background-color: transparent;
@@ -302,7 +287,7 @@
 
 #u1213
 {
-	z-index: 95;
+	z-index: 94;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
@@ -344,7 +329,7 @@
 
 #u1231
 {
-	z-index: 98;
+	z-index: 97;
 	width: 580px;
 	height: 400px;
 	background-color: transparent;
@@ -386,7 +371,7 @@
 
 #u1225
 {
-	z-index: 97;
+	z-index: 96;
 	width: 468px;
 	height: 60px;
 	background-color: transparent;
@@ -428,7 +413,7 @@
 
 #u1236
 {
-	z-index: 99;
+	z-index: 98;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
@@ -470,7 +455,7 @@
 
 #u1244
 {
-	z-index: 100;
+	z-index: 99;
 	width: 980px;
 	height: 120px;
 	background-color: transparent;
@@ -540,10 +525,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -582,10 +567,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
