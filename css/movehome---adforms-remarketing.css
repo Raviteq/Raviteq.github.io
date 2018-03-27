@@ -1,7 +1,7 @@
 .version.movehome___adforms_remarketing /* version checker */
 {
-	color: #000002;
-	background-color: #253125;
+	color: #0000F8;
+	background-color: #06D91D;
 }
 
 .html
@@ -143,8 +143,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -223,7 +223,7 @@
 
 #u6564
 {
-	z-index: 97;
+	z-index: 95;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
@@ -348,27 +348,26 @@
 #u5782
 {
 	z-index: 22;
-	width: 257px;
+	width: 250px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
-	padding: 31px 21px 13px 14px;
+	padding: 19px 28px 13px 14px;
 }
 
-#u6558
+#u6634
 {
-	z-index: 98;
+	z-index: 99;
 	width: 250px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 7px;
 	position: relative;
 }
 
-#U6586_animation
+#U6645_animation
 {
 	width: 250px;
 	height: 600px;
@@ -383,7 +382,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 30px;
 	position: relative;
 }
 
@@ -397,20 +396,20 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 309px;
-	padding: 42px 33px 14.450000000000387px 14px;
+	padding: 20px 33px 14px 14px;
 }
 
-#u6560
+#u6635
 {
-	z-index: 96;
+	z-index: 97;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 6px;
+	margin-left: 3px;
 	position: relative;
 }
 
-#U6578_animation
+#U6637_animation
 {
 	width: 160px;
 	height: 600px;
@@ -425,7 +424,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-top: 29px;
 	position: relative;
 }
 
@@ -444,7 +443,7 @@
 
 #u6563
 {
-	z-index: 99;
+	z-index: 96;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -480,12 +479,12 @@
 	left: -38px;
 	margin-top: 14px;
 	position: relative;
-	padding: 15px 33px 13px 14px;
+	padding: 23px 33px 13.000000000000455px 14px;
 }
 
-#u6561
+#u6633
 {
-	z-index: 95;
+	z-index: 98;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
@@ -493,7 +492,7 @@
 	position: relative;
 }
 
-#U6574_animation
+#U6641_animation
 {
 	width: 980px;
 	height: 240px;
@@ -508,7 +507,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 29px;
+	margin-top: 21px;
 	position: relative;
 }
 
