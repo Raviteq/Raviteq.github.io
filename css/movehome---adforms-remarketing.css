@@ -1,7 +1,7 @@
 .version.movehome___adforms_remarketing /* version checker */
 {
-	color: #0000ED;
-	background-color: #6AEBC5;
+	color: #0000F3;
+	background-color: #59FFD8;
 }
 
 .html
@@ -33,7 +33,7 @@
 #pu89
 {
 	width: 0.01px;
-	padding-bottom: 58px;
+	padding-bottom: 56px;
 	margin-left: -100px;
 }
 
@@ -69,7 +69,7 @@
 {
 	z-index: 102;
 	width: 189px;
-	padding-bottom: 47px;
+	padding-bottom: 35px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
@@ -106,7 +106,7 @@
 #top
 {
 	left: -100px;
-	top: -58px;
+	top: -56px;
 	margin-bottom: -18px;
 	position: relative;
 }
@@ -148,7 +148,7 @@
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
-	margin-top: 60px;
+	margin-top: 62px;
 	position: relative;
 }
 
@@ -563,8 +563,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;
@@ -605,8 +605,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;

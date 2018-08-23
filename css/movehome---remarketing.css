@@ -1,7 +1,7 @@
 .version.movehome___remarketing /* version checker */
 {
-	color: #0000EF;
-	background-color: #93059D;
+	color: #000014;
+	background-color: #1805F2;
 }
 
 .html
@@ -32,7 +32,7 @@
 #pu89
 {
 	width: 0.01px;
-	padding-bottom: 58px;
+	padding-bottom: 56px;
 	margin-left: -100px;
 }
 
@@ -68,7 +68,7 @@
 {
 	z-index: 102;
 	width: 189px;
-	padding-bottom: 47px;
+	padding-bottom: 35px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
@@ -105,7 +105,7 @@
 #toppen
 {
 	left: -100px;
-	top: -58px;
+	top: -56px;
 	margin-bottom: -18px;
 	position: relative;
 }
@@ -147,7 +147,7 @@
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
-	margin-top: 60px;
+	margin-top: 62px;
 	position: relative;
 }
 
