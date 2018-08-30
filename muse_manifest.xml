@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1535619553269">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1535621269434">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="524099259" ref="index"/>
-    <file name="master_a-master.css" crc="4070845927" ref="trivselhus---display:movehome---google-display-kopia:index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display:trivselhus---remarketing:movehome---adforms-remarketing:trivselhus---adform-remarketing:m---adforms-display:tr---adform-display"/>
+    <file name="master_a-master.css" crc="4223927608" ref="trivselhus---display:movehome---google-display-kopia:index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display:trivselhus---remarketing:movehome---adforms-remarketing:trivselhus---adform-remarketing:m---adforms-display:tr---adform-display"/>
     <file name="trivselhus---display.css" crc="3897135786" ref="trivselhus---display"/>
     <file name="movehome---google-display-kopia.css" crc="4243711901" ref="movehome---google-display-kopia"/>
     <file name="movehome---remarketing.css" crc="337118706" ref="movehome---remarketing"/>
@@ -13,33 +13,33 @@
     <file name="movehome---adforms-remarketing.css" crc="4082761688" ref="movehome---adforms-remarketing"/>
     <file name="trivselhus---adform-remarketing.css" crc="4228789113" ref="trivselhus---adform-remarketing"/>
     <file name="m---adforms-display.css" crc="4053226597" ref="m---adforms-display"/>
-    <file name="tr---adform-display.css" crc="4178746408" ref="tr---adform-display"/>
+    <file name="tr---adform-display.css" crc="453163449" ref="tr---adform-display"/>
   </folder>
   <folder name="assets">
     <folder name="980x24010">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1535552299000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1535619811000"/>
       </folder>
       <folder name="images">
-        <file name="animated_button_standard.png" crc="276052936" mt="1535552299000"/>
-        <file name="bg.jpg" crc="4009106860" mt="1535552299000"/>
-        <file name="book.png" crc="4239139397" mt="1535552299000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1535552299000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1535552299000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1535552299000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1535552299000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1535552299000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1535552299000"/>
-        <file name="logo25.svg" crc="460232139" mt="1535552299000"/>
-        <file name="text-01.svg" crc="117985365" mt="1535552299000"/>
-        <file name="text-02.svg" crc="436190076" mt="1535552299000"/>
-        <file name="text-03.svg" crc="142429468" mt="1535552299000"/>
-        <file name="text-04.svg" crc="3977007786" mt="1535552299000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1535552299000"/>
+        <file name="animated_button_standard.png" crc="276052936" mt="1535619811000"/>
+        <file name="bg.jpg" crc="4009106860" mt="1535619811000"/>
+        <file name="book.png" crc="4239139397" mt="1535619811000"/>
+        <file name="animated_button_standardlong.svg" crc="474230334" mt="1535619811000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1535619811000"/>
+        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1535619811000"/>
+        <file name="animated_button_standardshort.svg" crc="317668044" mt="1535619811000"/>
+        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1535619811000"/>
+        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1535619811000"/>
+        <file name="logo25.svg" crc="460232139" mt="1535619811000"/>
+        <file name="text-01.svg" crc="117985365" mt="1535619811000"/>
+        <file name="text-02.svg" crc="436190076" mt="1535619811000"/>
+        <file name="text-03.svg" crc="142429468" mt="1535619811000"/>
+        <file name="text-04.svg" crc="3977007786" mt="1535619811000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1535619811000"/>
       </folder>
-      <file name="transparent.png" crc="4096946367" mt="1535552299000"/>
-      <file name="980x240_edge.js" crc="380467724" mt="1535552299000"/>
-      <file name="980x240.html" crc="4268556174" mt="1535552299000"/>
+      <file name="transparent.png" crc="4096946367" mt="1535619811000"/>
+      <file name="980x240_edge.js" crc="4145593366" mt="1535619811000"/>
+      <file name="980x240.html" crc="4268556174" mt="1535619811000"/>
     </folder>
     <folder name="980x2409">
       <folder name="edge_includes">
@@ -2106,5 +2106,5 @@
   <file name="movehome---adforms-remarketing.html" crc="373698758" seo="true" mt="1535015669201" redirect="true"/>
   <file name="trivselhus---adform-remarketing.html" crc="4093528878" seo="true" mt="1535015669201" redirect="true"/>
   <file name="m---adforms-display.html" crc="4006026989" seo="true" mt="1535015669201" redirect="true"/>
-  <file name="tr---adform-display.html" crc="535699282" seo="true" mt="1535619270641" redirect="true"/>
+  <file name="tr---adform-display.html" crc="206981406" seo="true" mt="1535621234868" redirect="true"/>
 </manifest>
