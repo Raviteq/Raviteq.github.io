@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #000005;
-	background-color: #CED1CF;
+	color: #0000F9;
+	background-color: #129C28;
 }
 
 .html
@@ -142,8 +142,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -185,9 +185,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -197,18 +197,53 @@
 
 #u6997
 {
-	z-index: 244;
-	width: 984px;
+	z-index: 236;
+	width: 985px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -55px;
 	margin-top: 14px;
 	position: relative;
-	padding: 11px 34px 27.050000000000864px 30px;
+	padding: 18px 33px 27.050000000000864px 30px;
 }
 
-#u6999
+#u7007
+{
+	z-index: 250;
+	width: 980px;
+	height: 240px;
+	background-color: transparent;
+	margin-left: 5px;
+	position: relative;
+}
+
+#u6998-6
+{
+	z-index: 237;
+	width: 293px;
+	min-height: 34px;
+	background-color: transparent;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u7005
+{
+	z-index: 243;
+	width: 984px;
+	-pie-box-shadow: 0px 2px 4px #E5E5E5;
+	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+	background-color: #FFFFFF;
+	left: -35px;
+	margin-top: 40px;
+	position: relative;
+	padding: 17px 34px 27.300000000001432px 30px;
+}
+
+#u7012
 {
 	z-index: 251;
 	width: 980px;
@@ -218,57 +253,15 @@
 	position: relative;
 }
 
-#u6998-6
+#u7006-6
 {
-	z-index: 245;
+	z-index: 244;
 	width: 293px;
 	min-height: 34px;
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 16px;
-	position: relative;
-}
-
-#u6945
-{
-	z-index: 236;
-	width: 546px;
-	-pie-box-shadow: 0px 2px 4px #E5E5E5;
-	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
-	background-color: #FFFFFF;
-	margin-left: 215px;
-	margin-top: 14px;
-	position: relative;
-	padding: 19px 39px 14.017420814478555px 9px;
-}
-
-#u6947
-{
-	z-index: 243;
-	width: 540px;
-	height: 400px;
-	background-color: transparent;
-	margin-left: 6px;
-	position: relative;
-}
-
-#U6949_animation
-{
-	width: 540px;
-	height: 400px;
-	border: none;
-}
-
-#u6946-6
-{
-	z-index: 237;
-	width: 170px;
-	min-height: 36px;
-	background-color: transparent;
-	font-family: abel, sans-serif;
-	font-weight: 400;
-	margin-top: 11px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -280,7 +273,7 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -23px;
-	margin-top: 12px;
+	margin-top: 138px;
 	position: relative;
 	padding: 13px 20px 18px 24px;
 }
@@ -717,7 +710,7 @@
 	position: relative;
 }
 
-#U7001_animation,#U5671_animation,#U5673_animation,#U5675_animation,#U5678_animation,#U6307_animation
+#U7009_animation,#U7014_animation,#U5671_animation,#U5673_animation,#U5675_animation,#U5678_animation,#U6307_animation
 {
 	width: 980px;
 	height: 240px;
@@ -1246,7 +1239,7 @@
 	position: relative;
 }
 
-#u6998-4,#u6946-4,#u5897-4,#u6280-4,#u6282-4,#u6284-4,#u5326-4,#u5665-4,#u5667-4,#u5669-4,#u5244-4,#u4321-4,#u5110-4,#u5117-4,#u5124-4,#u5131-4,#u5138-4,#u5152-4,#u5166-4,#u5159-4,#u5187-4,#u5201-4,#u5145-4,#u5173-4,#u5180-4,#u5194-4
+#u6998-4,#u7006-4,#u5897-4,#u6280-4,#u6282-4,#u6284-4,#u5326-4,#u5665-4,#u5667-4,#u5669-4,#u5244-4,#u4321-4,#u5110-4,#u5117-4,#u5124-4,#u5131-4,#u5138-4,#u5152-4,#u5166-4,#u5159-4,#u5187-4,#u5201-4,#u5145-4,#u5173-4,#u5180-4,#u5194-4
 {
 	font-size: 12px;
 	line-height: 14px;
@@ -1290,10 +1283,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1332,10 +1325,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
