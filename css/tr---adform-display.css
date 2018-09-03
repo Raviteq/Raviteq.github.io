@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000E4;
-	background-color: #85DCC4;
+	color: #0000F7;
+	background-color: #1758C8;
 }
 
 .html
@@ -142,8 +142,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -185,9 +185,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -198,27 +198,26 @@
 #u6997
 {
 	z-index: 128;
-	width: 984px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -55px;
 	margin-top: 14px;
 	position: relative;
-	padding: 15px 34px 27px 30px;
+	padding: 15px 38px 27.050000000000864px 30px;
 }
 
-#u7086
+#u7151
 {
-	z-index: 135;
+	z-index: 141;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 4px;
 	position: relative;
 }
 
-#U7094_animation
+#U7153_animation
 {
 	width: 980px;
 	height: 240px;
@@ -247,19 +246,19 @@
 	left: -43px;
 	margin-top: 65px;
 	position: relative;
-	padding: 14px 22px 18.150000000000205px;
+	padding: 14px 22px 18.149999999999977px;
 }
 
-#u7121
+#u7156
 {
-	z-index: 143;
+	z-index: 142;
 	width: 980px;
 	height: 140px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7130_animation
+#U7159_animation
 {
 	width: 980px;
 	height: 140px;
@@ -289,19 +288,19 @@
 	left: -43px;
 	margin-top: 12px;
 	position: relative;
-	padding: 12px 34px 22.0499999999995px 18px;
+	padding: 20px 32px 22px 20px;
 }
 
-#u7122
+#u7157
 {
-	z-index: 145;
+	z-index: 143;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7138_animation
+#U7163_animation
 {
 	width: 728px;
 	height: 90px;
@@ -316,8 +315,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 2px;
-	margin-top: 24px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -342,7 +340,7 @@
 
 #u7123
 {
-	z-index: 142;
+	z-index: 139;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
@@ -385,7 +383,7 @@
 
 #u7124
 {
-	z-index: 144;
+	z-index: 140;
 	width: 250px;
 	height: 240px;
 	background-color: transparent;
@@ -421,19 +419,19 @@
 	left: -43px;
 	margin-top: 92px;
 	position: relative;
-	padding: 8px 25px 27px 30px;
+	padding: 12px 36px 27px 19px;
 }
 
-#u7141
+#u7166
 {
-	z-index: 147;
+	z-index: 145;
 	width: 711px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7148_animation
+#U7173_animation
 {
 	width: 711px;
 	height: 250px;
@@ -448,7 +446,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
+	margin-left: 11px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -469,19 +468,19 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 36px;
-	padding: 29px 26px 15px 18px;
+	padding: 23px 22px 15px;
 }
 
-#u7142
+#u7167
 {
-	z-index: 146;
+	z-index: 144;
 	width: 250px;
 	height: 500px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7144_animation
+#U7169_animation
 {
 	width: 250px;
 	height: 500px;
@@ -496,8 +495,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 12px;
-	margin-top: 23px;
+	margin-left: 8px;
+	margin-top: 29px;
 	position: relative;
 }
 
@@ -514,16 +513,16 @@
 	padding: 20px 31px 21.150000000005548px 27px;
 }
 
-#u7092
+#u7177
 {
-	z-index: 137;
+	z-index: 146;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7102_animation
+#U7179_animation
 {
 	width: 160px;
 	height: 600px;
@@ -552,19 +551,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 588px;
-	padding: 20px 10px 21.15000000000191px 20px;
+	padding: 20px 18px 21.150000000001455px 12px;
 }
 
-#u7091
+#u7176
 {
-	z-index: 139;
+	z-index: 147;
 	width: 250px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7110_animation
+#U7183_animation
 {
 	width: 250px;
 	height: 600px;
@@ -579,7 +578,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 14px;
+	margin-left: 22px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -610,7 +609,7 @@
 
 #u7087
 {
-	z-index: 136;
+	z-index: 135;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -650,7 +649,7 @@
 
 #u7088
 {
-	z-index: 138;
+	z-index: 136;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
@@ -699,7 +698,7 @@
 
 #u7090
 {
-	z-index: 140;
+	z-index: 137;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
@@ -741,7 +740,7 @@
 
 #u7089
 {
-	z-index: 141;
+	z-index: 138;
 	width: 250px;
 	height: 360px;
 	background-color: transparent;
@@ -812,10 +811,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -854,10 +853,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
+	color: #FFFFFF;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
