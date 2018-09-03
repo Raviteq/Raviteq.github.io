@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000F7;
-	background-color: #1758C8;
+	color: #000019;
+	background-color: #5A3603;
 }
 
 .html
@@ -142,8 +142,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -185,9 +185,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -288,19 +288,19 @@
 	left: -43px;
 	margin-top: 12px;
 	position: relative;
-	padding: 20px 32px 22px 20px;
+	padding: 27px 32px 22.19999999999959px 20px;
 }
 
-#u7157
+#u7191
 {
-	z-index: 143;
+	z-index: 147;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7163_animation
+#U7193_animation
 {
 	width: 728px;
 	height: 90px;
@@ -315,7 +315,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 16px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -424,7 +424,7 @@
 
 #u7166
 {
-	z-index: 145;
+	z-index: 144;
 	width: 711px;
 	height: 250px;
 	background-color: transparent;
@@ -473,7 +473,7 @@
 
 #u7167
 {
-	z-index: 144;
+	z-index: 143;
 	width: 250px;
 	height: 500px;
 	background-color: transparent;
@@ -503,26 +503,27 @@
 #u5172
 {
 	z-index: 101;
-	width: 160px;
+	width: 162px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 358px;
-	padding: 20px 31px 21.150000000005548px 27px;
+	padding: 20px 29px 21.150000000005548px 27px;
 }
 
-#u7177
+#u7186
 {
 	z-index: 146;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
+	margin-left: 2px;
 	position: relative;
 }
 
-#U7179_animation
+#U7188_animation
 {
 	width: 160px;
 	height: 600px;
@@ -556,7 +557,7 @@
 
 #u7176
 {
-	z-index: 147;
+	z-index: 145;
 	width: 250px;
 	height: 600px;
 	background-color: transparent;
@@ -811,10 +812,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -853,10 +854,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
