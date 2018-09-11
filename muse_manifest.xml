@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1536663654591">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1536664554611">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="524099259" ref="index"/>
