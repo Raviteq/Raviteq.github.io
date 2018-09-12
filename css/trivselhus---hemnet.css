@@ -1,7 +1,7 @@
 .version.trivselhus___hemnet /* version checker */
 {
-	color: #000018;
-	background-color: #A869AC;
+	color: #0000EA;
+	background-color: #F19610;
 }
 
 .html
@@ -196,10 +196,10 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 28px;
-	padding: 19px 26px 15.126478278358434px 31px;
+	padding: 10px 26px 15.126478278358434px 31px;
 }
 
-#u7340
+#u7355
 {
 	z-index: 100;
 	width: 320px;
@@ -216,7 +216,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 6px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -306,10 +306,10 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 28px;
-	padding: 15px 37px 17.426478278358275px 20px;
+	padding: 10px 37px 17.426478278358275px 20px;
 }
 
-#u7330
+#u7345
 {
 	z-index: 98;
 	width: 320px;
@@ -327,7 +327,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -425,20 +425,19 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 28px;
-	padding: 8px 41px 14.07647827835882px 16px;
+	padding: 7px 41px 14.07647827835882px 16px;
 }
 
-#u7335
+#u7350
 {
 	z-index: 99;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
-	margin-left: 4px;
 	position: relative;
 }
 
-#U7342_animation,#U7332_animation,#U7337_animation
+#U7357_animation,#U7347_animation,#U7352_animation
 {
 	width: 320px;
 	height: 320px;
@@ -453,7 +452,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-top: 11px;
 	position: relative;
 }
 
