@@ -1,7 +1,7 @@
 .version.movehome___hemnet /* version checker */
 {
-	color: #000015;
-	background-color: #4F0D90;
+	color: #0000FC;
+	background-color: #0C08E2;
 }
 
 .html
@@ -187,9 +187,9 @@
 	padding: 12px 14px 15px;
 }
 
-#u7361
+#u7390
 {
-	z-index: 83;
+	z-index: 87;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -223,7 +223,7 @@
 
 #u7362
 {
-	z-index: 85;
+	z-index: 84;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -258,7 +258,7 @@
 
 #u7360
 {
-	z-index: 84;
+	z-index: 83;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
@@ -294,19 +294,19 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 10px 14px 15px;
+	padding: 14px 18px 15px 10px;
 }
 
-#u7375
+#u7395
 {
-	z-index: 86;
+	z-index: 88;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7364_animation,#U7379_animation
+#U7392_animation,#U7397_animation
 {
 	width: 320px;
 	height: 320px;
@@ -321,8 +321,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 6px;
-	margin-top: 13px;
+	margin-left: 10px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -341,7 +341,7 @@
 
 #u7376
 {
-	z-index: 87;
+	z-index: 85;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -382,7 +382,7 @@
 
 #u7377
 {
-	z-index: 88;
+	z-index: 86;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
@@ -452,10 +452,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	line-height: 19px;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -494,10 +494,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	line-height: 19px;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
