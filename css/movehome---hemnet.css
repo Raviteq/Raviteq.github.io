@@ -1,7 +1,7 @@
 .version.movehome___hemnet /* version checker */
 {
-	color: #00000F;
-	background-color: #01EB84;
+	color: #0000EF;
+	background-color: #FD1410;
 }
 
 .html
@@ -302,9 +302,9 @@
 	padding: 14px 14px 15.020727071601243px;
 }
 
-#u7422
+#u7451
 {
-	z-index: 107;
+	z-index: 112;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -339,7 +339,7 @@
 
 #u7421
 {
-	z-index: 109;
+	z-index: 107;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -369,12 +369,12 @@
 	margin-left: 110px;
 	margin-top: 19px;
 	position: relative;
-	padding: 21px 29px 17.13519306544555px 23px;
+	padding: 22px 26px 17.13519306544555px;
 }
 
-#u7423
+#u7452
 {
-	z-index: 108;
+	z-index: 111;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
@@ -389,8 +389,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 14px;
-	margin-top: 17px;
+	margin-left: 11px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -415,14 +415,14 @@
 
 #u7438
 {
-	z-index: 110;
+	z-index: 108;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7410_animation,#U7425_animation,#U7440_animation
+#U7410_animation,#U7458_animation,#U7440_animation
 {
 	width: 320px;
 	height: 320px;
@@ -457,7 +457,7 @@
 
 #u7436
 {
-	z-index: 111;
+	z-index: 109;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
@@ -499,14 +499,14 @@
 
 #u7437
 {
-	z-index: 112;
+	z-index: 110;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7414_animation,#U7429_animation,#U7448_animation
+#U7414_animation,#U7454_animation,#U7448_animation
 {
 	width: 740px;
 	height: 160px;
@@ -569,10 +569,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	line-height: 19px;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -611,10 +611,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	line-height: 19px;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
