@@ -1,7 +1,7 @@
 .version.mm___adforms_display /* version checker */
 {
-	color: #000015;
-	background-color: #0594F2;
+	color: #0000F6;
+	background-color: #8A45E9;
 }
 
 .html
@@ -38,19 +38,19 @@
 
 #u89
 {
-	z-index: 108;
+	z-index: 102;
 	height: 56px;
 	top: 0px;
 }
 
 #u89-bw
 {
-	z-index: 108;
+	z-index: 102;
 }
 
 #u92
 {
-	z-index: 109;
+	z-index: 103;
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
@@ -58,7 +58,7 @@
 
 #u436
 {
-	z-index: 116;
+	z-index: 110;
 	top: 11px;
 	left: 50%;
 	margin-left: -343px;
@@ -66,7 +66,7 @@
 
 #u574
 {
-	z-index: 110;
+	z-index: 104;
 	width: 189px;
 	padding-bottom: 35px;
 	top: 11px;
@@ -76,7 +76,7 @@
 
 #u90-4
 {
-	z-index: 111;
+	z-index: 105;
 	width: 122px;
 	min-height: 18px;
 	top: 20px;
@@ -86,7 +86,7 @@
 
 #u91
 {
-	z-index: 115;
+	z-index: 109;
 	width: 189px;
 	height: 35px;
 	top: 11px;
@@ -142,8 +142,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -185,9 +185,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -198,23 +198,26 @@
 #u4848
 {
 	z-index: 27;
-	width: 980px;
+	width: 1014px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 54px;
 	left: -9px;
 	margin-top: 16px;
 	position: relative;
-	padding: 12px 21px 13px 13px;
 }
 
 #u7606
 {
-	z-index: 103;
+	z-index: 97;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 13px;
 }
 
 #U7623_animation
@@ -222,19 +225,6 @@
 	width: 980px;
 	height: 240px;
 	border: none;
-}
-
-#u4849-6
-{
-	z-index: 64;
-	width: 165px;
-	min-height: 31px;
-	background-color: transparent;
-	font-family: abel, sans-serif;
-	font-weight: 400;
-	margin-left: 6px;
-	margin-top: 10px;
-	position: relative;
 }
 
 #u3645
@@ -252,7 +242,7 @@
 
 #u7607
 {
-	z-index: 100;
+	z-index: 94;
 	width: 711px;
 	height: 250px;
 	background-color: transparent;
@@ -301,7 +291,7 @@
 
 #u7608
 {
-	z-index: 101;
+	z-index: 95;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -318,7 +308,7 @@
 
 #u6136-6
 {
-	z-index: 70;
+	z-index: 64;
 	width: 176px;
 	min-height: 30px;
 	background-color: transparent;
@@ -344,7 +334,7 @@
 
 #u7609
 {
-	z-index: 102;
+	z-index: 96;
 	width: 250px;
 	height: 500px;
 	background-color: transparent;
@@ -391,7 +381,7 @@
 
 #u7629
 {
-	z-index: 104;
+	z-index: 98;
 	width: 250px;
 	height: 240px;
 	background-color: transparent;
@@ -407,7 +397,7 @@
 
 #u6258-6
 {
-	z-index: 94;
+	z-index: 88;
 	width: 231px;
 	min-height: 30px;
 	background-color: transparent;
@@ -434,7 +424,7 @@
 
 #u7628
 {
-	z-index: 105;
+	z-index: 99;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
@@ -450,7 +440,7 @@
 
 #u6255-6
 {
-	z-index: 76;
+	z-index: 70;
 	width: 176px;
 	min-height: 30px;
 	background-color: transparent;
@@ -475,7 +465,7 @@
 
 #u7626
 {
-	z-index: 107;
+	z-index: 101;
 	width: 980px;
 	height: 140px;
 	background-color: transparent;
@@ -491,7 +481,7 @@
 
 #u6256-6
 {
-	z-index: 82;
+	z-index: 76;
 	width: 176px;
 	min-height: 30px;
 	background-color: transparent;
@@ -517,7 +507,7 @@
 
 #u7627
 {
-	z-index: 106;
+	z-index: 100;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
@@ -534,7 +524,7 @@
 
 #u6257-6
 {
-	z-index: 88;
+	z-index: 82;
 	width: 176px;
 	min-height: 30px;
 	background-color: transparent;
@@ -544,7 +534,7 @@
 	position: relative;
 }
 
-#u4849-4,#u3499-4,#u6136-4,#u4851-4,#u6258-4,#u6255-4,#u6256-4,#u6257-4
+#u3499-4,#u6136-4,#u4851-4,#u6258-4,#u6255-4,#u6256-4,#u6257-4
 {
 	font-size: 12px;
 	line-height: 14px;
@@ -587,10 +577,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -629,10 +619,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;

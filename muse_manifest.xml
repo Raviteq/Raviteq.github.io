@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1540198374391">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1540199134203">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="271136098" ref="index"/>
-    <file name="master_a-master.css" crc="4070845927" ref="trivselhus---display:movehome---google-display-kopia:index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display:trivselhus---remarketing:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
+    <file name="master_a-master.css" crc="96614367" ref="trivselhus---display:movehome---google-display-kopia:index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display:trivselhus---remarketing:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
     <file name="trivselhus---display.css" crc="3897135786" ref="trivselhus---display"/>
     <file name="movehome---google-display-kopia.css" crc="4243711901" ref="movehome---google-display-kopia"/>
     <file name="movehome---remarketing.css" crc="337118706" ref="movehome---remarketing"/>
@@ -13,7 +13,7 @@
     <file name="movehome---adforms-remarketing.css" crc="4082761688" ref="movehome---adforms-remarketing"/>
     <file name="trivselhus---adform-remarketing.css" crc="4228789113" ref="trivselhus---adform-remarketing"/>
     <file name="tr---adform-display.css" crc="3922771501" ref="tr---adform-display"/>
-    <file name="mm---adforms-display.css" crc="352687346" ref="mm---adforms-display"/>
+    <file name="mm---adforms-display.css" crc="4136257001" ref="mm---adforms-display"/>
   </folder>
   <folder name="assets">
     <folder name="320x3207">
@@ -1528,24 +1528,24 @@
   </folder>
   <folder name="images">
     <file name="adrapid logo 3x1 text white new.svg" crc="374240259" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="google_2015_logo.svg" crc="393842578" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:movehome---google-display-kopia"/>
     <file name="google_2015_logo_poster_.png" crc="3766800147" ref="index"/>
     <file name="mail.svg" crc="341753094" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="mail_poster_.png" crc="4101486600" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="mail_poster_.png" crc="4101486600" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="facebook.svg" crc="426374568" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="facebook_poster_.png" crc="436869026" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="facebook_poster_.png" crc="436869026" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="youtube.svg" crc="4147027439" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="youtube_poster_.png" crc="176465924" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="youtube_poster_.png" crc="176465924" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="twitter.svg" crc="3934615787" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="twitter_poster_.png" crc="70529161" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="twitter_poster_.png" crc="70529161" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="googleplus.svg" crc="4118354756" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="googleplus_poster_.png" crc="372156627" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="googleplus_poster_.png" crc="372156627" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="linkedin.svg" crc="4186885566" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="linkedin_poster_.png" crc="183638388" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="linkedin_poster_.png" crc="183638388" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="pattern-1.jpg" crc="4229835355" ref="index"/>
     <file name="th-logo2_7508-rgb.svg" crc="505020504" ref="index:trivselhus---display:movehome---google-display:movehome---remarketing:trivselhus---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display-kopia:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
-    <file name="th-logo2_7508-rgb_poster_.png" crc="4139731051" ref="index:trivselhus---hemnet:movehome---hemnet"/>
+    <file name="th-logo2_7508-rgb_poster_.png" crc="4139731051" ref="index:trivselhus---hemnet:movehome---hemnet:mm---adforms-display"/>
     <file name="th-logo1_7508-rgb.svg" crc="3898594176" ref="index"/>
     <file name="th-logo1_7508-rgb_poster_.png" crc="4003901062" ref="index"/>
     <file name="hemnet.svg" crc="268460664" ref="index:trivselhus---hemnet:movehome---hemnet"/>
@@ -1567,5 +1567,5 @@
   <file name="movehome---adforms-remarketing.html" crc="373698758" seo="true" mt="1535015669201" redirect="true"/>
   <file name="trivselhus---adform-remarketing.html" crc="4093528878" seo="true" mt="1535015669201" redirect="true"/>
   <file name="tr---adform-display.html" crc="4009560618" seo="true" mt="1536663385979" redirect="true"/>
-  <file name="mm---adforms-display.html" crc="163309313" seo="true" mt="1540198286762" redirect="true"/>
+  <file name="mm---adforms-display.html" crc="4171444804" seo="true" mt="1540199097193" redirect="true"/>
 </manifest>
