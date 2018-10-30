@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1540901710805">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1540903421313">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="index.css" crc="271136098" ref="index"/>
-    <file name="master_a-master.css" crc="4223927608" ref="trivselhus---display:movehome---google-display-kopia:index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display:trivselhus---remarketing:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
+    <file name="master_a-master.css" crc="96614367" ref="trivselhus---display:movehome---google-display-kopia:index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:movehome---google-display:trivselhus---remarketing:movehome---adforms-remarketing:trivselhus---adform-remarketing:tr---adform-display:mm---adforms-display"/>
     <file name="trivselhus---display.css" crc="3897135786" ref="trivselhus---display"/>
     <file name="movehome---google-display-kopia.css" crc="4243711901" ref="movehome---google-display-kopia"/>
     <file name="movehome---remarketing.css" crc="337118706" ref="movehome---remarketing"/>
     <file name="trivselhus---hemnet.css" crc="4222005034" ref="trivselhus---hemnet"/>
-    <file name="movehome---hemnet.css" crc="185735192" ref="movehome---hemnet"/>
+    <file name="movehome---hemnet.css" crc="477151255" ref="movehome---hemnet"/>
     <file name="movehome---google-display.css" crc="3851816656" ref="movehome---google-display"/>
     <file name="trivselhus---remarketing.css" crc="3784180127" ref="trivselhus---remarketing"/>
     <file name="movehome---adforms-remarketing.css" crc="4082761688" ref="movehome---adforms-remarketing"/>
@@ -1581,7 +1581,7 @@
   <file name="movehome---remarketing.html" crc="4143566509" seo="true" mt="1535015669201" redirect="true"/>
   <file name="trivselhus---remarketing.html" crc="3886954173" seo="true" mt="1535015669201" redirect="true"/>
   <file name="trivselhus---hemnet.html" crc="3877955805" seo="true" mt="1540382463428" redirect="true"/>
-  <file name="movehome---hemnet.html" crc="3900610302" seo="true" mt="1540901654893" redirect="true"/>
+  <file name="movehome---hemnet.html" crc="495185769" seo="true" mt="1540903389853" redirect="true"/>
   <file name="movehome---google-display-kopia.html" crc="185121801" seo="true" mt="1535015669201" redirect="true"/>
   <file name="movehome---adforms-remarketing.html" crc="373698758" seo="true" mt="1535015669201" redirect="true"/>
   <file name="trivselhus---adform-remarketing.html" crc="4093528878" seo="true" mt="1535015669201" redirect="true"/>
