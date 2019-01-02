@@ -49,7 +49,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/movehome---google-display-kopia.html</loc>
+    <loc>http://platform.adrapid.com/testbanner/trivselhus/mm---adforms-display.html</loc>
+    <lastmod>2018-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://platform.adrapid.com/testbanner/trivselhus/tr---adform-display.html</loc>
+    <lastmod>2019-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://platform.adrapid.com/testbanner/trivselhus/trivselhus---adform-remarketing.html</loc>
     <lastmod>2018-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,20 +73,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/trivselhus---adform-remarketing.html</loc>
+    <loc>http://platform.adrapid.com/testbanner/trivselhus/movehome---google-display-kopia.html</loc>
     <lastmod>2018-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/tr---adform-display.html</loc>
-    <lastmod>2019-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/mm---adforms-display.html</loc>
-    <lastmod>2018-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

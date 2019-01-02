@@ -1,7 +1,7 @@
 .version.movehome___google_display_kopia /* version checker */
 {
-	color: #0000FC;
-	background-color: #F1E79D;
+	color: #00000E;
+	background-color: #598E45;
 }
 
 .html
@@ -133,8 +133,8 @@
 	width: 871px;
 	min-height: 119px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	margin-left: 45px;
 	margin-top: 100px;
 	position: relative;

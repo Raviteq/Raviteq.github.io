@@ -1,7 +1,7 @@
 .version.movehome___adforms_remarketing /* version checker */
 {
-	color: #00000E;
-	background-color: #FD205A;
+	color: #0000E9;
+	background-color: #EA04D2;
 }
 
 .html
@@ -186,9 +186,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -563,10 +563,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -605,10 +605,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.movehome___hemnet /* version checker */
 {
-	color: #00001C;
-	background-color: #70C017;
+	color: #000010;
+	background-color: #E0154B;
 }
 
 .html
@@ -133,8 +133,8 @@
 	width: 871px;
 	min-height: 119px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
