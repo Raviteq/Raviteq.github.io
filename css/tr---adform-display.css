@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #000013;
-	background-color: #645696;
+	color: #00000D;
+	background-color: #26FF0B;
 }
 
 .html
@@ -202,12 +202,12 @@
 	left: -39px;
 	margin-top: 19px;
 	position: relative;
-	padding: 19px 24px 20px 12px;
+	padding: 17px 23px 20px 13px;
 }
 
-#u8012
+#u8022
 {
-	z-index: 221;
+	z-index: 220;
 	width: 980px;
 	height: 120px;
 	background-color: transparent;
@@ -222,8 +222,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 5px;
-	margin-top: 13px;
+	margin-left: 4px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -237,12 +237,12 @@
 	margin-left: 285px;
 	margin-top: 21px;
 	position: relative;
-	padding: 12px 28px 9px 34px;
+	padding: 16px 31px 9px;
 }
 
-#u8013
+#u8023
 {
-	z-index: 220;
+	z-index: 221;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -257,7 +257,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-left: 3px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -283,7 +284,7 @@
 	position: relative;
 }
 
-#U8019_animation,#U7985_animation
+#U8025_animation,#U7985_animation
 {
 	width: 980px;
 	height: 120px;
@@ -313,7 +314,7 @@
 	left: -4px;
 	margin-top: 22px;
 	position: relative;
-	padding: 11px 25px 9.400000000000318px 11px;
+	padding: 11px 25px 9.400000000000546px 11px;
 }
 
 #u7981
@@ -404,7 +405,7 @@
 	margin-right: -10000px;
 	margin-top: 64px;
 	left: 427px;
-	padding: 19px 15px 18.3500000000015px 9px;
+	padding: 19px 15px 18.350000000001273px 9px;
 }
 
 #u7983
@@ -829,7 +830,7 @@
 	position: relative;
 }
 
-#U8015_animation,#U7911_animation
+#U8029_animation,#U7911_animation
 {
 	width: 320px;
 	height: 320px;
