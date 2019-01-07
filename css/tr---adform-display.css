@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #00000D;
-	background-color: #26FF0B;
+	color: #000000;
+	background-color: #776A29;
 }
 
 .html
@@ -183,9 +183,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	margin-left: 349px;
 	margin-top: 5px;
@@ -195,22 +195,23 @@
 #u8008
 {
 	z-index: 206;
-	width: 980px;
+	width: 988px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -39px;
 	margin-top: 19px;
 	position: relative;
-	padding: 17px 23px 20px 13px;
+	padding: 14px 11px 20px 17px;
 }
 
-#u8022
+#u8032
 {
 	z-index: 220;
 	width: 980px;
 	height: 120px;
 	background-color: transparent;
+	margin-left: 8px;
 	position: relative;
 }
 
@@ -222,8 +223,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 15px;
+	margin-top: 18px;
 	position: relative;
 }
 
@@ -237,10 +237,10 @@
 	margin-left: 285px;
 	margin-top: 21px;
 	position: relative;
-	padding: 16px 31px 9px;
+	padding: 16px 28px 9px 34px;
 }
 
-#u8023
+#u8033
 {
 	z-index: 221;
 	width: 320px;
@@ -257,7 +257,6 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 3px;
 	margin-top: 6px;
 	position: relative;
 }
@@ -284,7 +283,7 @@
 	position: relative;
 }
 
-#U8025_animation,#U7985_animation
+#U8035_animation,#U7985_animation
 {
 	width: 980px;
 	height: 120px;
@@ -830,7 +829,7 @@
 	position: relative;
 }
 
-#U8029_animation,#U7911_animation
+#U8039_animation,#U7911_animation
 {
 	width: 320px;
 	height: 320px;
@@ -1072,10 +1071,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1114,10 +1113,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
