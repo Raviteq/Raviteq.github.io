@@ -1,7 +1,7 @@
 .version.trivselhus___hemnet /* version checker */
 {
-	color: #0000F1;
-	background-color: #5BC2A1;
+	color: #000008;
+	background-color: #C66420;
 }
 
 .html
@@ -148,23 +148,22 @@
 #u1474
 {
 	z-index: 15;
-	width: 745px;
+	width: 740px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 55px;
 	margin-top: 162px;
 	position: relative;
-	padding: 6px 33px 9.08510659694295px 28px;
+	padding: 12px 38px 9.33510659694295px 28px;
 }
 
-#u7686
+#u8042
 {
-	z-index: 100;
+	z-index: 99;
 	width: 740px;
 	height: 160px;
 	background-color: transparent;
-	margin-left: 5px;
 	position: relative;
 }
 
@@ -176,7 +175,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 16px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -197,10 +196,10 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 28px;
-	padding: 10px 26px 15.126478278358434px 31px;
+	padding: 19px 26px 15.126478278358434px 31px;
 }
 
-#u7687
+#u8043
 {
 	z-index: 98;
 	width: 320px;
@@ -218,29 +217,30 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
+	margin-top: 6px;
 	position: relative;
 }
 
 #u1472
 {
 	z-index: 17;
-	width: 267px;
+	width: 264px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 493px;
-	padding: 13px 20px 24.1764782783589px 12px;
+	padding: 28px 20px 24px 15px;
 }
 
-#u7688
+#u8044
 {
-	z-index: 99;
+	z-index: 100;
 	width: 250px;
 	height: 720px;
 	background-color: transparent;
+	margin-left: 10px;
 	position: relative;
 }
 
@@ -252,8 +252,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 3px;
-	margin-top: 20px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -390,7 +389,7 @@
 	position: relative;
 }
 
-#U7698_animation,#U7660_animation,#U7683_animation
+#U8050_animation,#U7660_animation,#U7683_animation
 {
 	width: 740px;
 	height: 160px;
@@ -439,7 +438,7 @@
 	position: relative;
 }
 
-#U7690_animation,#U7664_animation,#U7679_animation
+#U8046_animation,#U7664_animation,#U7679_animation
 {
 	width: 320px;
 	height: 320px;
@@ -480,7 +479,7 @@
 	position: relative;
 }
 
-#U7694_animation,#U7668_animation,#U7675_animation
+#U8054_animation,#U7668_animation,#U7675_animation
 {
 	width: 250px;
 	height: 720px;
