@@ -1,7 +1,7 @@
 .version.mm___adforms_display /* version checker */
 {
-	color: #0000EB;
-	background-color: #579AE8;
+	color: #000010;
+	background-color: #70295B;
 }
 
 .html
@@ -133,8 +133,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -177,8 +177,8 @@
 	min-height: 37px;
 	background-color: transparent;
 	line-height: 36px;
-	text-align: center;
 	font-size: 30px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -189,23 +189,22 @@
 #u8134
 {
 	z-index: 142;
-	width: 990px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -47px;
 	margin-top: 97px;
 	position: relative;
-	padding: 16px 18px 18.10000000000184px 28px;
+	padding: 11px 28px 18.10000000000184px;
 }
 
-#u8153
+#u8187
 {
-	z-index: 149;
+	z-index: 153;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 9px;
 	position: relative;
 }
 
@@ -217,30 +216,29 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 21px;
+	margin-top: 26px;
 	position: relative;
 }
 
 #u8128
 {
 	z-index: 121;
-	width: 1256px;
+	width: 1250px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -183px;
 	margin-top: 29px;
 	position: relative;
-	padding: 22px 31px 13.399999999999636px 30px;
+	padding: 20px 38px 13px 29px;
 }
 
-#u8150
+#u8185
 {
 	z-index: 155;
 	width: 1250px;
 	height: 360px;
 	background-color: transparent;
-	margin-left: 6px;
 	position: relative;
 }
 
@@ -252,30 +250,30 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-left: 1px;
+	margin-top: 10px;
 	position: relative;
 }
 
 #u8130
 {
 	z-index: 128;
-	width: 1258px;
+	width: 1250px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -183px;
 	margin-top: 30px;
 	position: relative;
-	padding: 18px 30px 21.000000000001137px 29px;
+	padding: 18px 38px 21.00000000000091px 29px;
 }
 
-#u8151
+#u8186
 {
-	z-index: 153;
+	z-index: 154;
 	width: 1250px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 8px;
 	position: relative;
 }
 
@@ -294,22 +292,23 @@
 #u8132
 {
 	z-index: 135;
-	width: 980px;
+	width: 988px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -38px;
 	margin-top: 16px;
 	position: relative;
-	padding: 22px 36px 26px 20px;
+	padding: 19px 18px 26px 30px;
 }
 
-#u8152
+#u8188
 {
-	z-index: 154;
+	z-index: 152;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
+	margin-left: 8px;
 	position: relative;
 }
 
@@ -321,8 +320,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 10px;
-	margin-top: 10px;
+	margin-top: 13px;
 	position: relative;
 }
 
@@ -336,20 +334,21 @@
 #u8126
 {
 	z-index: 114;
-	width: 320px;
+	width: 326px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 22px 32px 12.010942249244238px 20px;
+	padding: 18px 26px 12.010942249244238px 20px;
 }
 
-#u8154
+#u8189
 {
-	z-index: 150;
+	z-index: 151;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
+	margin-left: 6px;
 	position: relative;
 }
 
@@ -361,29 +360,28 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 12px;
+	margin-top: 16px;
 	position: relative;
 }
 
 #u8124
 {
 	z-index: 107;
-	width: 327px;
+	width: 320px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-top: 30px;
 	position: relative;
-	padding: 24px 25px 16.71094224924454px 20px;
+	padding: 24px 32px 16px 20px;
 }
 
-#u8155
+#u8190
 {
-	z-index: 151;
+	z-index: 150;
 	width: 320px;
 	height: 160px;
 	background-color: transparent;
-	margin-left: 7px;
 	position: relative;
 }
 
@@ -395,7 +393,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -409,12 +407,12 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 584px;
-	padding: 33px 26px 18.66094224924484px 24px;
+	padding: 23px 26px 18.060942249245386px 24px;
 }
 
-#u8156
+#u8191
 {
-	z-index: 152;
+	z-index: 149;
 	width: 250px;
 	height: 800px;
 	background-color: transparent;
@@ -430,7 +428,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -457,7 +455,7 @@
 	position: relative;
 }
 
-#U8158_animation,#U8095_animation
+#U8209_animation,#U8095_animation
 {
 	width: 980px;
 	height: 240px;
@@ -504,7 +502,7 @@
 	position: relative;
 }
 
-#U8182_animation,#U8103_animation
+#U8217_animation,#U8103_animation
 {
 	width: 1250px;
 	height: 360px;
@@ -546,7 +544,7 @@
 	position: relative;
 }
 
-#U8174_animation,#U8099_animation
+#U8213_animation,#U8099_animation
 {
 	width: 1250px;
 	height: 240px;
@@ -587,7 +585,7 @@
 	position: relative;
 }
 
-#U8178_animation,#U8119_animation
+#U8205_animation,#U8119_animation
 {
 	width: 980px;
 	height: 300px;
@@ -640,7 +638,7 @@
 	position: relative;
 }
 
-#U8162_animation,#U8115_animation
+#U8201_animation,#U8115_animation
 {
 	width: 320px;
 	height: 320px;
@@ -680,7 +678,7 @@
 	position: relative;
 }
 
-#U8166_animation,#U8111_animation
+#U8197_animation,#U8111_animation
 {
 	width: 320px;
 	height: 160px;
@@ -721,7 +719,7 @@
 	position: relative;
 }
 
-#U8170_animation,#U8107_animation
+#U8193_animation,#U8107_animation
 {
 	width: 250px;
 	height: 800px;
@@ -784,9 +782,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -826,9 +824,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
