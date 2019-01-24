@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000E8;
-	background-color: #DC2E61;
+	color: #0000F5;
+	background-color: #9C1E6C;
 }
 
 .html
@@ -33,7 +33,7 @@
 #pu89
 {
 	width: 0.01px;
-	padding-bottom: 56px;
+	padding-bottom: 58px;
 	margin-left: -100px;
 }
 
@@ -69,7 +69,7 @@
 {
 	z-index: 223;
 	width: 189px;
-	padding-bottom: 35px;
+	padding-bottom: 47px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
@@ -106,7 +106,7 @@
 #top
 {
 	left: -96px;
-	top: -56px;
+	top: -58px;
 	margin-bottom: -18px;
 	position: relative;
 }
@@ -147,7 +147,7 @@
 	line-height: 19px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	margin-left: 45px;
-	margin-top: 62px;
+	margin-top: 60px;
 	position: relative;
 }
 

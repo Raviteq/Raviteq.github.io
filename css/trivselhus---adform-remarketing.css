@@ -1,7 +1,7 @@
 .version.trivselhus___adform_remarketing /* version checker */
 {
-	color: #0000FE;
-	background-color: #00C5A5;
+	color: #0000E9;
+	background-color: #0FAB61;
 }
 
 .html
@@ -32,7 +32,7 @@
 #pu89
 {
 	width: 0.01px;
-	padding-bottom: 56px;
+	padding-bottom: 58px;
 	margin-left: -100px;
 }
 
@@ -68,7 +68,7 @@
 {
 	z-index: 84;
 	width: 189px;
-	padding-bottom: 35px;
+	padding-bottom: 47px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
@@ -105,7 +105,7 @@
 #top
 {
 	left: -96px;
-	top: -56px;
+	top: -58px;
 	margin-bottom: -18px;
 	position: relative;
 }
@@ -147,7 +147,7 @@
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
-	margin-top: 62px;
+	margin-top: 60px;
 	position: relative;
 }
 
@@ -185,9 +185,9 @@
 	width: 390px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 285px;
@@ -440,10 +440,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -482,10 +482,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
