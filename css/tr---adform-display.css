@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #000000;
-	background-color: #B48277;
+	color: #00000A;
+	background-color: #A7A78B;
 }
 
 .html
@@ -207,7 +207,7 @@
 
 #u8424
 {
-	z-index: 211;
+	z-index: 205;
 	width: 980px;
 	height: 140px;
 	background-color: transparent;
@@ -247,7 +247,7 @@
 
 #u8422
 {
-	z-index: 209;
+	z-index: 204;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
@@ -263,7 +263,7 @@
 
 #u8007-6
 {
-	z-index: 202;
+	z-index: 198;
 	width: 222px;
 	min-height: 34px;
 	background-color: transparent;
@@ -283,26 +283,26 @@
 #u8002
 {
 	z-index: 31;
-	width: 264px;
+	width: 257px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 23px 34px 11px 9px;
+	padding: 15px 41px 11px 9px;
 }
 
-#u8420
+#u8447
 {
-	z-index: 212;
+	z-index: 207;
 	width: 250px;
 	height: 360px;
 	background-color: transparent;
-	margin-left: 14px;
+	margin-left: 7px;
 	position: relative;
 }
 
-#U8442_animation
+#U8455_animation
 {
 	width: 250px;
 	height: 360px;
@@ -317,7 +317,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 11px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -338,12 +338,12 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 19px 16px 18px 9px;
+	padding: 13px 16px 18px 9px;
 }
 
-#u8423
+#u8448
 {
-	z-index: 210;
+	z-index: 208;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
@@ -351,7 +351,7 @@
 	position: relative;
 }
 
-#U8434_animation
+#U8459_animation
 {
 	width: 320px;
 	height: 240px;
@@ -366,34 +366,33 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 24px;
 	position: relative;
 }
 
 #u8445
 {
 	z-index: 15;
-	width: 257px;
+	width: 250px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 20px;
 	margin-top: 13px;
 	position: relative;
-	padding: 17px 35px 26px 32px;
+	padding: 24px 42px 26.050000000001546px 32px;
 }
 
-#u8421
+#u8449
 {
-	z-index: 208;
+	z-index: 206;
 	width: 250px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 7px;
 	position: relative;
 }
 
-#U8426_animation
+#U8451_animation
 {
 	width: 250px;
 	height: 240px;
@@ -408,7 +407,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 12px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -419,22 +418,22 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	margin-left: 20px;
-	margin-top: 345px;
+	margin-left: 12px;
+	margin-top: 32px;
 	position: relative;
-	padding: 6px 36px 18px 20px;
+	padding: 14px 35px 18px 21px;
 }
 
-#u7954
+#u8464
 {
-	z-index: 199;
+	z-index: 209;
 	width: 730px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U7961_animation
+#U8467_animation
 {
 	width: 730px;
 	height: 250px;
@@ -449,43 +448,42 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 1px;
-	margin-top: 21px;
+	margin-top: 13px;
 	position: relative;
 }
 
 #pu7976
 {
 	width: 0.01px;
-	margin-left: 26px;
+	margin-left: 18px;
 	margin-top: 59px;
 }
 
 #u7976
 {
 	z-index: 44;
-	width: 325px;
+	width: 317px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 14px 17px 18px 9px;
+	padding: 17px 25px 18px 9px;
 }
 
-#u7953
+#u8463
 {
-	z-index: 201;
-	width: 320px;
+	z-index: 210;
+	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 5px;
+	margin-left: 16px;
 	position: relative;
 }
 
-#U7969_animation
+#U8471_animation
 {
-	width: 320px;
+	width: 300px;
 	height: 250px;
 	border: none;
 }
@@ -498,36 +496,36 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 13px;
+	margin-top: 10px;
 	position: relative;
 }
 
 #u7978
 {
 	z-index: 45;
-	width: 306px;
+	width: 326px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 421px;
-	padding: 14px 36px 18px 9px;
+	padding: 17px 16px 18px 9px;
 }
 
-#u7952
+#u8462
 {
-	z-index: 198;
-	width: 300px;
+	z-index: 212;
+	width: 320px;
 	height: 250px;
 	background-color: transparent;
 	margin-left: 6px;
 	position: relative;
 }
 
-#U7957_animation
+#U8479_animation
 {
-	width: 300px;
+	width: 320px;
 	height: 250px;
 	border: none;
 }
@@ -540,30 +538,29 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 13px;
+	margin-top: 10px;
 	position: relative;
 }
 
 #u7972
 {
 	z-index: 58;
-	width: 984px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	left: -121px;
+	left: -129px;
 	margin-top: 26px;
 	position: relative;
-	padding: 21px 24px 18px 28px;
+	padding: 17px 28px 18px;
 }
 
-#u7955
+#u8465
 {
-	z-index: 200;
+	z-index: 211;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
-	margin-left: 4px;
 	position: relative;
 }
 
@@ -575,7 +572,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 16px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -587,7 +584,7 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -121px;
-	margin-top: 19px;
+	margin-top: 332px;
 	position: relative;
 	padding: 10px 28px 18.450000000002547px;
 }
@@ -1032,8 +1029,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
@@ -1074,8 +1071,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
@@ -1105,7 +1102,7 @@
 	position: relative;
 }
 
-#U7965_animation,#U7945_animation,#U7854_animation,#U7798_animation,#U7805_animation,#U7812_animation,#U7819_animation
+#U8475_animation,#U7945_animation,#U7854_animation,#U7798_animation,#U7805_animation,#U7812_animation,#U7819_animation
 {
 	width: 980px;
 	height: 240px;
