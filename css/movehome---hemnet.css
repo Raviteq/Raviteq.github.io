@@ -1,7 +1,7 @@
 .version.movehome___hemnet /* version checker */
 {
-	color: #0000E6;
-	background-color: #424942;
+	color: #00000F;
+	background-color: #461A28;
 }
 
 .html
@@ -67,7 +67,7 @@
 {
 	z-index: 115;
 	width: 189px;
-	padding-bottom: 47px;
+	padding-bottom: 35px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
@@ -133,8 +133,8 @@
 	width: 871px;
 	min-height: 119px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -562,8 +562,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;
@@ -604,8 +604,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;

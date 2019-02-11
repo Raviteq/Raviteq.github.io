@@ -1,7 +1,7 @@
 .version.trivselhus___hemnet /* version checker */
 {
-	color: #000016;
-	background-color: #E06CCC;
+	color: #00001A;
+	background-color: #FC443F;
 }
 
 .html
@@ -68,7 +68,7 @@
 {
 	z-index: 103;
 	width: 189px;
-	padding-bottom: 47px;
+	padding-bottom: 35px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
