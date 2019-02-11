@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000F5;
-	background-color: #9C1E6C;
+	color: #0000FC;
+	background-color: #6A6BCC;
 }
 
 .html
@@ -195,24 +195,30 @@
 #u8008
 {
 	z-index: 205;
-	width: 988px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -39px;
 	margin-top: 19px;
 	position: relative;
-	padding: 14px 11px 20px 17px;
+	padding: 12px 11px 8.100000000000023px 25px;
 }
 
-#u8032
+#u8410
 {
-	z-index: 219;
+	z-index: 220;
 	width: 980px;
-	height: 120px;
+	height: 140px;
 	background-color: transparent;
-	margin-left: 8px;
 	position: relative;
+}
+
+#U8412_animation
+{
+	width: 980px;
+	height: 140px;
+	border: none;
 }
 
 #u8010-6
@@ -223,7 +229,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -242,7 +248,7 @@
 
 #u8033
 {
-	z-index: 220;
+	z-index: 219;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -283,7 +289,7 @@
 	position: relative;
 }
 
-#U8035_animation,#U7985_animation
+#U7985_animation
 {
 	width: 980px;
 	height: 120px;
