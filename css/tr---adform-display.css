@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000F8;
-	background-color: #55B3AE;
+	color: #000004;
+	background-color: #FE4235;
 }
 
 .html
@@ -182,9 +182,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	margin-left: 349px;
 	margin-top: 5px;
@@ -212,7 +212,7 @@
 
 #u9209
 {
-	z-index: 165;
+	z-index: 163;
 	width: 250px;
 	height: 360px;
 	background-color: transparent;
@@ -255,7 +255,7 @@
 
 #u9208
 {
-	z-index: 161;
+	z-index: 160;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
@@ -297,7 +297,7 @@
 
 #u9207
 {
-	z-index: 162;
+	z-index: 161;
 	width: 250px;
 	height: 240px;
 	background-color: transparent;
@@ -345,7 +345,7 @@
 
 #u9206
 {
-	z-index: 163;
+	z-index: 162;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
@@ -375,27 +375,27 @@
 #u7978
 {
 	z-index: 46;
-	width: 321px;
+	width: 317px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 421px;
-	padding: 12px 21px 18.10000000000059px 9px;
+	padding: 12px 25px 18.100000000000364px 9px;
 }
 
-#u9205
+#u9235
 {
-	z-index: 160;
+	z-index: 165;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 21px;
+	margin-left: 17px;
 	position: relative;
 }
 
-#U9211_animation
+#U9241_animation
 {
 	width: 300px;
 	height: 250px;
@@ -424,10 +424,10 @@
 	margin-left: 109px;
 	margin-top: 106px;
 	position: relative;
-	padding: 16px 37px 18.250000000002046px 19px;
+	padding: 12px 37px 18px 19px;
 }
 
-#u9204
+#u9234
 {
 	z-index: 164;
 	width: 730px;
@@ -436,7 +436,7 @@
 	position: relative;
 }
 
-#U9227_animation
+#U9237_animation
 {
 	width: 730px;
 	height: 250px;
@@ -452,7 +452,7 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 2px;
-	margin-top: 10px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -508,7 +508,7 @@
 	left: -147px;
 	margin-top: 30px;
 	position: relative;
-	padding: 20px 34px 21.450000000001637px 29px;
+	padding: 20px 34px 21.450000000002092px 29px;
 }
 
 #u9177
@@ -924,10 +924,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
+	line-height: 19px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
