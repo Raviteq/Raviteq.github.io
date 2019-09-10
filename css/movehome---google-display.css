@@ -1,7 +1,7 @@
 .version.movehome___google_display /* version checker */
 {
-	color: #0000F8;
-	background-color: #84529B;
+	color: #0000FB;
+	background-color: #4CC875;
 }
 
 .html
@@ -56,14 +56,6 @@
 	margin-left: -454px;
 }
 
-#u436
-{
-	z-index: 110;
-	top: 11px;
-	left: 50%;
-	margin-left: -343px;
-}
-
 #u574
 {
 	z-index: 104;
@@ -112,7 +104,7 @@
 
 #u631
 {
-	z-index: 112;
+	z-index: 111;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(-1,0,0,-1,32,32);
@@ -125,7 +117,7 @@
 
 #u629
 {
-	z-index: 111;
+	z-index: 110;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(0,-1,1,0,0,32);
@@ -142,8 +134,8 @@
 	width: 871px;
 	min-height: 119px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	margin-left: 45px;
 	margin-top: 62px;
 	position: relative;

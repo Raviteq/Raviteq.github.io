@@ -1,7 +1,7 @@
 .version.trivselhus___display /* version checker */
 {
-	color: #000014;
-	background-color: #6EED9B;
+	color: #0000F4;
+	background-color: #72B424;
 }
 
 .html
@@ -56,14 +56,6 @@
 	margin-left: -454px;
 }
 
-#u436
-{
-	z-index: 130;
-	top: 11px;
-	left: 50%;
-	margin-left: -343px;
-}
-
 #u574
 {
 	z-index: 124;
@@ -104,7 +96,7 @@
 
 #u626
 {
-	z-index: 132;
+	z-index: 131;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(-1,0,0,-1,32,32);
@@ -117,7 +109,7 @@
 
 #u621
 {
-	z-index: 131;
+	z-index: 130;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(0,-1,1,0,0,32);
@@ -172,9 +164,9 @@
 	width: 304px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	margin-left: 328px;
 	margin-top: 7px;

@@ -1,7 +1,7 @@
 .version.movehome___hemnet /* version checker */
 {
-	color: #00001A;
-	background-color: #0928C0;
+	color: #0000FB;
+	background-color: #A63041;
 }
 
 .html
@@ -29,10 +29,11 @@
 	width: 0.01px;
 }
 
-#toppen
+#pu89
 {
-	left: -100px;
-	position: relative;
+	width: 0.01px;
+	padding-bottom: 56px;
+	margin-left: -100px;
 }
 
 #u89
@@ -53,14 +54,6 @@
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
-}
-
-#u436
-{
-	z-index: 121;
-	top: 11px;
-	left: 50%;
-	margin-left: -343px;
 }
 
 #u574
@@ -101,9 +94,17 @@
 	margin: 0px 0px 0px 265px;
 }
 
+#toppen
+{
+	left: -100px;
+	top: -56px;
+	margin-bottom: -18px;
+	position: relative;
+}
+
 #u1547
 {
-	z-index: 123;
+	z-index: 122;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(-1,0,0,-1,32,32);
@@ -116,7 +117,7 @@
 
 #u1545
 {
-	z-index: 122;
+	z-index: 121;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(0,-1,1,0,0,32);
@@ -138,7 +139,7 @@
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
-	margin-top: 100px;
+	margin-top: 62px;
 	position: relative;
 }
 
@@ -563,8 +564,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;
@@ -605,8 +606,8 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	font-family: proxima-nova, sans-serif;

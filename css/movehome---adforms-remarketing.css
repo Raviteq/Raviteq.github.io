@@ -1,7 +1,7 @@
 .version.movehome___adforms_remarketing /* version checker */
 {
-	color: #00001C;
-	background-color: #3B3461;
+	color: #0000E7;
+	background-color: #BCAF6A;
 }
 
 .html
@@ -29,10 +29,11 @@
 	width: 0.01px;
 }
 
-#top
+#pu89
 {
-	left: -100px;
-	position: relative;
+	width: 0.01px;
+	padding-bottom: 56px;
+	margin-left: -100px;
 }
 
 #u89
@@ -53,14 +54,6 @@
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
-}
-
-#u436
-{
-	z-index: 172;
-	top: 11px;
-	left: 50%;
-	margin-left: -343px;
 }
 
 #u574
@@ -101,6 +94,14 @@
 	margin: 0px 0px 0px 265px;
 }
 
+#top
+{
+	left: -100px;
+	top: -56px;
+	margin-bottom: -18px;
+	position: relative;
+}
+
 #u2518
 {
 	z-index: 73;
@@ -133,12 +134,12 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
-	margin-top: 100px;
+	margin-top: 62px;
 	position: relative;
 }
 
@@ -176,9 +177,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -889,10 +890,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -931,10 +932,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;

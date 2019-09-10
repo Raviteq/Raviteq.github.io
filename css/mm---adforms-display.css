@@ -1,7 +1,7 @@
 .version.mm___adforms_display /* version checker */
 {
-	color: #000007;
-	background-color: #196094;
+	color: #0000F5;
+	background-color: #0FA0E9;
 }
 
 .html
@@ -30,10 +30,11 @@
 	width: 0.01px;
 }
 
-#top
+#pu89
 {
-	left: -100px;
-	position: relative;
+	width: 0.01px;
+	padding-bottom: 56px;
+	margin-left: -100px;
 }
 
 #u89
@@ -54,14 +55,6 @@
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
-}
-
-#u436
-{
-	z-index: 172;
-	top: 11px;
-	left: 50%;
-	margin-left: -343px;
 }
 
 #u574
@@ -102,6 +95,14 @@
 	margin: 0px 0px 0px 265px;
 }
 
+#top
+{
+	left: -100px;
+	top: -56px;
+	margin-bottom: -18px;
+	position: relative;
+}
+
 #u2218
 {
 	z-index: 28;
@@ -134,12 +135,12 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
-	margin-top: 100px;
+	margin-top: 62px;
 	position: relative;
 }
 
@@ -177,9 +178,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 349px;
@@ -197,7 +198,7 @@
 	left: -163px;
 	margin-top: 61px;
 	position: relative;
-	padding: 17px 26px 13.199999999999477px 30px;
+	padding: 17px 26px 13.199999999999534px 30px;
 }
 
 #u9683
@@ -885,10 +886,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -927,10 +928,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;

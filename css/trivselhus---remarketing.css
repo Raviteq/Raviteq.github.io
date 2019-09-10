@@ -1,7 +1,7 @@
 .version.trivselhus___remarketing /* version checker */
 {
-	color: #0000F9;
-	background-color: #DB2252;
+	color: #00000F;
+	background-color: #BF6E39;
 }
 
 .html
@@ -29,11 +29,10 @@
 	width: 0.01px;
 }
 
-#pu89
+#toppen
 {
-	width: 0.01px;
-	padding-bottom: 56px;
-	margin-left: -100px;
+	left: -100px;
+	position: relative;
 }
 
 #u89
@@ -54,14 +53,6 @@
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
-}
-
-#u436
-{
-	z-index: 109;
-	top: 11px;
-	left: 50%;
-	margin-left: -343px;
 }
 
 #u574
@@ -102,17 +93,9 @@
 	margin: 0px 0px 0px 265px;
 }
 
-#toppen
-{
-	left: -100px;
-	top: -56px;
-	margin-bottom: -18px;
-	position: relative;
-}
-
 #u1320
 {
-	z-index: 111;
+	z-index: 110;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(-1,0,0,-1,32,32);
@@ -125,7 +108,7 @@
 
 #u1322
 {
-	z-index: 110;
+	z-index: 109;
 	overflow: hidden;
 	position: fixed;
 	-webkit-transform: matrix(0,-1,1,0,0,32);
@@ -142,10 +125,10 @@
 	width: 871px;
 	min-height: 119px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	margin-left: 45px;
-	margin-top: 62px;
+	margin-top: 100px;
 	position: relative;
 }
 

@@ -1,7 +1,7 @@
 .version.trivselhus___adform_remarketing /* version checker */
 {
-	color: #0000E5;
-	background-color: #119DEE;
+	color: #0000E4;
+	background-color: #AB74AF;
 }
 
 .html
@@ -54,14 +54,6 @@
 	top: 11px;
 	left: 50%;
 	margin-left: -454px;
-}
-
-#u436
-{
-	z-index: 108;
-	top: 11px;
-	left: 50%;
-	margin-left: -343px;
 }
 
 #u574
@@ -142,8 +134,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
