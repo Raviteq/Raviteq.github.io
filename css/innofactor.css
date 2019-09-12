@@ -1,7 +1,7 @@
 .version.innofactor /* version checker */
 {
-	color: #0000F9;
-	background-color: #C70596;
+	color: #000007;
+	background-color: #D0255E;
 }
 
 .html
@@ -173,12 +173,12 @@
 	left: -24px;
 	margin-top: 60px;
 	position: relative;
-	padding: 21px 37px 15.00000000000091px 19px;
+	padding: 21px 33px 15.00000000000091px 23px;
 }
 
-#u9824
+#u9839
 {
-	z-index: 53;
+	z-index: 55;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -193,7 +193,6 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
 	margin-top: 22px;
 	position: relative;
 }
@@ -213,7 +212,7 @@
 
 #u9829
 {
-	z-index: 54;
+	z-index: 53;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -248,7 +247,7 @@
 
 #u9834
 {
-	z-index: 55;
+	z-index: 54;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -256,7 +255,7 @@
 	position: relative;
 }
 
-#U9816_animation,#U9821_animation,#U9826_animation,#U9831_animation,#U9836_animation
+#U9816_animation,#U9821_animation,#U9841_animation,#U9831_animation,#U9836_animation
 {
 	width: 980px;
 	height: 300px;
