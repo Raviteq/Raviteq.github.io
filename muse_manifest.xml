@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1568381737343">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1568881149866">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="261215042" ref="mm---adforms-display:movehome---adforms-remarketing:index:movehome---remarketing:trivselhus---remarketing:trivselhus---display:trivselhus---adform-remarketing:movehome---google-display:trivselhus---hemnet:tr---adform-display:movehome---google-display-kopia:movehome---hemnet:innofactor"/>
+    <file name="master_a-master.css" crc="4176988538" ref="mm---adforms-display:movehome---adforms-remarketing:index:movehome---remarketing:trivselhus---remarketing:trivselhus---display:trivselhus---adform-remarketing:movehome---google-display:trivselhus---hemnet:tr---adform-display:movehome---google-display-kopia:movehome---hemnet:innofactor"/>
     <file name="mm---adforms-display.css" crc="4111442153" ref="mm---adforms-display"/>
     <file name="movehome---adforms-remarketing.css" crc="3887902570" ref="movehome---adforms-remarketing"/>
     <file name="index.css" crc="144475939" ref="index"/>
@@ -14,42 +14,350 @@
     <file name="tr---adform-display.css" crc="22622799" ref="tr---adform-display"/>
     <file name="movehome---google-display-kopia.css" crc="4038135112" ref="movehome---google-display-kopia"/>
     <file name="movehome---hemnet.css" crc="4221972545" ref="movehome---hemnet"/>
-    <file name="innofactor.css" crc="237369058" ref="innofactor"/>
+    <file name="innofactor.css" crc="357334141" ref="innofactor"/>
   </folder>
   <folder name="assets">
+    <folder name="300x3005">
+      <folder name="images">
+        <file name="hydro-smal.jpg" crc="52918148" mt="1568808134000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568808134000"/>
+        <file name="text-01.svg" crc="3860919736" mt="1568808134000"/>
+        <file name="text-02.svg" crc="4204278249" mt="1568808134000"/>
+      </folder>
+      <file name="transparent.png" crc="3867455704" mt="1568808134000"/>
+      <file name="300x300_edge.js" crc="3875941925" mt="1568808134000"/>
+      <file name="300x300.html" crc="372063131" mt="1568808134000"/>
+    </folder>
+    <folder name="160x6005">
+      <folder name="images">
+        <file name="hydro-smal.jpg" crc="179954893" mt="1568811179000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568811179000"/>
+        <file name="text-01.svg" crc="3980991609" mt="1568811179000"/>
+        <file name="text-02.svg" crc="4129796751" mt="1568811179000"/>
+      </folder>
+      <file name="transparent.png" crc="3834486344" mt="1568811179000"/>
+      <file name="160x600_edge.js" crc="197321838" mt="1568811179000"/>
+      <file name="160x600.html" crc="428120614" mt="1568811179000"/>
+    </folder>
+    <folder name="320x2508">
+      <folder name="images">
+        <file name="hydro-smal.jpg" crc="52918148" mt="1568807532000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568807532000"/>
+        <file name="text-01.svg" crc="3860919736" mt="1568807532000"/>
+        <file name="text-02.svg" crc="4204278249" mt="1568807532000"/>
+      </folder>
+      <file name="transparent.png" crc="4254097456" mt="1568807532000"/>
+      <file name="320x250_edge.js" crc="54053628" mt="1568807532000"/>
+      <file name="320x250.html" crc="464793946" mt="1568807532000"/>
+    </folder>
+    <folder name="300x25010">
+      <folder name="images">
+        <file name="hydro-smal.jpg" crc="52918148" mt="1568806324000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568806324000"/>
+        <file name="text-01.svg" crc="3860919736" mt="1568806324000"/>
+        <file name="text-02.svg" crc="4204278249" mt="1568806324000"/>
+      </folder>
+      <file name="transparent.png" crc="3806630332" mt="1568806324000"/>
+      <file name="300x250_edge.js" crc="4088917835" mt="1568806324000"/>
+      <file name="300x250.html" crc="102040073" mt="1568806324000"/>
+    </folder>
+    <folder name="300x6009">
+      <folder name="images">
+        <file name="hydro-smal.jpg" crc="179954893" mt="1568813214000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568813214000"/>
+        <file name="text-01.svg" crc="25803253" mt="1568813214000"/>
+        <file name="text-02.svg" crc="184780943" mt="1568813214000"/>
+      </folder>
+      <file name="transparent.png" crc="3932104168" mt="1568813214000"/>
+      <file name="300x600_edge.js" crc="293468959" mt="1568813214000"/>
+      <file name="300x600.html" crc="318213911" mt="1568813214000"/>
+    </folder>
+    <folder name="300x2509">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568804077000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568804077000"/>
+        <file name="text-01.svg" crc="339532994" mt="1568804077000"/>
+        <file name="text-02.svg" crc="3829244219" mt="1568804077000"/>
+      </folder>
+      <file name="transparent.png" crc="3806630332" mt="1568804077000"/>
+      <file name="300x250_edge.js" crc="250616584" mt="1568804077000"/>
+      <file name="300x250.html" crc="102040073" mt="1568804077000"/>
+    </folder>
+    <folder name="320x2507">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568804128000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568804128000"/>
+        <file name="text-01.svg" crc="339532994" mt="1568804128000"/>
+        <file name="text-02.svg" crc="3829244219" mt="1568804128000"/>
+      </folder>
+      <file name="transparent.png" crc="4254097456" mt="1568804128000"/>
+      <file name="320x250_edge.js" crc="308243562" mt="1568804128000"/>
+      <file name="320x250.html" crc="464793946" mt="1568804128000"/>
+    </folder>
+    <folder name="300x6008">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568805490000"/>
+        <file name="Ta-vår-test-long-2.jpg" crc="3871802399" mt="1568805490000"/>
+        <file name="Ta-vår-test-long.jpg" crc="3887257062" mt="1568805490000"/>
+        <file name="text-01.svg" crc="24394041" mt="1568805490000"/>
+        <file name="text-02.svg" crc="195571369" mt="1568805490000"/>
+      </folder>
+      <file name="transparent.png" crc="3932104168" mt="1568805490000"/>
+      <file name="300x600_edge.js" crc="3782558597" mt="1568805490000"/>
+      <file name="300x600.html" crc="318213911" mt="1568805490000"/>
+    </folder>
+    <folder name="300x3004">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568804322000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568804322000"/>
+        <file name="text-01.svg" crc="339532994" mt="1568804322000"/>
+        <file name="text-02.svg" crc="3829244219" mt="1568804322000"/>
+      </folder>
+      <file name="transparent.png" crc="3867455704" mt="1568804322000"/>
+      <file name="300x300_edge.js" crc="461090679" mt="1568804322000"/>
+      <file name="300x300.html" crc="372063131" mt="1568804322000"/>
+    </folder>
+    <folder name="160x6004">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568805044000"/>
+        <file name="Ta-vår-test-long.jpg" crc="3887257062" mt="1568805044000"/>
+        <file name="text-01.svg" crc="477040837" mt="1568805044000"/>
+        <file name="text-02.svg" crc="3838543091" mt="1568805044000"/>
+      </folder>
+      <file name="transparent.png" crc="3834486344" mt="1568805044000"/>
+      <file name="160x600_edge.js" crc="4042673712" mt="1568805044000"/>
+      <file name="160x600.html" crc="428120614" mt="1568805044000"/>
+    </folder>
+    <folder name="300x3003">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568793299000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568793299000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568793299000"/>
+        <file name="text-01.svg" crc="402778163" mt="1568793299000"/>
+        <file name="text-02.svg" crc="339392242" mt="1568793299000"/>
+      </folder>
+      <file name="transparent.png" crc="3867455704" mt="1568793299000"/>
+      <file name="300x300_edge.js" crc="4261060590" mt="1568793299000"/>
+      <file name="300x300.html" crc="372063131" mt="1568793299000"/>
+    </folder>
+    <folder name="300x2508">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568880346000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568880346000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568880346000"/>
+        <file name="text-01.svg" crc="402778163" mt="1568880346000"/>
+        <file name="text-02.svg" crc="339392242" mt="1568880346000"/>
+      </folder>
+      <file name="transparent.png" crc="3806630332" mt="1568880346000"/>
+      <file name="300x250_edge.js" crc="4199807375" mt="1568880346000"/>
+      <file name="300x250.html" crc="102040073" mt="1568880346000"/>
+    </folder>
+    <folder name="320x2506">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568880364000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568880364000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568880364000"/>
+        <file name="text-01.svg" crc="402778163" mt="1568880364000"/>
+        <file name="text-02.svg" crc="339392242" mt="1568880364000"/>
+      </folder>
+      <file name="transparent.png" crc="4254097456" mt="1568880364000"/>
+      <file name="320x250_edge.js" crc="3964467884" mt="1568880364000"/>
+      <file name="320x250.html" crc="464793946" mt="1568880364000"/>
+    </folder>
+    <folder name="300x6007">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568795574000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568795574000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568795574000"/>
+        <file name="text-01.svg" crc="4041429568" mt="1568795574000"/>
+        <file name="text-02.svg" crc="319248616" mt="1568795574000"/>
+      </folder>
+      <file name="transparent.png" crc="3932104168" mt="1568795574000"/>
+      <file name="300x600_edge.js" crc="3946222351" mt="1568795574000"/>
+      <file name="300x600.html" crc="318213911" mt="1568795574000"/>
+    </folder>
+    <folder name="160x6003">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568794918000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568794918000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568794918000"/>
+        <file name="text-01.svg" crc="133726811" mt="1568794918000"/>
+        <file name="text-02.svg" crc="3767255842" mt="1568794918000"/>
+      </folder>
+      <file name="transparent.png" crc="3834486344" mt="1568794918000"/>
+      <file name="160x600_edge.js" crc="193463450" mt="1568794918000"/>
+      <file name="160x600.html" crc="428120614" mt="1568794918000"/>
+    </folder>
+    <folder name="320x2505">
+      <folder name="images">
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568720353000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568720353000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568720353000"/>
+        <file name="text-01.svg" crc="3828229534" mt="1568720353000"/>
+        <file name="text-02.svg" crc="40279778" mt="1568720353000"/>
+      </folder>
+      <file name="transparent.png" crc="4254097456" mt="1568720353000"/>
+      <file name="320x250_edge.js" crc="3827010175" mt="1568720353000"/>
+      <file name="320x250.html" crc="464793946" mt="1568720353000"/>
+    </folder>
+    <folder name="300x3002">
+      <folder name="images">
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568720431000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568720431000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568720431000"/>
+        <file name="text-01.svg" crc="20329584" mt="1568720431000"/>
+        <file name="text-02.svg" crc="3941007893" mt="1568720431000"/>
+      </folder>
+      <file name="transparent.png" crc="3867455704" mt="1568720431000"/>
+      <file name="300x300_edge.js" crc="36037071" mt="1568720431000"/>
+      <file name="300x300.html" crc="372063131" mt="1568720431000"/>
+    </folder>
+    <folder name="300x2507">
+      <folder name="images">
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568720349000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568720349000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568720349000"/>
+        <file name="text-01.svg" crc="3828229534" mt="1568720349000"/>
+        <file name="text-02.svg" crc="40279778" mt="1568720349000"/>
+      </folder>
+      <file name="transparent.png" crc="3806630332" mt="1568720349000"/>
+      <file name="300x250_edge.js" crc="4125758824" mt="1568720349000"/>
+      <file name="300x250.html" crc="102040073" mt="1568720349000"/>
+    </folder>
+    <folder name="160x6002">
+      <folder name="images">
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568725132000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568725132000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568725132000"/>
+        <file name="text-01.svg" crc="4091152352" mt="1568725132000"/>
+        <file name="text-02.svg" crc="4281595747" mt="1568725132000"/>
+      </folder>
+      <file name="transparent.png" crc="3834486344" mt="1568725132000"/>
+      <file name="160x600_edge.js" crc="4279505998" mt="1568725132000"/>
+      <file name="160x600.html" crc="428120614" mt="1568725132000"/>
+    </folder>
+    <folder name="300x6006">
+      <folder name="images">
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568725541000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568725541000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568725541000"/>
+        <file name="text-01.svg" crc="492379968" mt="1568725541000"/>
+        <file name="text-02.svg" crc="105354519" mt="1568725541000"/>
+      </folder>
+      <file name="transparent.png" crc="3932104168" mt="1568725541000"/>
+      <file name="300x600_edge.js" crc="130143194" mt="1568725541000"/>
+      <file name="300x600.html" crc="318213911" mt="1568725541000"/>
+    </folder>
+    <folder name="300x2506">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568712519000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568712519000"/>
+        <file name="text-01.svg" crc="194994216" mt="1568712519000"/>
+        <file name="text-02.svg" crc="4288270392" mt="1568712519000"/>
+      </folder>
+      <file name="transparent.png" crc="3806630332" mt="1568712519000"/>
+      <file name="300x250_edge.js" crc="3867413822" mt="1568712519000"/>
+      <file name="300x250.html" crc="102040073" mt="1568712519000"/>
+    </folder>
+    <folder name="320x2504">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568712710000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568712710000"/>
+        <file name="text-01.svg" crc="194994216" mt="1568712710000"/>
+        <file name="text-02.svg" crc="4288270392" mt="1568712710000"/>
+      </folder>
+      <file name="transparent.png" crc="4254097456" mt="1568712710000"/>
+      <file name="320x250_edge.js" crc="4187999467" mt="1568712710000"/>
+      <file name="320x250.html" crc="464793946" mt="1568712710000"/>
+    </folder>
+    <folder name="300x300">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568713080000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568713080000"/>
+        <file name="text-01.svg" crc="194994216" mt="1568713080000"/>
+        <file name="text-02.svg" crc="4288270392" mt="1568713080000"/>
+      </folder>
+      <file name="transparent.png" crc="3867455704" mt="1568713080000"/>
+      <file name="300x300_edge.js" crc="3868390031" mt="1568713080000"/>
+      <file name="300x300.html" crc="372063131" mt="1568713080000"/>
+    </folder>
+    <folder name="300x6005">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568714822000"/>
+        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568714822000"/>
+        <file name="text-01.svg" crc="23928741" mt="1568714822000"/>
+        <file name="text-02.svg" crc="3896873609" mt="1568714822000"/>
+      </folder>
+      <file name="transparent.png" crc="3932104168" mt="1568714822000"/>
+      <file name="300x600_edge.js" crc="421937387" mt="1568714822000"/>
+      <file name="300x600.html" crc="318213911" mt="1568714822000"/>
+    </folder>
+    <folder name="160x600">
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568714348000"/>
+        <file name="Moderne-Samhandling-Hero-160x200.jpg" crc="41162945" mt="1568714348000"/>
+        <file name="text-01.svg" crc="4279494406" mt="1568714348000"/>
+        <file name="text-02.svg" crc="3943910808" mt="1568714348000"/>
+      </folder>
+      <file name="transparent.png" crc="3834486344" mt="1568714348000"/>
+      <file name="160x600_edge.js" crc="370518116" mt="1568714348000"/>
+      <file name="160x600.html" crc="428120614" mt="1568714348000"/>
+    </folder>
     <folder name="980x3009">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380773000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568805423000"/>
       </folder>
       <folder name="images">
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380773000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380773000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568805423000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568805423000"/>
         <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568279892000"/>
-        <file name="text-01.svg" crc="4292125389" mt="1568380773000"/>
-        <file name="text-02.svg" crc="432619686" mt="1568380773000"/>
-        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568190950000"/>
+        <file name="text-01.svg" crc="451364950" mt="1568805423000"/>
+        <file name="text-02.svg" crc="4272348280" mt="1568805423000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568805423000"/>
         <file name="hydro-smal.jpg" crc="179954893" mt="1568294192000"/>
         <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568279115000"/>
         <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568380773000"/>
         <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568380773000"/>
       </folder>
+      <file name="transparent.png" crc="3898389484" mt="1568805423000"/>
+      <file name="980x300_edge.js" crc="461244602" mt="1568805423000"/>
+      <file name="980x300.html" crc="193717391" mt="1568805423000"/>
+    </folder>
+    <folder name="980x3008">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380773000"/>
+      </folder>
+      <folder name="images">
+        <file name="Hafslund logo.png" crc="442517534" mt="1568105122000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568380773000"/>
+        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568105122000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380773000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380773000"/>
+        <file name="text-01.svg" crc="4292125389" mt="1568380773000"/>
+        <file name="text-02.svg" crc="432619686" mt="1568380773000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568279115000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568275411000"/>
+        <file name="hydro-smal.jpg" crc="179954893" mt="1568276686000"/>
+        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568380087000"/>
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568380773000"/>
+      </folder>
       <file name="transparent.png" crc="3898389484" mt="1568380773000"/>
       <file name="980x300_edge.js" crc="3787555895" mt="1568380773000"/>
       <file name="980x300.html" crc="193717391" mt="1568380773000"/>
     </folder>
-    <folder name="980x3008">
+    <folder name="980x3007">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380087000"/>
       </folder>
       <folder name="images">
-        <file name="Hafslund logo.png" crc="442517534" mt="1568105122000"/>
-        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568105122000"/>
-        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568105122000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380087000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380087000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
         <file name="text-01.svg" crc="339477824" mt="1568380087000"/>
         <file name="text-02.svg" crc="153994423" mt="1568380087000"/>
-        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568279115000"/>
+        <file name="Hafslund logo.png" crc="442517534" mt="1568191735000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568191735000"/>
+        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568191735000"/>
         <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568275411000"/>
         <file name="hydro-smal.jpg" crc="179954893" mt="1568276686000"/>
         <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568380087000"/>
@@ -58,44 +366,25 @@
       <file name="980x300_edge.js" crc="4187992220" mt="1568380087000"/>
       <file name="980x300.html" crc="193717391" mt="1568380087000"/>
     </folder>
-    <folder name="980x3007">
+    <folder name="980x3006">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380857000"/>
       </folder>
       <folder name="images">
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380857000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380857000"/>
-        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568380897000"/>
         <file name="text-01.svg" crc="3930979076" mt="1568380857000"/>
         <file name="text-02.svg" crc="4293234808" mt="1568380857000"/>
-        <file name="Hafslund logo.png" crc="442517534" mt="1568191735000"/>
-        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568191735000"/>
-        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568191735000"/>
-        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568275411000"/>
-        <file name="hydro-smal.jpg" crc="179954893" mt="1568276686000"/>
-      </folder>
-      <file name="transparent.png" crc="3898389484" mt="1568380857000"/>
-      <file name="980x300_edge.js" crc="4213908762" mt="1568380857000"/>
-      <file name="980x300.html" crc="193717391" mt="1568380857000"/>
-    </folder>
-    <folder name="980x3006">
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380897000"/>
-      </folder>
-      <folder name="images">
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380897000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380897000"/>
-        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568380897000"/>
-        <file name="text-01.svg" crc="451364950" mt="1568380897000"/>
-        <file name="text-02.svg" crc="4272348280" mt="1568380897000"/>
         <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568189350000"/>
         <file name="Hafslund logo.png" crc="442517534" mt="1568275640000"/>
         <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568275640000"/>
         <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568275640000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1568380897000"/>
-      <file name="980x300_edge.js" crc="461244602" mt="1568380897000"/>
-      <file name="980x300.html" crc="193717391" mt="1568380897000"/>
+      <file name="transparent.png" crc="3898389484" mt="1568380857000"/>
+      <file name="980x300_edge.js" crc="4213908762" mt="1568380857000"/>
+      <file name="980x300.html" crc="193717391" mt="1568380857000"/>
     </folder>
     <folder name="980x3005">
       <folder name="edge_includes">
@@ -2446,5 +2735,5 @@
   <file name="trivselhus---adform-remarketing.html" crc="515236142" seo="true" mt="1568114409541" redirect="true"/>
   <file name="movehome---adforms-remarketing.html" crc="3972831577" seo="true" mt="1568114409541" redirect="true"/>
   <file name="movehome---google-display-kopia.html" crc="4116935238" seo="true" mt="1568114409541" redirect="true"/>
-  <file name="innofactor.html" crc="3939518366" seo="true" mt="1568381707249" redirect="true"/>
+  <file name="innofactor.html" crc="269285393" seo="true" mt="1568881132448" redirect="true"/>
 </manifest>
