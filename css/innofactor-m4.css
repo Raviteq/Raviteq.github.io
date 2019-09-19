@@ -1,7 +1,7 @@
 .version.innofactor_m4 /* version checker */
 {
-	color: #0000F3;
-	background-color: #C85154;
+	color: #000009;
+	background-color: #AF1E27;
 }
 
 .html
@@ -109,7 +109,7 @@
 
 #u10204
 {
-	z-index: 59;
+	z-index: 57;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -151,24 +151,25 @@
 #u10196
 {
 	z-index: 26;
-	width: 300px;
+	width: 301px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 11px 17px 5px 12px;
+	padding: 10px 12px 5.25px 16px;
 }
 
-#u10207
+#u10326
 {
 	z-index: 62;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
+	margin-left: 1px;
 	position: relative;
 }
 
-#U10208_animation
+#U10345_animation
 {
 	width: 300px;
 	height: 250px;
@@ -183,28 +184,37 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 6px;
+	margin-top: 7px;
 	position: relative;
-}
-
-#pu10192
-{
-	width: 0.01px;
-	margin-left: 4px;
-	margin-top: 13px;
 }
 
 #u10192
 {
 	z-index: 22;
-	width: 352px;
+	width: 303px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-bottom: 9px;
+	margin-left: 4px;
+	margin-top: 13px;
 	position: relative;
-	margin-right: -10000px;
+	padding: 10px 34px 9px 15px;
+}
+
+#u10324
+{
+	z-index: 60;
+	width: 300px;
+	height: 600px;
+	background-color: transparent;
+	position: relative;
+}
+
+#U10337_animation
+{
+	width: 300px;
+	height: 600px;
+	border: none;
 }
 
 #u10200-6
@@ -215,29 +225,9 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
+	margin-left: 10px;
+	margin-top: 7px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 616px;
-	left: 25px;
-}
-
-#u10205
-{
-	z-index: 60;
-	width: 300px;
-	height: 600px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 16px;
-	left: 8px;
-}
-
-#U10211_animation
-{
-	width: 300px;
-	height: 600px;
-	border: none;
 }
 
 #pu10195
@@ -255,19 +245,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 11px 26px 9px 15px;
+	padding: 10px 32px 9.25px 9px;
 }
 
-#u10206
+#u10323
 {
-	z-index: 61;
+	z-index: 59;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U10209_animation
+#U10333_animation
 {
 	width: 320px;
 	height: 250px;
@@ -282,36 +272,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 8px;
-	margin-top: 6px;
+	margin-left: 14px;
+	margin-top: 7px;
 	position: relative;
 }
 
 #u10193
 {
 	z-index: 23;
-	width: 161px;
+	width: 166px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-left: 15px;
-	padding-right: 14px;
-	padding-bottom: 9px;
 	margin-left: 69px;
 	margin-top: 9px;
 	position: relative;
+	padding: 10px 14px 9px 10px;
 }
 
-#u10202
+#u10327
 {
-	z-index: 57;
+	z-index: 58;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U10213_animation
+#U10329_animation
 {
 	width: 160px;
 	height: 600px;
@@ -326,35 +314,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 1px;
-	margin-top: 16px;
+	margin-left: 6px;
+	margin-top: 7px;
 	position: relative;
 }
 
 #u10194
 {
 	z-index: 24;
-	width: 305px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 11px 41px 7px 15px;
+	padding: 10px 46px 7px 15px;
 }
 
-#u10203
+#u10325
 {
-	z-index: 58;
+	z-index: 61;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
 	position: relative;
 }
 
-#U10212_animation
+#U10341_animation
 {
 	width: 300px;
 	height: 300px;
@@ -369,7 +356,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-top: 9px;
 	position: relative;
 }
 

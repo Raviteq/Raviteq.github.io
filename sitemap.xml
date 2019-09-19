@@ -79,12 +79,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/innofactor-m1.html</loc>
-    <lastmod>2019-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://platform.adrapid.com/testbanner/trivselhus/innofactor-m2.html</loc>
     <lastmod>2019-09-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,6 +98,12 @@
   </url>
   <url>
     <loc>http://platform.adrapid.com/testbanner/trivselhus/innofactor-m5.html</loc>
+    <lastmod>2019-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://platform.adrapid.com/testbanner/trivselhus/innofactor.html</loc>
     <lastmod>2019-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
