@@ -2,36 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://platform.adrapid.com/testbanner/trivselhus/images/adform_logo.png</loc>
-    <lastmod>2019-09-19</lastmod>
+    <lastmod>2019-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://platform.adrapid.com/testbanner/trivselhus/index.html</loc>
-    <lastmod>2019-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/trivselhus---display.html</loc>
-    <lastmod>2019-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/movehome---google-display.html</loc>
-    <lastmod>2019-09-10</lastmod>
+    <lastmod>2019-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://platform.adrapid.com/testbanner/trivselhus/movehome---remarketing.html</loc>
-    <lastmod>2019-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/trivselhus---remarketing.html</loc>
     <lastmod>2019-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,12 +55,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://platform.adrapid.com/testbanner/trivselhus/movehome---google-display-kopia.html</loc>
-    <lastmod>2019-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://platform.adrapid.com/testbanner/trivselhus/innofactor-m2.html</loc>
     <lastmod>2019-09-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -105,6 +81,12 @@
   <url>
     <loc>http://platform.adrapid.com/testbanner/trivselhus/innofactor.html</loc>
     <lastmod>2019-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://platform.adrapid.com/testbanner/trivselhus/epsiservers.html</loc>
+    <lastmod>2019-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
