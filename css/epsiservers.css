@@ -1,7 +1,7 @@
 .version.epsiservers /* version checker */
 {
-	color: #000017;
-	background-color: #2FEEA3;
+	color: #0000FC;
+	background-color: #7B8458;
 }
 
 .html
@@ -109,7 +109,7 @@
 
 #u10418
 {
-	z-index: 53;
+	z-index: 52;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -178,7 +178,7 @@
 
 #u10419
 {
-	z-index: 54;
+	z-index: 53;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -208,12 +208,12 @@
 	left: -44px;
 	margin-top: 29px;
 	position: relative;
-	padding: 20px 38px 15.00000000000091px 18px;
+	padding: 24px 33px 15px 23px;
 }
 
-#u10420
+#u10438
 {
-	z-index: 51;
+	z-index: 54;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -228,8 +228,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 5px;
-	margin-top: 23px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -248,14 +247,14 @@
 
 #u10421
 {
-	z-index: 52;
+	z-index: 51;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U10431_animation,#U10407_animation,#U10435_animation,#U10423_animation,#U10427_animation
+#U10431_animation,#U10407_animation,#U10435_animation,#U10440_animation,#U10427_animation
 {
 	width: 980px;
 	height: 300px;
