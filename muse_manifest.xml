@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1573482907293">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1576578736924">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="4176988538" ref="mm---adforms-display:movehome---adforms-remarketing:index:movehome---remarketing:trivselhus---adform-remarketing:trivselhus---hemnet:tr---adform-display:movehome---hemnet:innofactor-m3:innofactor-m2:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-3:epsiservers-2:epsiservers-4:epsiservers-1:epsiservers-5"/>
-    <file name="mm---adforms-display.css" crc="4111442153" ref="mm---adforms-display"/>
-    <file name="movehome---adforms-remarketing.css" crc="3887902570" ref="movehome---adforms-remarketing"/>
+    <file name="master_a-master.css" crc="4086189321" ref="mm---adforms-display:movehome---adforms-remarketing:index:movehome---remarketing:trivselhus---adform-remarketing:trivselhus---hemnet:tr---adform-display:movehome---hemnet:innofactor-m3:innofactor-m2:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-3:epsiservers-2:epsiservers-4:epsiservers-1:epsiservers-5"/>
+    <file name="mm---adforms-display.css" crc="3981587400" ref="mm---adforms-display"/>
+    <file name="movehome---adforms-remarketing.css" crc="30016423" ref="movehome---adforms-remarketing"/>
     <file name="index.css" crc="369348649" ref="index"/>
     <file name="movehome---remarketing.css" crc="62795948" ref="movehome---remarketing"/>
     <file name="trivselhus---adform-remarketing.css" crc="3836441775" ref="trivselhus---adform-remarketing"/>
@@ -23,21 +23,126 @@
     <file name="epsiservers-5.css" crc="18287983" ref="epsiservers-5"/>
   </folder>
   <folder name="assets">
+    <folder name="300x60013">
+      <folder name="images">
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576574267000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576574267000"/>
+        <file name="text-01.svg" crc="157200051" mt="1576574267000"/>
+        <file name="text-02.svg" crc="57552530" mt="1576574267000"/>
+        <file name="text-03.svg" crc="115893269" mt="1576574267000"/>
+        <file name="text-04.svg" crc="4036885894" mt="1576574267000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576574267000"/>
+      </folder>
+      <file name="transparent.png" crc="3932104168" mt="1576574267000"/>
+      <file name="300x600_edge.js" crc="3854596539" mt="1576574267000"/>
+      <file name="300x600.html" crc="4272690459" mt="1576574267000"/>
+    </folder>
+    <folder name="980x1203">
+      <folder name="images">
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576573605000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1576573605000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576573605000"/>
+        <file name="text-01.svg" crc="4271621677" mt="1576573605000"/>
+        <file name="text-02.svg" crc="149721605" mt="1576573605000"/>
+        <file name="text-03.svg" crc="3960743026" mt="1576573605000"/>
+        <file name="text-04.svg" crc="3772846481" mt="1576573605000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576573605000"/>
+      </folder>
+      <file name="transparent.png" crc="102415474" mt="1576573605000"/>
+      <file name="980x120_edge.js" crc="4238809638" mt="1576573605000"/>
+      <file name="980x120.html" crc="369332569" mt="1576573605000"/>
+    </folder>
+    <folder name="160x60011">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576574209000"/>
+      </folder>
+      <folder name="images">
+        <file name="movehome-3a.png" crc="346755312" mt="1576574209000"/>
+        <file name="movehome-3a.eas" crc="47267089" mt="1576574209000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1576574209000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576574209000"/>
+        <file name="text-01.svg" crc="157200051" mt="1576574209000"/>
+        <file name="text-02.svg" crc="57552530" mt="1576574209000"/>
+        <file name="text-03.svg" crc="115893269" mt="1576574209000"/>
+        <file name="text-04.svg" crc="4036885894" mt="1576574209000"/>
+      </folder>
+      <file name="transparent.png" crc="3834486344" mt="1576574209000"/>
+      <file name="160x600_edge.js" crc="425784110" mt="1576574209000"/>
+      <file name="160x600.html" crc="4125032490" mt="1576574209000"/>
+    </folder>
+    <folder name="160x60010">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576571405000"/>
+      </folder>
+      <folder name="images">
+        <file name="movehome-3a.png" crc="346755312" mt="1576571405000"/>
+        <file name="movehome-3a.eas" crc="47267089" mt="1576571405000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1576571405000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576571405000"/>
+        <file name="text-01.svg" crc="3818662779" mt="1576571405000"/>
+        <file name="text-02.svg" crc="57552530" mt="1576571405000"/>
+        <file name="text-03.svg" crc="505165584" mt="1576571405000"/>
+        <file name="text-04.svg" crc="132716780" mt="1576571405000"/>
+      </folder>
+      <file name="transparent.png" crc="3834486344" mt="1576571405000"/>
+      <file name="160x600_edge.js" crc="3950378816" mt="1576571405000"/>
+      <file name="160x600.html" crc="4125032490" mt="1576571405000"/>
+    </folder>
+    <folder name="980x1202">
+      <folder name="images">
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576572087000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1576572087000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576572087000"/>
+        <file name="text-01.svg" crc="46830634" mt="1576572087000"/>
+        <file name="text-02.svg" crc="149721605" mt="1576572087000"/>
+        <file name="text-03.svg" crc="259651802" mt="1576572087000"/>
+        <file name="text-04.svg" crc="4083112022" mt="1576572087000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576572087000"/>
+      </folder>
+      <file name="transparent.png" crc="102415474" mt="1576572087000"/>
+      <file name="980x120_edge.js" crc="3991094723" mt="1576572087000"/>
+      <file name="980x120.html" crc="369332569" mt="1576572087000"/>
+    </folder>
+    <folder name="300x60012">
+      <folder name="images">
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576572018000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576572018000"/>
+        <file name="text-01.svg" crc="3818662779" mt="1576572018000"/>
+        <file name="text-02.svg" crc="57552530" mt="1576572018000"/>
+        <file name="text-03.svg" crc="505165584" mt="1576572018000"/>
+        <file name="text-04.svg" crc="132716780" mt="1576572018000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576572018000"/>
+      </folder>
+      <file name="transparent.png" crc="3932104168" mt="1576572018000"/>
+      <file name="300x600_edge.js" crc="85921538" mt="1576572018000"/>
+      <file name="300x600.html" crc="4272690459" mt="1576572018000"/>
+    </folder>
     <folder name="300x25013">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571384493000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576573924000"/>
       </folder>
       <folder name="images">
         <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571384493000"/>
         <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571384493000"/>
         <file name="Episerver logo.png" crc="3857381892" mt="1571384493000"/>
-        <file name="text-01.svg" crc="337218799" mt="1571384493000"/>
-        <file name="text-02.svg" crc="3879364611" mt="1571384493000"/>
-        <file name="text-03.svg" crc="4181167441" mt="1571384493000"/>
+        <file name="text-01.svg" crc="16978635" mt="1576573924000"/>
+        <file name="text-02.svg" crc="3848311144" mt="1576573924000"/>
+        <file name="text-03.svg" crc="4016757543" mt="1576573924000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576573924000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576573924000"/>
+        <file name="text-04.svg" crc="3866408847" mt="1576573924000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1571384493000"/>
-      <file name="300x250_edge.js" crc="4064776134" mt="1571384493000"/>
-      <file name="300x250.html" crc="275176850" mt="1571384493000"/>
+      <file name="transparent.png" crc="3806630332" mt="1576573924000"/>
+      <file name="300x250_edge.js" crc="3797563835" mt="1576573924000"/>
+      <file name="300x250.html" crc="275176850" mt="1576573924000"/>
     </folder>
     <folder name="300x60011">
       <folder name="edge_includes">
@@ -55,22 +160,6 @@
       <file name="300x600_edge.js" crc="1404854" mt="1571385712000"/>
       <file name="300x600.html" crc="4272690459" mt="1571385712000"/>
     </folder>
-    <folder name="320x25013">
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571384719000"/>
-      </folder>
-      <folder name="images">
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571384719000"/>
-        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571384719000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571384719000"/>
-        <file name="text-01.svg" crc="337218799" mt="1571384719000"/>
-        <file name="text-02.svg" crc="3879364611" mt="1571384719000"/>
-        <file name="text-03.svg" crc="4181167441" mt="1571384719000"/>
-      </folder>
-      <file name="transparent.png" crc="4254097456" mt="1571384719000"/>
-      <file name="320x250_edge.js" crc="4269906090" mt="1571384719000"/>
-      <file name="320x250.html" crc="231206593" mt="1571384719000"/>
-    </folder>
     <folder name="300x30010">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571384667000"/>
@@ -86,21 +175,6 @@
       <file name="transparent.png" crc="3867455704" mt="1571384667000"/>
       <file name="300x300_edge.js" crc="194302963" mt="1571384667000"/>
       <file name="300x300.html" crc="6218752" mt="1571384667000"/>
-    </folder>
-    <folder name="320x25012">
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571642446000"/>
-      </folder>
-      <folder name="images">
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571642446000"/>
-        <file name="Banner 4 - Gartner.png" crc="151323810" mt="1571642446000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571642446000"/>
-        <file name="text-01.svg" crc="531966286" mt="1571642446000"/>
-        <file name="text-02.svg" crc="3785683092" mt="1571642446000"/>
-      </folder>
-      <file name="transparent.png" crc="4254097456" mt="1571642446000"/>
-      <file name="320x250_edge.js" crc="4108430760" mt="1571642446000"/>
-      <file name="320x250.html" crc="231206593" mt="1571642446000"/>
     </folder>
     <folder name="160x6009">
       <folder name="edge_includes">
@@ -121,18 +195,22 @@
     </folder>
     <folder name="300x25012">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571641697000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576571979000"/>
       </folder>
       <folder name="images">
         <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571641697000"/>
         <file name="Banner 4 - Gartner.png" crc="151323810" mt="1571641697000"/>
         <file name="Episerver logo.png" crc="3857381892" mt="1571641697000"/>
-        <file name="text-01.svg" crc="531966286" mt="1571641697000"/>
-        <file name="text-02.svg" crc="3785683092" mt="1571641697000"/>
+        <file name="text-01.svg" crc="219738616" mt="1576571979000"/>
+        <file name="text-02.svg" crc="3848311144" mt="1576571979000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576571979000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576571979000"/>
+        <file name="text-03.svg" crc="417019861" mt="1576571979000"/>
+        <file name="text-04.svg" crc="3997737512" mt="1576571979000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1571641697000"/>
-      <file name="300x250_edge.js" crc="3905998676" mt="1571641697000"/>
-      <file name="300x250.html" crc="275176850" mt="1571641697000"/>
+      <file name="transparent.png" crc="3806630332" mt="1576571979000"/>
+      <file name="300x250_edge.js" crc="289349357" mt="1576571979000"/>
+      <file name="300x250.html" crc="275176850" mt="1576571979000"/>
     </folder>
     <folder name="300x3009">
       <folder name="edge_includes">
@@ -166,18 +244,20 @@
     </folder>
     <folder name="320x25011">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571383047000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571384719000"/>
       </folder>
       <folder name="images">
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571383047000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571384719000"/>
         <file name="Banner 3 - innovasjon.png" crc="25475165" mt="1571383047000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571383047000"/>
-        <file name="text-01.svg" crc="4111368408" mt="1571383047000"/>
-        <file name="text-02.svg" crc="101272469" mt="1571383047000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571384719000"/>
+        <file name="text-01.svg" crc="337218799" mt="1571384719000"/>
+        <file name="text-02.svg" crc="3879364611" mt="1571384719000"/>
+        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571384719000"/>
+        <file name="text-03.svg" crc="4181167441" mt="1571384719000"/>
       </folder>
-      <file name="transparent.png" crc="4065250599" mt="1571383047000"/>
-      <file name="320x250_edge.js" crc="3885873230" mt="1571383047000"/>
-      <file name="320x250.html" crc="231206593" mt="1571383047000"/>
+      <file name="transparent.png" crc="4254097456" mt="1571384719000"/>
+      <file name="320x250_edge.js" crc="4269906090" mt="1571384719000"/>
+      <file name="320x250.html" crc="231206593" mt="1571384719000"/>
     </folder>
     <folder name="300x3008">
       <folder name="edge_includes">
@@ -211,18 +291,20 @@
     </folder>
     <folder name="300x25011">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571382910000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571384493000"/>
       </folder>
       <folder name="images">
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571382910000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571384493000"/>
         <file name="Banner 3 - innovasjon.png" crc="25475165" mt="1571382910000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571382910000"/>
-        <file name="text-01.svg" crc="4111368408" mt="1571382910000"/>
-        <file name="text-02.svg" crc="101272469" mt="1571382910000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571384493000"/>
+        <file name="text-01.svg" crc="337218799" mt="1571384493000"/>
+        <file name="text-02.svg" crc="3879364611" mt="1571384493000"/>
+        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571384493000"/>
+        <file name="text-03.svg" crc="4181167441" mt="1571384493000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1571382910000"/>
-      <file name="300x250_edge.js" crc="411760136" mt="1571382910000"/>
-      <file name="300x250.html" crc="275176850" mt="1571382910000"/>
+      <file name="transparent.png" crc="3806630332" mt="1571384493000"/>
+      <file name="300x250_edge.js" crc="4064776134" mt="1571384493000"/>
+      <file name="300x250.html" crc="275176850" mt="1571384493000"/>
     </folder>
     <folder name="160x6008">
       <folder name="edge_includes">
@@ -256,17 +338,18 @@
     </folder>
     <folder name="300x25010">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571318590000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571641697000"/>
       </folder>
       <folder name="images">
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571318590000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571318590000"/>
-        <file name="text-01.svg" crc="77706272" mt="1571318590000"/>
-        <file name="text-02.svg" crc="3833186781" mt="1571318590000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571641697000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571641697000"/>
+        <file name="text-01.svg" crc="531966286" mt="1571641697000"/>
+        <file name="text-02.svg" crc="3785683092" mt="1571641697000"/>
+        <file name="Banner 4 - Gartner.png" crc="151323810" mt="1571641697000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1571318590000"/>
-      <file name="300x250_edge.js" crc="4284605036" mt="1571318590000"/>
-      <file name="300x250.html" crc="275176850" mt="1571318590000"/>
+      <file name="transparent.png" crc="3806630332" mt="1571641697000"/>
+      <file name="300x250_edge.js" crc="3905998676" mt="1571641697000"/>
+      <file name="300x250.html" crc="275176850" mt="1571641697000"/>
     </folder>
     <folder name="160x6007">
       <folder name="edge_includes">
@@ -285,17 +368,18 @@
     </folder>
     <folder name="320x25010">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571320035000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571642446000"/>
       </folder>
       <folder name="images">
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571320035000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571320035000"/>
-        <file name="text-01.svg" crc="77706272" mt="1571320035000"/>
-        <file name="text-02.svg" crc="3833186781" mt="1571320035000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571642446000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571642446000"/>
+        <file name="text-01.svg" crc="531966286" mt="1571642446000"/>
+        <file name="text-02.svg" crc="3785683092" mt="1571642446000"/>
+        <file name="Banner 4 - Gartner.png" crc="151323810" mt="1571642446000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1571320035000"/>
-      <file name="320x250_edge.js" crc="3820825370" mt="1571320035000"/>
-      <file name="320x250.html" crc="231206593" mt="1571320035000"/>
+      <file name="transparent.png" crc="4254097456" mt="1571642446000"/>
+      <file name="320x250_edge.js" crc="4108430760" mt="1571642446000"/>
+      <file name="320x250.html" crc="231206593" mt="1571642446000"/>
     </folder>
     <folder name="300x3007">
       <folder name="edge_includes">
@@ -313,18 +397,19 @@
     </folder>
     <folder name="320x2509">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571386841000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571383047000"/>
       </folder>
       <folder name="images">
         <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571386841000"/>
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571386841000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571386841000"/>
-        <file name="text-01.svg" crc="56033597" mt="1571386841000"/>
-        <file name="text-02.svg" crc="295897039" mt="1571386841000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571383047000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571383047000"/>
+        <file name="text-01.svg" crc="4111368408" mt="1571383047000"/>
+        <file name="text-02.svg" crc="101272469" mt="1571383047000"/>
+        <file name="Banner 3 - innovasjon.png" crc="25475165" mt="1571383047000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1571386841000"/>
-      <file name="320x250_edge.js" crc="4187612345" mt="1571386841000"/>
-      <file name="320x250.html" crc="231206593" mt="1571386841000"/>
+      <file name="transparent.png" crc="4065250599" mt="1571383047000"/>
+      <file name="320x250_edge.js" crc="3885873230" mt="1571383047000"/>
+      <file name="320x250.html" crc="231206593" mt="1571383047000"/>
     </folder>
     <folder name="300x6007">
       <folder name="edge_includes">
@@ -358,18 +443,19 @@
     </folder>
     <folder name="300x2509">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571386318000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571382910000"/>
       </folder>
       <folder name="images">
         <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571386318000"/>
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571386318000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571386318000"/>
-        <file name="text-01.svg" crc="56033597" mt="1571386318000"/>
-        <file name="text-02.svg" crc="295897039" mt="1571386318000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571382910000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571382910000"/>
+        <file name="text-01.svg" crc="4111368408" mt="1571382910000"/>
+        <file name="text-02.svg" crc="101272469" mt="1571382910000"/>
+        <file name="Banner 3 - innovasjon.png" crc="25475165" mt="1571382910000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1571386318000"/>
-      <file name="300x250_edge.js" crc="3892889485" mt="1571386318000"/>
-      <file name="300x250.html" crc="275176850" mt="1571386318000"/>
+      <file name="transparent.png" crc="3806630332" mt="1571382910000"/>
+      <file name="300x250_edge.js" crc="411760136" mt="1571382910000"/>
+      <file name="300x250.html" crc="275176850" mt="1571382910000"/>
     </folder>
     <folder name="160x6006">
       <folder name="edge_includes">
@@ -386,87 +472,56 @@
       <file name="160x600_edge.js" crc="266121368" mt="1571321560000"/>
       <file name="160x600.html" crc="4125032490" mt="1571321560000"/>
     </folder>
-    <folder name="980x30014">
+    <folder name="980x30012">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571391940000"/>
       </folder>
       <folder name="images">
-        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571391940000"/>
-        <file name="Banner 3 - innovasjon.png" crc="25475165" mt="1571310720000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571230932000"/>
         <file name="Episerver logo.png" crc="3857381892" mt="1571391940000"/>
         <file name="text-01.svg" crc="4268558121" mt="1571391940000"/>
         <file name="text-02.svg" crc="253077495" mt="1571391940000"/>
+        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571391940000"/>
+        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571310703000"/>
+        <file name="text-03.svg" crc="4269590641" mt="1571310703000"/>
         <file name="Banner 4 - Gartner.png" crc="151323810" mt="1571391940000"/>
       </folder>
       <file name="transparent.png" crc="3898389484" mt="1571391940000"/>
       <file name="980x300_edge.js" crc="4018753075" mt="1571391940000"/>
       <file name="980x300.html" crc="193717391" mt="1571391940000"/>
     </folder>
-    <folder name="980x30013">
+    <folder name="980x30011">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571310720000"/>
       </folder>
       <folder name="images">
         <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571310720000"/>
-        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571230987000"/>
+        <file name="Banner 4 - Gartner.png" crc="151323810" mt="1571310712000"/>
         <file name="Episerver logo.png" crc="3857381892" mt="1571310720000"/>
         <file name="text-01.svg" crc="377766305" mt="1571310720000"/>
         <file name="text-02.svg" crc="4057007498" mt="1571310720000"/>
-        <file name="text-03.svg" crc="3920123063" mt="1571230987000"/>
+        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571310703000"/>
+        <file name="text-03.svg" crc="4269590641" mt="1571310703000"/>
         <file name="Banner 3 - innovasjon.png" crc="25475165" mt="1571310720000"/>
       </folder>
       <file name="transparent.png" crc="3898389484" mt="1571310720000"/>
       <file name="980x300_edge.js" crc="4121104608" mt="1571310720000"/>
       <file name="980x300.html" crc="193717391" mt="1571310720000"/>
     </folder>
-    <folder name="980x30012">
+    <folder name="980x30010">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571310729000"/>
       </folder>
       <folder name="images">
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571230932000"/>
+        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571310729000"/>
         <file name="Episerver logo.png" crc="3857381892" mt="1571310729000"/>
         <file name="text-01.svg" crc="83394962" mt="1571310729000"/>
         <file name="text-02.svg" crc="516640943" mt="1571310729000"/>
-        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571310729000"/>
-        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571310703000"/>
-        <file name="text-03.svg" crc="4269590641" mt="1571310703000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571230932000"/>
       </folder>
       <file name="transparent.png" crc="3898389484" mt="1571310729000"/>
       <file name="980x300_edge.js" crc="3790173336" mt="1571310729000"/>
       <file name="980x300.html" crc="193717391" mt="1571310729000"/>
-    </folder>
-    <folder name="980x30011">
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571310703000"/>
-      </folder>
-      <folder name="images">
-        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571310703000"/>
-        <file name="Banner 4 - Gartner.png" crc="151323810" mt="1571310712000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571310703000"/>
-        <file name="text-01.svg" crc="3890863120" mt="1571310703000"/>
-        <file name="text-02.svg" crc="174763566" mt="1571310703000"/>
-        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571310703000"/>
-        <file name="text-03.svg" crc="4269590641" mt="1571310703000"/>
-      </folder>
-      <file name="transparent.png" crc="3898389484" mt="1571310703000"/>
-      <file name="980x300_edge.js" crc="201198727" mt="1571310703000"/>
-      <file name="980x300.html" crc="193717391" mt="1571310703000"/>
-    </folder>
-    <folder name="980x30010">
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571230932000"/>
-      </folder>
-      <folder name="images">
-        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571230905000"/>
-        <file name="Episerver logo.png" crc="3857381892" mt="1571230932000"/>
-        <file name="text-01.svg" crc="4231090077" mt="1571230932000"/>
-        <file name="text-02.svg" crc="4266529190" mt="1571230932000"/>
-        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571230932000"/>
-      </folder>
-      <file name="transparent.png" crc="3898389484" mt="1571230932000"/>
-      <file name="980x300_edge.js" crc="4222576629" mt="1571230932000"/>
-      <file name="980x300.html" crc="193717391" mt="1571230932000"/>
     </folder>
     <folder name="300x3005">
       <folder name="edge_includes">
@@ -501,31 +556,36 @@
     </folder>
     <folder name="320x2508">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882876000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571320035000"/>
       </folder>
       <folder name="images">
         <file name="hydro-smal.jpg" crc="52918148" mt="1568882876000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882876000"/>
-        <file name="text-01.svg" crc="3860919736" mt="1568882876000"/>
-        <file name="text-02.svg" crc="4204278249" mt="1568882876000"/>
+        <file name="text-01.svg" crc="77706272" mt="1571320035000"/>
+        <file name="text-02.svg" crc="3833186781" mt="1571320035000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571320035000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571320035000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1568882876000"/>
-      <file name="320x250_edge.js" crc="54053628" mt="1568882876000"/>
-      <file name="320x250.html" crc="231206593" mt="1568882876000"/>
+      <file name="transparent.png" crc="4254097456" mt="1571320035000"/>
+      <file name="320x250_edge.js" crc="3820825370" mt="1571320035000"/>
+      <file name="320x250.html" crc="231206593" mt="1571320035000"/>
     </folder>
     <folder name="320x2507">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882806000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571386841000"/>
       </folder>
       <folder name="images">
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882806000"/>
         <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568882806000"/>
-        <file name="text-01.svg" crc="339532994" mt="1568882806000"/>
-        <file name="text-02.svg" crc="3829244219" mt="1568882806000"/>
+        <file name="text-01.svg" crc="56033597" mt="1571386841000"/>
+        <file name="text-02.svg" crc="295897039" mt="1571386841000"/>
+        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571386841000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571386841000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571386841000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1568882806000"/>
-      <file name="320x250_edge.js" crc="308243562" mt="1568882806000"/>
-      <file name="320x250.html" crc="231206593" mt="1568882806000"/>
+      <file name="transparent.png" crc="4254097456" mt="1571386841000"/>
+      <file name="320x250_edge.js" crc="4187612345" mt="1571386841000"/>
+      <file name="320x250.html" crc="231206593" mt="1571386841000"/>
     </folder>
     <folder name="300x3004">
       <folder name="edge_includes">
@@ -573,34 +633,37 @@
     </folder>
     <folder name="300x2508">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882833000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571318590000"/>
       </folder>
       <folder name="images">
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568882694000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882833000"/>
         <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568882694000"/>
-        <file name="text-01.svg" crc="3860919736" mt="1568882833000"/>
-        <file name="text-02.svg" crc="4204278249" mt="1568882833000"/>
+        <file name="text-01.svg" crc="77706272" mt="1571318590000"/>
+        <file name="text-02.svg" crc="3833186781" mt="1571318590000"/>
         <file name="hydro-smal.jpg" crc="52918148" mt="1568882833000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571318590000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571318590000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1568882833000"/>
-      <file name="300x250_edge.js" crc="4088917835" mt="1568882833000"/>
-      <file name="300x250.html" crc="275176850" mt="1568882833000"/>
+      <file name="transparent.png" crc="3806630332" mt="1571318590000"/>
+      <file name="300x250_edge.js" crc="4284605036" mt="1571318590000"/>
+      <file name="300x250.html" crc="275176850" mt="1571318590000"/>
     </folder>
     <folder name="320x2506">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882735000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882876000"/>
       </folder>
       <folder name="images">
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568882735000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882735000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882876000"/>
         <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568882735000"/>
-        <file name="text-01.svg" crc="402778163" mt="1568882735000"/>
-        <file name="text-02.svg" crc="339392242" mt="1568882735000"/>
+        <file name="text-01.svg" crc="3860919736" mt="1568882876000"/>
+        <file name="text-02.svg" crc="4204278249" mt="1568882876000"/>
+        <file name="hydro-smal.jpg" crc="52918148" mt="1568882876000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1568882735000"/>
-      <file name="320x250_edge.js" crc="3765603152" mt="1568882735000"/>
-      <file name="320x250.html" crc="231206593" mt="1568882735000"/>
+      <file name="transparent.png" crc="4254097456" mt="1568882876000"/>
+      <file name="320x250_edge.js" crc="54053628" mt="1568882876000"/>
+      <file name="320x250.html" crc="231206593" mt="1568882876000"/>
     </folder>
     <folder name="160x6003">
       <folder name="edge_includes">
@@ -620,18 +683,19 @@
     </folder>
     <folder name="320x2505">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882610000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882806000"/>
       </folder>
       <folder name="images">
         <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568882610000"/>
         <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568882610000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882610000"/>
-        <file name="text-01.svg" crc="3828229534" mt="1568882610000"/>
-        <file name="text-02.svg" crc="40279778" mt="1568882610000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882806000"/>
+        <file name="text-01.svg" crc="339532994" mt="1568882806000"/>
+        <file name="text-02.svg" crc="3829244219" mt="1568882806000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568882806000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1568882610000"/>
-      <file name="320x250_edge.js" crc="95935773" mt="1568882610000"/>
-      <file name="320x250.html" crc="231206593" mt="1568882610000"/>
+      <file name="transparent.png" crc="4254097456" mt="1568882806000"/>
+      <file name="320x250_edge.js" crc="308243562" mt="1568882806000"/>
+      <file name="320x250.html" crc="231206593" mt="1568882806000"/>
     </folder>
     <folder name="300x3002">
       <folder name="edge_includes">
@@ -650,19 +714,22 @@
     </folder>
     <folder name="300x2507">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882765000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571386318000"/>
       </folder>
       <folder name="images">
         <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568882561000"/>
         <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568882561000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882765000"/>
-        <file name="text-01.svg" crc="339532994" mt="1568882765000"/>
-        <file name="text-02.svg" crc="3829244219" mt="1568882765000"/>
+        <file name="text-01.svg" crc="56033597" mt="1571386318000"/>
+        <file name="text-02.svg" crc="295897039" mt="1571386318000"/>
         <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568882765000"/>
+        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571386318000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571386318000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571386318000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1568882765000"/>
-      <file name="300x250_edge.js" crc="250616584" mt="1568882765000"/>
-      <file name="300x250.html" crc="275176850" mt="1568882765000"/>
+      <file name="transparent.png" crc="3806630332" mt="1571386318000"/>
+      <file name="300x250_edge.js" crc="3892889485" mt="1571386318000"/>
+      <file name="300x250.html" crc="275176850" mt="1571386318000"/>
     </folder>
     <folder name="160x6002">
       <folder name="edge_includes">
@@ -699,33 +766,36 @@
     </folder>
     <folder name="300x2506">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882694000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882833000"/>
       </folder>
       <folder name="images">
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882694000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882833000"/>
         <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568882422000"/>
-        <file name="text-01.svg" crc="402778163" mt="1568882694000"/>
-        <file name="text-02.svg" crc="339392242" mt="1568882694000"/>
+        <file name="text-01.svg" crc="3860919736" mt="1568882833000"/>
+        <file name="text-02.svg" crc="4204278249" mt="1568882833000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568882694000"/>
         <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568882694000"/>
+        <file name="hydro-smal.jpg" crc="52918148" mt="1568882833000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1568882694000"/>
-      <file name="300x250_edge.js" crc="3991497033" mt="1568882694000"/>
-      <file name="300x250.html" crc="275176850" mt="1568882694000"/>
+      <file name="transparent.png" crc="3806630332" mt="1568882833000"/>
+      <file name="300x250_edge.js" crc="4088917835" mt="1568882833000"/>
+      <file name="300x250.html" crc="275176850" mt="1568882833000"/>
     </folder>
     <folder name="320x2504">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882475000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882735000"/>
       </folder>
       <folder name="images">
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882475000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882735000"/>
         <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568882475000"/>
-        <file name="text-01.svg" crc="194994216" mt="1568882475000"/>
-        <file name="text-02.svg" crc="4288270392" mt="1568882475000"/>
+        <file name="text-01.svg" crc="402778163" mt="1568882735000"/>
+        <file name="text-02.svg" crc="339392242" mt="1568882735000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568882735000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568882735000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1568882475000"/>
-      <file name="320x250_edge.js" crc="262000358" mt="1568882475000"/>
-      <file name="320x250.html" crc="231206593" mt="1568882475000"/>
+      <file name="transparent.png" crc="4254097456" mt="1568882735000"/>
+      <file name="320x250_edge.js" crc="3765603152" mt="1568882735000"/>
+      <file name="320x250.html" crc="231206593" mt="1568882735000"/>
     </folder>
     <folder name="300x300">
       <folder name="edge_includes">
@@ -775,27 +845,31 @@
     </folder>
     <folder name="980x3009">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568805423000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571310703000"/>
       </folder>
       <folder name="images">
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568805423000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568805423000"/>
         <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568279892000"/>
-        <file name="text-01.svg" crc="451364950" mt="1568805423000"/>
-        <file name="text-02.svg" crc="4272348280" mt="1568805423000"/>
+        <file name="text-01.svg" crc="3890863120" mt="1571310703000"/>
+        <file name="text-02.svg" crc="174763566" mt="1571310703000"/>
         <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568805423000"/>
         <file name="hydro-smal.jpg" crc="179954893" mt="1568294192000"/>
         <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568279115000"/>
         <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568380773000"/>
         <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568380773000"/>
+        <file name="Banner 1 - Hydro.png" crc="323124168" mt="1571310703000"/>
+        <file name="Banner 5 Commerce.png" crc="4123980777" mt="1571310703000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571310703000"/>
+        <file name="text-03.svg" crc="4269590641" mt="1571310703000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1568805423000"/>
-      <file name="980x300_edge.js" crc="461244602" mt="1568805423000"/>
-      <file name="980x300.html" crc="193717391" mt="1568805423000"/>
+      <file name="transparent.png" crc="3898389484" mt="1571310703000"/>
+      <file name="980x300_edge.js" crc="201198727" mt="1571310703000"/>
+      <file name="980x300.html" crc="193717391" mt="1571310703000"/>
     </folder>
     <folder name="980x3008">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380773000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1571230932000"/>
       </folder>
       <folder name="images">
         <file name="Hafslund logo.png" crc="442517534" mt="1568105122000"/>
@@ -803,78 +877,81 @@
         <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568105122000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380773000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380773000"/>
-        <file name="text-01.svg" crc="4292125389" mt="1568380773000"/>
-        <file name="text-02.svg" crc="432619686" mt="1568380773000"/>
+        <file name="text-01.svg" crc="4231090077" mt="1571230932000"/>
+        <file name="text-02.svg" crc="4266529190" mt="1571230932000"/>
         <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568279115000"/>
         <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568275411000"/>
         <file name="hydro-smal.jpg" crc="179954893" mt="1568276686000"/>
         <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568380087000"/>
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568380773000"/>
+        <file name="Banner 2 - tilgjengelighet.png" crc="414868215" mt="1571230932000"/>
+        <file name="Episerver logo.png" crc="3857381892" mt="1571230932000"/>
+      </folder>
+      <file name="transparent.png" crc="3898389484" mt="1571230932000"/>
+      <file name="980x300_edge.js" crc="4222576629" mt="1571230932000"/>
+      <file name="980x300.html" crc="193717391" mt="1571230932000"/>
+    </folder>
+    <folder name="980x3007">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568805423000"/>
+      </folder>
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568805423000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568805423000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
+        <file name="text-01.svg" crc="451364950" mt="1568805423000"/>
+        <file name="text-02.svg" crc="4272348280" mt="1568805423000"/>
+        <file name="Hafslund logo.png" crc="442517534" mt="1568191735000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568191735000"/>
+        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568191735000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568805423000"/>
+        <file name="hydro-smal.jpg" crc="179954893" mt="1568276686000"/>
+        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568380087000"/>
+      </folder>
+      <file name="transparent.png" crc="3898389484" mt="1568805423000"/>
+      <file name="980x300_edge.js" crc="461244602" mt="1568805423000"/>
+      <file name="980x300.html" crc="193717391" mt="1568805423000"/>
+    </folder>
+    <folder name="980x3006">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380773000"/>
+      </folder>
+      <folder name="images">
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380773000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380773000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568380897000"/>
+        <file name="text-01.svg" crc="4292125389" mt="1568380773000"/>
+        <file name="text-02.svg" crc="432619686" mt="1568380773000"/>
+        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568189350000"/>
+        <file name="Hafslund logo.png" crc="442517534" mt="1568275640000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568380773000"/>
+        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568275640000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
         <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568380773000"/>
       </folder>
       <file name="transparent.png" crc="3898389484" mt="1568380773000"/>
       <file name="980x300_edge.js" crc="3787555895" mt="1568380773000"/>
       <file name="980x300.html" crc="193717391" mt="1568380773000"/>
     </folder>
-    <folder name="980x3007">
+    <folder name="980x3005">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380087000"/>
       </folder>
       <folder name="images">
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380087000"/>
         <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380087000"/>
-        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
+        <file name="pal.erik-smal.jpg" crc="397431706" mt="1568105674000"/>
         <file name="text-01.svg" crc="339477824" mt="1568380087000"/>
         <file name="text-02.svg" crc="153994423" mt="1568380087000"/>
-        <file name="Hafslund logo.png" crc="442517534" mt="1568191735000"/>
-        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568191735000"/>
-        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568191735000"/>
-        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568275411000"/>
-        <file name="hydro-smal.jpg" crc="179954893" mt="1568276686000"/>
         <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568380087000"/>
-      </folder>
-      <file name="transparent.png" crc="3898389484" mt="1568380087000"/>
-      <file name="980x300_edge.js" crc="4187992220" mt="1568380087000"/>
-      <file name="980x300.html" crc="193717391" mt="1568380087000"/>
-    </folder>
-    <folder name="980x3006">
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380857000"/>
-      </folder>
-      <folder name="images">
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380857000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380857000"/>
-        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568380897000"/>
-        <file name="text-01.svg" crc="3930979076" mt="1568380857000"/>
-        <file name="text-02.svg" crc="4293234808" mt="1568380857000"/>
-        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568189350000"/>
-        <file name="Hafslund logo.png" crc="442517534" mt="1568275640000"/>
-        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568275640000"/>
-        <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568275640000"/>
-        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
-      </folder>
-      <file name="transparent.png" crc="3898389484" mt="1568380857000"/>
-      <file name="980x300_edge.js" crc="4213908762" mt="1568380857000"/>
-      <file name="980x300.html" crc="193717391" mt="1568380857000"/>
-    </folder>
-    <folder name="980x3005">
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380974000"/>
-      </folder>
-      <folder name="images">
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380974000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380974000"/>
-        <file name="pal.erik-smal.jpg" crc="397431706" mt="1568105674000"/>
-        <file name="text-01.svg" crc="208689259" mt="1568380974000"/>
-        <file name="text-02.svg" crc="295124353" mt="1568380974000"/>
-        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="373896007" mt="1568275385000"/>
         <file name="Hafslund logo.png" crc="442517534" mt="1568275640000"/>
         <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568275640000"/>
         <file name="Hafslund-PNG logo.png" crc="442517534" mt="1568275640000"/>
         <file name="hydro-smal.jpg" crc="179954893" mt="1568380974000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1568380974000"/>
-      <file name="980x300_edge.js" crc="4144027091" mt="1568380974000"/>
-      <file name="980x300.html" crc="193717391" mt="1568380974000"/>
+      <file name="transparent.png" crc="3898389484" mt="1568380087000"/>
+      <file name="980x300_edge.js" crc="4187992220" mt="1568380087000"/>
+      <file name="980x300.html" crc="193717391" mt="1568380087000"/>
     </folder>
     <folder name="250x4805">
       <folder name="edge_includes">
@@ -989,326 +1066,123 @@
       <file name="250x480_edge.js" crc="4084979873" mt="1572867339000"/>
       <file name="250x480.html" crc="3805206160" mt="1572867339000"/>
     </folder>
-    <folder name="250x2403">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1567421769000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567421769000"/>
-        <file name="text-01.svg" crc="4079311994" mt="1567421769000"/>
-        <file name="text-02.svg" crc="270877892" mt="1567421769000"/>
-        <file name="text-03.svg" crc="44579227" mt="1567421769000"/>
-        <file name="text-04.svg" crc="264270240" mt="1567421769000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567421769000"/>
-      </folder>
-      <file name="transparent.png" crc="4102216493" mt="1567421769000"/>
-      <file name="250x240_edge.js" crc="383866537" mt="1567421769000"/>
-      <file name="250x240.html" crc="276142873" mt="1567421769000"/>
-    </folder>
-    <folder name="980x1403">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567421320000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1567421320000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567421320000"/>
-        <file name="text-01.svg" crc="171878291" mt="1567421320000"/>
-        <file name="text-02.svg" crc="149721605" mt="1567421320000"/>
-        <file name="text-03.svg" crc="374663659" mt="1567421320000"/>
-        <file name="text-04.svg" crc="501778174" mt="1567421320000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567421320000"/>
-      </folder>
-      <file name="transparent.png" crc="4171806873" mt="1567421320000"/>
-      <file name="980x140_edge.js" crc="414065307" mt="1567421320000"/>
-      <file name="980x140.html" crc="32580195" mt="1567421320000"/>
-    </folder>
-    <folder name="250x3603">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1567421744000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567421744000"/>
-        <file name="text-01.svg" crc="4079311994" mt="1567421744000"/>
-        <file name="text-02.svg" crc="270877892" mt="1567421744000"/>
-        <file name="text-03.svg" crc="44579227" mt="1567421744000"/>
-        <file name="text-04.svg" crc="264270240" mt="1567421744000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567421744000"/>
-      </folder>
-      <file name="transparent.png" crc="3761973628" mt="1567421744000"/>
-      <file name="250x360_edge.js" crc="4168361593" mt="1567421744000"/>
-      <file name="250x360.html" crc="281462585" mt="1567421744000"/>
-    </folder>
     <folder name="320x2503">
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420977000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420977000"/>
-        <file name="text-01.svg" crc="4015334978" mt="1567420977000"/>
-        <file name="text-02.svg" crc="3848311144" mt="1567420977000"/>
+        <file name="text-01.svg" crc="3828229534" mt="1568882610000"/>
+        <file name="text-02.svg" crc="40279778" mt="1568882610000"/>
         <file name="text-03.svg" crc="3938390319" mt="1567420977000"/>
         <file name="text-04.svg" crc="4173616444" mt="1567420977000"/>
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568882610000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568882610000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882610000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567420977000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882610000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1567420977000"/>
-      <file name="320x250_edge.js" crc="10031174" mt="1567420977000"/>
-      <file name="320x250.html" crc="231206593" mt="1567420977000"/>
-    </folder>
-    <folder name="730x2503">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420772000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1567420772000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420772000"/>
-        <file name="text-01.svg" crc="171878291" mt="1567420772000"/>
-        <file name="text-02.svg" crc="149721605" mt="1567420772000"/>
-        <file name="text-03.svg" crc="374663659" mt="1567420772000"/>
-        <file name="text-04.svg" crc="501778174" mt="1567420772000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567420772000"/>
-      </folder>
-      <file name="transparent.png" crc="374963232" mt="1567420772000"/>
-      <file name="730x250_edge.js" crc="4034053182" mt="1567420772000"/>
-      <file name="730x250.html" crc="418680485" mt="1567420772000"/>
+      <file name="transparent.png" crc="4254097456" mt="1568882610000"/>
+      <file name="320x250_edge.js" crc="95935773" mt="1568882610000"/>
+      <file name="320x250.html" crc="231206593" mt="1568882610000"/>
     </folder>
     <folder name="300x2505">
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420939000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420939000"/>
-        <file name="text-01.svg" crc="3828229534" mt="1568882561000"/>
-        <file name="text-02.svg" crc="40279778" mt="1568882561000"/>
+        <file name="text-01.svg" crc="339532994" mt="1568882765000"/>
+        <file name="text-02.svg" crc="3829244219" mt="1568882765000"/>
         <file name="text-03.svg" crc="3938390319" mt="1567420939000"/>
         <file name="text-04.svg" crc="4173616444" mt="1567420939000"/>
         <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568882561000"/>
         <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568882561000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882561000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882765000"/>
+        <file name="Ta-vår-test-smal.jpg" crc="4150549029" mt="1568882765000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882561000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882765000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1568882561000"/>
-      <file name="300x250_edge.js" crc="532913396" mt="1568882561000"/>
-      <file name="300x250.html" crc="275176850" mt="1568882561000"/>
-    </folder>
-    <folder name="980x1402">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566204988000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1566204988000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566204988000"/>
-        <file name="text-01.svg" crc="4194014563" mt="1566204988000"/>
-        <file name="text-02.svg" crc="149721605" mt="1566204988000"/>
-        <file name="text-03.svg" crc="464296852" mt="1566204988000"/>
-        <file name="text-04.svg" crc="4289585942" mt="1566204988000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566204988000"/>
-      </folder>
-      <file name="transparent.png" crc="4171806873" mt="1566204988000"/>
-      <file name="980x140_edge.js" crc="3993666141" mt="1566204988000"/>
-      <file name="980x140.html" crc="32580195" mt="1566204988000"/>
-    </folder>
-    <folder name="250x3602">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1566301615000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566301615000"/>
-        <file name="text-01.svg" crc="299886237" mt="1566301615000"/>
-        <file name="text-02.svg" crc="270877892" mt="1566301615000"/>
-        <file name="text-03.svg" crc="13449229" mt="1566301615000"/>
-        <file name="text-04.svg" crc="3952453383" mt="1566301615000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566301615000"/>
-      </folder>
-      <file name="transparent.png" crc="3761973628" mt="1566301615000"/>
-      <file name="250x360_edge.js" crc="412324245" mt="1566301615000"/>
-      <file name="250x360.html" crc="281462585" mt="1566301615000"/>
-    </folder>
-    <folder name="320x2403">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567421429000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567421429000"/>
-        <file name="text-01.svg" crc="4055002029" mt="1567421429000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1567421429000"/>
-        <file name="text-03.svg" crc="322279268" mt="1567421429000"/>
-        <file name="text-04.svg" crc="97453881" mt="1567421429000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567421429000"/>
-      </folder>
-      <file name="transparent.png" crc="369183335" mt="1567421429000"/>
-      <file name="320x240_edge.js" crc="520194595" mt="1567421429000"/>
-      <file name="320x240.html" crc="115357833" mt="1567421429000"/>
-    </folder>
-    <folder name="250x2402">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1566301675000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566301675000"/>
-        <file name="text-01.svg" crc="299886237" mt="1566301675000"/>
-        <file name="text-02.svg" crc="270877892" mt="1566301675000"/>
-        <file name="text-03.svg" crc="13449229" mt="1566301675000"/>
-        <file name="text-04.svg" crc="3952453383" mt="1566301675000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566301675000"/>
-      </folder>
-      <file name="transparent.png" crc="4102216493" mt="1566301675000"/>
-      <file name="250x240_edge.js" crc="490661291" mt="1566301675000"/>
-      <file name="250x240.html" crc="276142873" mt="1566301675000"/>
+      <file name="transparent.png" crc="3806630332" mt="1568882765000"/>
+      <file name="300x250_edge.js" crc="250616584" mt="1568882765000"/>
+      <file name="300x250.html" crc="275176850" mt="1568882765000"/>
     </folder>
     <folder name="320x2502">
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566301332000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1566301332000"/>
-        <file name="text-01.svg" crc="4121211447" mt="1566301332000"/>
-        <file name="text-02.svg" crc="3848311144" mt="1566301332000"/>
+        <file name="text-01.svg" crc="194994216" mt="1568882475000"/>
+        <file name="text-02.svg" crc="4288270392" mt="1568882475000"/>
         <file name="text-03.svg" crc="326426752" mt="1566301332000"/>
         <file name="text-04.svg" crc="3986497631" mt="1566301332000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882475000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568882475000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566301332000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882475000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1566301332000"/>
-      <file name="320x250_edge.js" crc="3832553918" mt="1566301332000"/>
-      <file name="320x250.html" crc="231206593" mt="1566301332000"/>
-    </folder>
-    <folder name="730x2502">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566289180000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1566289180000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566289180000"/>
-        <file name="text-01.svg" crc="4194014563" mt="1566289180000"/>
-        <file name="text-02.svg" crc="149721605" mt="1566289180000"/>
-        <file name="text-03.svg" crc="464296852" mt="1566289180000"/>
-        <file name="text-04.svg" crc="4289585942" mt="1566289180000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566289180000"/>
-      </folder>
-      <file name="transparent.png" crc="374963232" mt="1566289180000"/>
-      <file name="730x250_edge.js" crc="3778408994" mt="1566289180000"/>
-      <file name="730x250.html" crc="418680485" mt="1566289180000"/>
+      <file name="transparent.png" crc="4254097456" mt="1568882475000"/>
+      <file name="320x250_edge.js" crc="262000358" mt="1568882475000"/>
+      <file name="320x250.html" crc="231206593" mt="1568882475000"/>
     </folder>
     <folder name="300x2504">
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566301171000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1566301171000"/>
-        <file name="text-01.svg" crc="194994216" mt="1568882422000"/>
-        <file name="text-02.svg" crc="4288270392" mt="1568882422000"/>
+        <file name="text-01.svg" crc="402778163" mt="1568882694000"/>
+        <file name="text-02.svg" crc="339392242" mt="1568882694000"/>
         <file name="text-03.svg" crc="326426752" mt="1566301171000"/>
         <file name="text-04.svg" crc="3986497631" mt="1566301171000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882422000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882694000"/>
         <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568882422000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568882694000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568882694000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882422000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882694000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1568882422000"/>
-      <file name="300x250_edge.js" crc="4288709805" mt="1568882422000"/>
-      <file name="300x250.html" crc="275176850" mt="1568882422000"/>
-    </folder>
-    <folder name="1250x3604">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567498786000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1567498786000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567498786000"/>
-        <file name="text-01.svg" crc="171878291" mt="1567498786000"/>
-        <file name="text-02.svg" crc="149721605" mt="1567498786000"/>
-        <file name="text-03.svg" crc="374663659" mt="1567498786000"/>
-        <file name="text-04.svg" crc="501778174" mt="1567498786000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567498786000"/>
-      </folder>
-      <file name="transparent.png" crc="3829171758" mt="1567498786000"/>
-      <file name="1250x360_edge.js" crc="3847878488" mt="1567498786000"/>
-      <file name="1250x360.html" crc="258899897" mt="1567498786000"/>
+      <file name="transparent.png" crc="3806630332" mt="1568882694000"/>
+      <file name="300x250_edge.js" crc="3991497033" mt="1568882694000"/>
+      <file name="300x250.html" crc="275176850" mt="1568882694000"/>
     </folder>
     <folder name="980x2406">
       <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420010000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1567420010000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420010000"/>
-        <file name="text-01.svg" crc="171878291" mt="1567420010000"/>
-        <file name="text-02.svg" crc="149721605" mt="1567420010000"/>
-        <file name="text-03.svg" crc="374663659" mt="1567420010000"/>
-        <file name="text-04.svg" crc="501778174" mt="1567420010000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576573523000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1576573523000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576573523000"/>
+        <file name="text-01.svg" crc="4271621677" mt="1576573523000"/>
+        <file name="text-02.svg" crc="149721605" mt="1576573523000"/>
+        <file name="text-03.svg" crc="3960743026" mt="1576573523000"/>
+        <file name="text-04.svg" crc="3772846481" mt="1576573523000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567420010000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576573523000"/>
       </folder>
-      <file name="transparent.png" crc="4096946367" mt="1567420010000"/>
-      <file name="980x240_edge.js" crc="3773149892" mt="1567420010000"/>
-      <file name="980x240.html" crc="423900355" mt="1567420010000"/>
+      <file name="transparent.png" crc="4096946367" mt="1576573523000"/>
+      <file name="980x240_edge.js" crc="232389984" mt="1576573523000"/>
+      <file name="980x240.html" crc="423900355" mt="1576573523000"/>
     </folder>
     <folder name="980x3004">
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567498897000"/>
         <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1567498897000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1567498897000"/>
-        <file name="text-01.svg" crc="171878291" mt="1567498897000"/>
-        <file name="text-02.svg" crc="149721605" mt="1567498897000"/>
+        <file name="text-01.svg" crc="3930979076" mt="1568380857000"/>
+        <file name="text-02.svg" crc="4293234808" mt="1568380857000"/>
         <file name="text-03.svg" crc="374663659" mt="1567498897000"/>
         <file name="text-04.svg" crc="501778174" mt="1567498897000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380857000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380857000"/>
+        <file name="Multifactora-smal.jpg" crc="4200385325" mt="1568380857000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567498897000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380857000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1567498897000"/>
-      <file name="980x300_edge.js" crc="394405728" mt="1567498897000"/>
-      <file name="980x300.html" crc="193717391" mt="1567498897000"/>
-    </folder>
-    <folder name="1250x2404">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567498866000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1567498866000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567498866000"/>
-        <file name="text-01.svg" crc="171878291" mt="1567498866000"/>
-        <file name="text-02.svg" crc="149721605" mt="1567498866000"/>
-        <file name="text-03.svg" crc="374663659" mt="1567498866000"/>
-        <file name="text-04.svg" crc="501778174" mt="1567498866000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567498866000"/>
-      </folder>
-      <file name="transparent.png" crc="3777547334" mt="1567498866000"/>
-      <file name="1250x240_edge.js" crc="236439722" mt="1567498866000"/>
-      <file name="1250x240.html" crc="150176113" mt="1567498866000"/>
-    </folder>
-    <folder name="320x1604">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420597000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420597000"/>
-        <file name="text-01.svg" crc="517633583" mt="1567420597000"/>
-        <file name="text-02.svg" crc="4247943521" mt="1567420597000"/>
-        <file name="text-03.svg" crc="167270610" mt="1567420597000"/>
-        <file name="text-04.svg" crc="493794942" mt="1567420597000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567420597000"/>
-      </folder>
-      <file name="transparent.png" crc="4221165708" mt="1567420597000"/>
-      <file name="320x160_edge.js" crc="185841811" mt="1567420597000"/>
-      <file name="320x160.html" crc="147928412" mt="1567420597000"/>
-    </folder>
-    <folder name="250x8004">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420346000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420346000"/>
-        <file name="text-01.svg" crc="464209506" mt="1567420346000"/>
-        <file name="text-02.svg" crc="57552530" mt="1567420346000"/>
-        <file name="text-03.svg" crc="153320489" mt="1567420346000"/>
-        <file name="text-04.svg" crc="403262403" mt="1567420346000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567420346000"/>
-      </folder>
-      <file name="transparent.png" crc="514814253" mt="1567420346000"/>
-      <file name="250x800_edge.js" crc="465999910" mt="1567420346000"/>
-      <file name="250x800.html" crc="4058835027" mt="1567420346000"/>
+      <file name="transparent.png" crc="3898389484" mt="1568380857000"/>
+      <file name="980x300_edge.js" crc="4213908762" mt="1568380857000"/>
+      <file name="980x300.html" crc="193717391" mt="1568380857000"/>
     </folder>
     <folder name="980x2405">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566225748000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576572102000"/>
       </folder>
       <folder name="images">
         <file name="animated_button_standard.png" crc="276052936" mt="1546851130000"/>
@@ -1320,18 +1194,18 @@
         <file name="animated_button_standardshort.svg" crc="317668044" mt="1546851130000"/>
         <file name="animated_button_standardshort22.svg" crc="317668044" mt="1546851130000"/>
         <file name="animated_button_standardshort222.svg" crc="317668044" mt="1546851130000"/>
-        <file name="text-01.svg" crc="4194014563" mt="1566225748000"/>
-        <file name="text-02.svg" crc="149721605" mt="1566225748000"/>
-        <file name="text-03.svg" crc="464296852" mt="1566225748000"/>
-        <file name="text-04.svg" crc="4289585942" mt="1566225748000"/>
+        <file name="text-01.svg" crc="46830634" mt="1576572102000"/>
+        <file name="text-02.svg" crc="149721605" mt="1576572102000"/>
+        <file name="text-03.svg" crc="259651802" mt="1576572102000"/>
+        <file name="text-04.svg" crc="4083112022" mt="1576572102000"/>
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1546851130000"/>
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566225748000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1566225748000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566225748000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576572102000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1576572102000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576572102000"/>
       </folder>
-      <file name="transparent.png" crc="4096946367" mt="1566225748000"/>
-      <file name="980x240_edge.js" crc="4165407982" mt="1566225748000"/>
-      <file name="980x240.html" crc="423900355" mt="1566225748000"/>
+      <file name="transparent.png" crc="4096946367" mt="1576572102000"/>
+      <file name="980x240_edge.js" crc="415740603" mt="1576572102000"/>
+      <file name="980x240.html" crc="423900355" mt="1576572102000"/>
     </folder>
     <folder name="980x2404">
       <folder name="edge_includes">
@@ -1385,7 +1259,7 @@
     </folder>
     <folder name="980x3003">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566300002000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568380974000"/>
       </folder>
       <folder name="images">
         <file name="animated_button_standard.png" crc="276052936" mt="1549970832000"/>
@@ -1399,18 +1273,21 @@
         <file name="animated_button_standardshort22.svg" crc="317668044" mt="1549970832000"/>
         <file name="animated_button_standardshort222.svg" crc="317668044" mt="1549970832000"/>
         <file name="STELLA logo_1.svg" crc="4007759409" mt="1549970832000"/>
-        <file name="text-01.svg" crc="3948670216" mt="1566300002000"/>
-        <file name="text-02.svg" crc="149721605" mt="1566300002000"/>
+        <file name="text-01.svg" crc="208689259" mt="1568380974000"/>
+        <file name="text-02.svg" crc="295124353" mt="1568380974000"/>
         <file name="text-03.svg" crc="464296852" mt="1566300002000"/>
         <file name="text-04.svg" crc="4221619117" mt="1566300002000"/>
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1549970832000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566300002000"/>
         <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1566300002000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1566300002000"/>
+        <file name="hydro-smal.jpg" crc="179954893" mt="1568380974000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1568380974000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568380974000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1566300002000"/>
-      <file name="980x300_edge.js" crc="4026348571" mt="1566300002000"/>
-      <file name="980x300.html" crc="193717391" mt="1566300002000"/>
+      <file name="transparent.png" crc="3898389484" mt="1568380974000"/>
+      <file name="980x300_edge.js" crc="4144027091" mt="1568380974000"/>
+      <file name="980x300.html" crc="193717391" mt="1568380974000"/>
     </folder>
     <folder name="250x240">
       <folder name="edge_includes">
@@ -1468,35 +1345,6 @@
       <file name="980x140_edge.js" crc="4214933213" mt="1565080658000"/>
       <file name="980x140.html" crc="3849758339" mt="1565080658000"/>
     </folder>
-    <folder name="1250x3603">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566299960000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1566299960000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566299960000"/>
-        <file name="text-01.svg" crc="3948670216" mt="1566299960000"/>
-        <file name="text-02.svg" crc="149721605" mt="1566299960000"/>
-        <file name="text-03.svg" crc="464296852" mt="1566299960000"/>
-        <file name="text-04.svg" crc="4221619117" mt="1566299960000"/>
-        <file name="animated_button_standard.png" crc="276052936" mt="1557230244000"/>
-        <file name="bg.jpg" crc="4009106860" mt="1557230244000"/>
-        <file name="book3.jpg" crc="3762180405" mt="1549970838000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1557230244000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1557230244000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1557230244000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1557230244000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1557230244000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1557230244000"/>
-        <file name="STELLA logo_1.svg" crc="4007759409" mt="1549970838000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1557230244000"/>
-        <file name="img_1.jpg" crc="3830844213" mt="1557230244000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566299960000"/>
-      </folder>
-      <file name="transparent.png" crc="3829171758" mt="1566299960000"/>
-      <file name="1250x360_edge.js" crc="500877091" mt="1566299960000"/>
-      <file name="1250x360.html" crc="258899897" mt="1566299960000"/>
-    </folder>
     <folder name="980x3002">
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1557127988000"/>
@@ -1525,63 +1373,6 @@
       <file name="980x300_edge.js" crc="391304444" mt="1557127988000"/>
       <file name="980x300.html" crc="193717391" mt="1557127988000"/>
     </folder>
-    <folder name="1250x2403">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566299970000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1566299970000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566299970000"/>
-        <file name="text-01.svg" crc="3948670216" mt="1566299970000"/>
-        <file name="text-02.svg" crc="149721605" mt="1566299970000"/>
-        <file name="text-03.svg" crc="464296852" mt="1566299970000"/>
-        <file name="text-04.svg" crc="4221619117" mt="1566299970000"/>
-        <file name="animated_button_standard.png" crc="276052936" mt="1549965886000"/>
-        <file name="bg.jpg" crc="4009106860" mt="1549965886000"/>
-        <file name="book3.jpg" crc="3762180405" mt="1549965886000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1549965886000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1549965886000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1549965886000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1549965886000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1549965886000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1549965886000"/>
-        <file name="STELLA logo_1.svg" crc="4007759409" mt="1549965886000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1549965886000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566299970000"/>
-      </folder>
-      <file name="transparent.png" crc="3777547334" mt="1566299970000"/>
-      <file name="1250x240_edge.js" crc="4118570504" mt="1566299970000"/>
-      <file name="1250x240.html" crc="150176113" mt="1566299970000"/>
-    </folder>
-    <folder name="250x8003">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566299203000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566299203000"/>
-        <file name="text-01.svg" crc="487490422" mt="1566299203000"/>
-        <file name="text-02.svg" crc="57552530" mt="1566299203000"/>
-        <file name="text-03.svg" crc="505676210" mt="1566299203000"/>
-        <file name="text-04.svg" crc="4198756275" mt="1566299203000"/>
-        <file name="animated_button_standard.png" crc="276052936" mt="1557303001000"/>
-        <file name="bg.jpg" crc="114880716" mt="1557303001000"/>
-        <file name="book.jpg" crc="3762180405" mt="1549966147000"/>
-        <file name="book.png" crc="4239139397" mt="1549966147000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1557303001000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1557303001000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1557303001000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1557303001000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1557303001000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1557303001000"/>
-        <file name="STELLA logo_1.svg" crc="4007759409" mt="1549966147000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1557303001000"/>
-        <file name="img_1.jpg" crc="140944400" mt="1557303001000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566299203000"/>
-      </folder>
-      <file name="transparent.png" crc="514814253" mt="1566299203000"/>
-      <file name="250x800_edge.js" crc="251788905" mt="1566299203000"/>
-      <file name="250x800.html" crc="4058835027" mt="1566299203000"/>
-    </folder>
     <folder name="980x300">
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1557214675000"/>
@@ -1609,30 +1400,6 @@
       <file name="transparent.png" crc="3898389484" mt="1565080341000"/>
       <file name="980x300_edge.js" crc="186904648" mt="1565080341000"/>
       <file name="980x300.html" crc="401966384" mt="1565080341000"/>
-    </folder>
-    <folder name="320x1603">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566299387000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566299387000"/>
-        <file name="text-01.svg" crc="3881802155" mt="1566299387000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1566299387000"/>
-        <file name="text-03.svg" crc="461202053" mt="1566299387000"/>
-        <file name="text-04.svg" crc="487634667" mt="1566299387000"/>
-        <file name="Bannerbakgrund-skiffer-Trivselhus.jpg" crc="265442407" mt="1549961011000"/>
-        <file name="book.jpg" crc="3762180405" mt="1549961011000"/>
-        <file name="book.png" crc="4239139397" mt="1549961011000"/>
-        <file name="animated_button_longlong.svg" crc="307992496" mt="1549961011000"/>
-        <file name="animated_button_longshort.svg" crc="106381627" mt="1549961011000"/>
-        <file name="Asset 1.svg" crc="433430699" mt="1549961011000"/>
-        <file name="STELLA logo_1.svg" crc="4007759409" mt="1549961011000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="4072902197" mt="1549961011000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566299387000"/>
-      </folder>
-      <file name="transparent.png" crc="4221165708" mt="1566299387000"/>
-      <file name="320x160_edge.js" crc="499057139" mt="1566299387000"/>
-      <file name="320x160.html" crc="147928412" mt="1566299387000"/>
     </folder>
     <folder name="250x8002">
       <folder name="images">
@@ -1719,7 +1486,7 @@
     </folder>
     <folder name="320x3209">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1573461638000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576573798000"/>
       </folder>
       <folder name="images">
         <file name="bg.jpg" crc="266443163" mt="1546863601000"/>
@@ -1730,25 +1497,25 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1546863601000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1546863601000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1546863601000"/>
-        <file name="text-01.svg" crc="4086856717" mt="1573461638000"/>
-        <file name="text-02.svg" crc="356217856" mt="1573461638000"/>
-        <file name="text-03.svg" crc="3822041979" mt="1573461638000"/>
-        <file name="text-04.svg" crc="310140743" mt="1572866575000"/>
+        <file name="text-01.svg" crc="4216167425" mt="1576573798000"/>
+        <file name="text-02.svg" crc="3943103464" mt="1576573798000"/>
+        <file name="text-03.svg" crc="3758597289" mt="1576573798000"/>
+        <file name="text-04.svg" crc="140181844" mt="1576573798000"/>
         <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1573461638000"/>
         <file name="background.jpg" crc="3894467353" mt="1573461638000"/>
         <file name="image.jpg" crc="324627278" mt="1573461638000"/>
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1573461638000"/>
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566299318000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566299318000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576573798000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576573798000"/>
         <file name="background.png" crc="3853839787" mt="1572866575000"/>
         <file name="img_1.jpg" crc="4079913457" mt="1572866575000"/>
         <file name="movehome-3a.png" crc="346755312" mt="1572866575000"/>
         <file name="movehome-3a.eas" crc="47267089" mt="1572866575000"/>
         <file name="img_2.jpg" crc="25397420" mt="1572866575000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1573461638000"/>
-      <file name="320x320_edge.js" crc="145743494" mt="1573461638000"/>
-      <file name="320x320.html" crc="158949603" mt="1573461638000"/>
+      <file name="transparent.png" crc="212055269" mt="1576573798000"/>
+      <file name="320x320_edge.js" crc="407494704" mt="1576573798000"/>
+      <file name="320x320.html" crc="163024156" mt="1576573798000"/>
     </folder>
     <folder name="320x250">
       <folder name="edge_includes">
@@ -1869,7 +1636,7 @@
     </folder>
     <folder name="320x3208">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1573461158000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576572053000"/>
       </folder>
       <folder name="images">
         <file name="bg.jpg" crc="266443163" mt="1549961244000"/>
@@ -1879,10 +1646,10 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1565080254000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1565080254000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1565080254000"/>
-        <file name="text-01.svg" crc="4166812799" mt="1573461158000"/>
-        <file name="text-02.svg" crc="38374810" mt="1573461158000"/>
-        <file name="text-03.svg" crc="95942556" mt="1573461158000"/>
-        <file name="text-04.svg" crc="3879546480" mt="1572867477000"/>
+        <file name="text-01.svg" crc="341054455" mt="1576572053000"/>
+        <file name="text-02.svg" crc="3943103464" mt="1576572053000"/>
+        <file name="text-03.svg" crc="138655275" mt="1576572053000"/>
+        <file name="text-04.svg" crc="3770937928" mt="1576572053000"/>
         <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1573461158000"/>
         <file name="Layer 1.jpg" crc="370108704" mt="1565080254000"/>
         <file name="background.jpg" crc="3894467353" mt="1573461158000"/>
@@ -1895,13 +1662,13 @@
         <file name="book.jpg" crc="3762180405" mt="1549961244000"/>
         <file name="STELLA logo_1.svg" crc="4007759409" mt="1565080254000"/>
         <file name="Layer 2.jpg" crc="92626509" mt="1565080254000"/>
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1557127595000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1557127595000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576572053000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576572053000"/>
         <file name="img_2.jpg" crc="180645468" mt="1572867477000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1573461158000"/>
-      <file name="320x320_edge.js" crc="145743494" mt="1573461158000"/>
-      <file name="320x320.html" crc="158949603" mt="1573461158000"/>
+      <file name="transparent.png" crc="212055269" mt="1576572053000"/>
+      <file name="320x320_edge.js" crc="518449309" mt="1576572053000"/>
+      <file name="320x320.html" crc="163024156" mt="1576572053000"/>
     </folder>
     <folder name="1250x240">
       <folder name="edge_includes">
@@ -2020,9 +1787,9 @@
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420447000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420447000"/>
-        <file name="text-01.svg" crc="289323072" mt="1573462300000"/>
-        <file name="text-02.svg" crc="292913036" mt="1573462300000"/>
-        <file name="text-03.svg" crc="118996692" mt="1573462300000"/>
+        <file name="text-01.svg" crc="4086856717" mt="1573461638000"/>
+        <file name="text-02.svg" crc="356217856" mt="1573461638000"/>
+        <file name="text-03.svg" crc="3822041979" mt="1573461638000"/>
         <file name="text-04.svg" crc="4208787599" mt="1567425462000"/>
         <file name="bg.jpg" crc="266443163" mt="1549898299000"/>
         <file name="img_2.png" crc="93385445" mt="1549898299000"/>
@@ -2031,11 +1798,11 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1565080254000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1565080254000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1565080254000"/>
-        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1573462300000"/>
+        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1573461638000"/>
         <file name="Layer 1.jpg" crc="370108704" mt="1565080254000"/>
-        <file name="background.jpg" crc="3894467353" mt="1573462300000"/>
-        <file name="image.jpg" crc="273996215" mt="1573462300000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1573462300000"/>
+        <file name="background.jpg" crc="3894467353" mt="1573461638000"/>
+        <file name="image.jpg" crc="324627278" mt="1573461638000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1573461638000"/>
         <file name="background.png" crc="3853839787" mt="1567425462000"/>
         <file name="img_1.jpg" crc="34247504" mt="1567425462000"/>
         <file name="movehome-3a.png" crc="346755312" mt="1567425462000"/>
@@ -2046,40 +1813,11 @@
         <file name="img_2.jpg" crc="25397420" mt="1567425462000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1573462300000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1573461638000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1573462300000"/>
-      <file name="320x320_edge.js" crc="3808914388" mt="1573462300000"/>
-      <file name="320x320.html" crc="158949603" mt="1573462300000"/>
-    </folder>
-    <folder name="320x2402">
-      <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566301803000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566301803000"/>
-        <file name="text-01.svg" crc="3881802155" mt="1566301803000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1566301803000"/>
-        <file name="text-03.svg" crc="461202053" mt="1566301803000"/>
-        <file name="text-04.svg" crc="487634667" mt="1566301803000"/>
-        <file name="bg.jpg" crc="266443163" mt="1557231752000"/>
-        <file name="img_2.png" crc="93385445" mt="1549893700000"/>
-        <file name="animated_button_longlong.svg" crc="307992496" mt="1565253245000"/>
-        <file name="animated_button_longlong2.svg" crc="307992496" mt="1565253245000"/>
-        <file name="animated_button_longshort.svg" crc="106381627" mt="1565253245000"/>
-        <file name="animated_button_longshort2.svg" crc="106381627" mt="1565253245000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1565253245000"/>
-        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1565253245000"/>
-        <file name="book.jpg" crc="3762180405" mt="1549893700000"/>
-        <file name="STELLA logo_1.svg" crc="4007759409" mt="1565253245000"/>
-        <file name="img_1.jpg" crc="34056122" mt="1557231752000"/>
-        <file name="layer 1.jpg" crc="59986342" mt="1565253245000"/>
-        <file name="layer 2.jpg" crc="280058921" mt="1565253245000"/>
-      </folder>
-      <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566301803000"/>
-      </folder>
-      <file name="transparent.png" crc="369183335" mt="1566301803000"/>
-      <file name="320x240_edge.js" crc="3927126201" mt="1566301803000"/>
-      <file name="320x240.html" crc="115357833" mt="1566301803000"/>
+      <file name="transparent.png" crc="212055269" mt="1573461638000"/>
+      <file name="320x320_edge.js" crc="145743494" mt="1573461638000"/>
+      <file name="320x320.html" crc="158949603" mt="1573461638000"/>
     </folder>
     <folder name="980x2402">
       <folder name="images">
@@ -2113,9 +1851,9 @@
       <folder name="images">
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566299318000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1566299318000"/>
-        <file name="text-01.svg" crc="198967969" mt="1572866575000"/>
-        <file name="text-02.svg" crc="107954250" mt="1572866575000"/>
-        <file name="text-03.svg" crc="213111482" mt="1572866575000"/>
+        <file name="text-01.svg" crc="4166812799" mt="1573461158000"/>
+        <file name="text-02.svg" crc="38374810" mt="1573461158000"/>
+        <file name="text-03.svg" crc="95942556" mt="1573461158000"/>
         <file name="text-04.svg" crc="310140743" mt="1572866575000"/>
         <file name="bg.jpg" crc="266443163" mt="1546525646000"/>
         <file name="img_2.png" crc="93385445" mt="1546525646000"/>
@@ -2124,10 +1862,10 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1546525646000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1546525646000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1546525646000"/>
-        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1567768043000"/>
-        <file name="background.jpg" crc="3894467353" mt="1567768043000"/>
-        <file name="image.jpg" crc="4021717290" mt="1567768043000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1567768043000"/>
+        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1573461158000"/>
+        <file name="background.jpg" crc="3894467353" mt="1573461158000"/>
+        <file name="image.jpg" crc="4021717290" mt="1573461158000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1573461158000"/>
         <file name="background.png" crc="3853839787" mt="1572866575000"/>
         <file name="img_1.jpg" crc="4079913457" mt="1572866575000"/>
         <file name="img_2.jpg" crc="25397420" mt="1572866575000"/>
@@ -2135,24 +1873,24 @@
         <file name="movehome-3a.eas" crc="47267089" mt="1572866575000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1572866575000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1573461158000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1572866575000"/>
-      <file name="320x320_edge.js" crc="3945965822" mt="1572866575000"/>
-      <file name="320x320.html" crc="357544294" mt="1572866575000"/>
+      <file name="transparent.png" crc="212055269" mt="1573461158000"/>
+      <file name="320x320_edge.js" crc="145743494" mt="1573461158000"/>
+      <file name="320x320.html" crc="158949603" mt="1573461158000"/>
     </folder>
     <folder name="320x3205">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1572867477000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1573462300000"/>
       </folder>
       <folder name="images">
         <file name="background.png" crc="3853839787" mt="1572867477000"/>
         <file name="img_1.jpg" crc="3852831434" mt="1572867477000"/>
         <file name="movehome-3a.png" crc="346755312" mt="1572867477000"/>
         <file name="movehome-3a.eas" crc="47267089" mt="1572867477000"/>
-        <file name="text-01.svg" crc="483784895" mt="1572867477000"/>
-        <file name="text-02.svg" crc="3763758720" mt="1572867477000"/>
-        <file name="text-03.svg" crc="378501830" mt="1572867477000"/>
+        <file name="text-01.svg" crc="289323072" mt="1573462300000"/>
+        <file name="text-02.svg" crc="292913036" mt="1573462300000"/>
+        <file name="text-03.svg" crc="118996692" mt="1573462300000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1557127595000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1557127595000"/>
         <file name="text-04.svg" crc="3879546480" mt="1572867477000"/>
@@ -2164,17 +1902,17 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1549961244000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1549961244000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1549961244000"/>
-        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1567770102000"/>
-        <file name="background.jpg" crc="3894467353" mt="1567770102000"/>
-        <file name="image.jpg" crc="4024114814" mt="1567770102000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1567770102000"/>
+        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1573462300000"/>
+        <file name="background.jpg" crc="3894467353" mt="1573462300000"/>
+        <file name="image.jpg" crc="273996215" mt="1573462300000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1573462300000"/>
         <file name="book.jpg" crc="3762180405" mt="1549961244000"/>
         <file name="STELLA logo_1.svg" crc="4007759409" mt="1549961244000"/>
         <file name="img_2.jpg" crc="180645468" mt="1572867477000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1572867477000"/>
-      <file name="320x320_edge.js" crc="224362977" mt="1572867477000"/>
-      <file name="320x320.html" crc="357544294" mt="1572867477000"/>
+      <file name="transparent.png" crc="212055269" mt="1573462300000"/>
+      <file name="320x320_edge.js" crc="3808914388" mt="1573462300000"/>
+      <file name="320x320.html" crc="158949603" mt="1573462300000"/>
     </folder>
     <folder name="740x1605">
       <folder name="edge_includes">
@@ -2226,20 +1964,20 @@
     </folder>
     <folder name="320x3204">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567420447000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1572866575000"/>
       </folder>
       <folder name="images">
         <file name="background.jpg" crc="3894467353" mt="1554192987000"/>
         <file name="image.jpg" crc="4024114814" mt="1554192987000"/>
-        <file name="text-01.svg" crc="4055002029" mt="1567420447000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1567420447000"/>
-        <file name="text-03.svg" crc="322279268" mt="1567420447000"/>
+        <file name="text-01.svg" crc="198967969" mt="1572866575000"/>
+        <file name="text-02.svg" crc="107954250" mt="1572866575000"/>
+        <file name="text-03.svg" crc="213111482" mt="1572866575000"/>
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1554192987000"/>
         <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1565080254000"/>
-        <file name="background.png" crc="3853839787" mt="1553518763000"/>
-        <file name="img_1.jpg" crc="4049270565" mt="1553518763000"/>
-        <file name="movehome-3a.png" crc="346755312" mt="1553518763000"/>
-        <file name="movehome-3a.eas" crc="47267089" mt="1553518763000"/>
+        <file name="background.png" crc="3853839787" mt="1572866575000"/>
+        <file name="img_1.jpg" crc="4079913457" mt="1572866575000"/>
+        <file name="movehome-3a.png" crc="346755312" mt="1572866575000"/>
+        <file name="movehome-3a.eas" crc="47267089" mt="1572866575000"/>
         <file name="bg.jpg" crc="266443163" mt="1549961244000"/>
         <file name="img_2.png" crc="93385445" mt="1549961244000"/>
         <file name="animated_button_longlong.svg" crc="307992496" mt="1565080254000"/>
@@ -2247,17 +1985,18 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1565080254000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1565080254000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1565080254000"/>
-        <file name="text-04.svg" crc="97453881" mt="1567420447000"/>
+        <file name="text-04.svg" crc="310140743" mt="1572866575000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420447000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1567420447000"/>
         <file name="book.jpg" crc="3762180405" mt="1549961244000"/>
         <file name="STELLA logo_1.svg" crc="4007759409" mt="1565080254000"/>
         <file name="Layer 1.jpg" crc="370108704" mt="1565080254000"/>
         <file name="Layer 2.jpg" crc="92626509" mt="1565080254000"/>
+        <file name="img_2.jpg" crc="25397420" mt="1572866575000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1567420447000"/>
-      <file name="320x320_edge.js" crc="488688595" mt="1567420447000"/>
-      <file name="320x320.html" crc="163024156" mt="1567420447000"/>
+      <file name="transparent.png" crc="212055269" mt="1572866575000"/>
+      <file name="320x320_edge.js" crc="3945965822" mt="1572866575000"/>
+      <file name="320x320.html" crc="357544294" mt="1572866575000"/>
     </folder>
     <folder name="740x1603">
       <folder name="edge_includes">
@@ -2285,19 +2024,19 @@
     </folder>
     <folder name="320x3203">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566299318000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1572867477000"/>
       </folder>
       <folder name="images">
         <file name="background.jpg" crc="3894467353" mt="1554192790000"/>
         <file name="image.jpg" crc="22879609" mt="1554192790000"/>
-        <file name="text-01.svg" crc="3881802155" mt="1566299318000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1566299318000"/>
-        <file name="text-03.svg" crc="461202053" mt="1566299318000"/>
+        <file name="text-01.svg" crc="483784895" mt="1572867477000"/>
+        <file name="text-02.svg" crc="3763758720" mt="1572867477000"/>
+        <file name="text-03.svg" crc="378501830" mt="1572867477000"/>
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1554192790000"/>
         <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1554192790000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566299318000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1566299318000"/>
-        <file name="text-04.svg" crc="487634667" mt="1566299318000"/>
+        <file name="text-04.svg" crc="3879546480" mt="1572867477000"/>
         <file name="bg.jpg" crc="266443163" mt="1549898299000"/>
         <file name="img_2.png" crc="93385445" mt="1549898299000"/>
         <file name="Layer 1.jpg" crc="467162071" mt="1546863601000"/>
@@ -2308,15 +2047,15 @@
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1549898299000"/>
         <file name="book.jpg" crc="3762180405" mt="1549898299000"/>
         <file name="STELLA logo_1.svg" crc="4007759409" mt="1549898299000"/>
-        <file name="background.png" crc="3853839787" mt="1553519225000"/>
-        <file name="img_1.jpg" crc="282724787" mt="1553519225000"/>
-        <file name="img_2.jpg" crc="3852831434" mt="1553517596000"/>
-        <file name="movehome-3a.png" crc="346755312" mt="1553519225000"/>
-        <file name="movehome-3a.eas" crc="47267089" mt="1553519225000"/>
+        <file name="background.png" crc="3853839787" mt="1572867477000"/>
+        <file name="img_1.jpg" crc="3852831434" mt="1572867477000"/>
+        <file name="img_2.jpg" crc="180645468" mt="1572867477000"/>
+        <file name="movehome-3a.png" crc="346755312" mt="1572867477000"/>
+        <file name="movehome-3a.eas" crc="47267089" mt="1572867477000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1566299318000"/>
-      <file name="320x320_edge.js" crc="185378192" mt="1566299318000"/>
-      <file name="320x320.html" crc="163024156" mt="1566299318000"/>
+      <file name="transparent.png" crc="212055269" mt="1572867477000"/>
+      <file name="320x320_edge.js" crc="224362977" mt="1572867477000"/>
+      <file name="320x320.html" crc="357544294" mt="1572867477000"/>
     </folder>
     <folder name="320x3202">
       <folder name="edge_includes">
@@ -2474,24 +2213,24 @@
     </folder>
     <folder name="728x904">
       <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567421365000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1567421365000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1567421365000"/>
-        <file name="text-01.svg" crc="171878291" mt="1567421365000"/>
-        <file name="text-02.svg" crc="149721605" mt="1567421365000"/>
-        <file name="text-03.svg" crc="374663659" mt="1567421365000"/>
-        <file name="text-04.svg" crc="501778174" mt="1567421365000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576573649000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1576573649000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576573649000"/>
+        <file name="text-01.svg" crc="4271621677" mt="1576573649000"/>
+        <file name="text-02.svg" crc="149721605" mt="1576573649000"/>
+        <file name="text-03.svg" crc="3960743026" mt="1576573649000"/>
+        <file name="text-04.svg" crc="3772846481" mt="1576573649000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567421365000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576573649000"/>
       </folder>
-      <file name="transparent.png" crc="163585526" mt="1567421365000"/>
-      <file name="728x90_edge.js" crc="3951308569" mt="1567421365000"/>
-      <file name="728x90.html" crc="3862761563" mt="1567421365000"/>
+      <file name="transparent.png" crc="163585526" mt="1576573649000"/>
+      <file name="728x90_edge.js" crc="4083735289" mt="1576573649000"/>
+      <file name="728x90.html" crc="3862761563" mt="1576573649000"/>
     </folder>
     <folder name="300x2503">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1567420939000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882561000"/>
       </folder>
       <folder name="images">
         <file name="bg.jpg" crc="266443163" mt="1451900011000"/>
@@ -2502,8 +2241,8 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1565267375000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1565267375000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1565267375000"/>
-        <file name="text-01.svg" crc="4015334978" mt="1567420939000"/>
-        <file name="text-02.svg" crc="3848311144" mt="1567420939000"/>
+        <file name="text-01.svg" crc="3828229534" mt="1568882561000"/>
+        <file name="text-02.svg" crc="40279778" mt="1568882561000"/>
         <file name="text-03.svg" crc="3938390319" mt="1567420939000"/>
         <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1565267375000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1567420939000"/>
@@ -2512,10 +2251,13 @@
         <file name="layer 1.jpg" crc="59986342" mt="1565267375000"/>
         <file name="layer 2.jpg" crc="280058921" mt="1565267375000"/>
         <file name="STELLA logo_1.svg" crc="4007759409" mt="1565267375000"/>
+        <file name="Hafslund-logo.v3.png" crc="10940952" mt="1568882561000"/>
+        <file name="Hafslund-man-smal.jpg" crc="408413722" mt="1568882561000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882561000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1567420939000"/>
-      <file name="300x250_edge.js" crc="4141974568" mt="1567420939000"/>
-      <file name="300x250.html" crc="275176850" mt="1567420939000"/>
+      <file name="transparent.png" crc="3806630332" mt="1568882561000"/>
+      <file name="300x250_edge.js" crc="532913396" mt="1568882561000"/>
+      <file name="300x250.html" crc="275176850" mt="1568882561000"/>
     </folder>
     <folder name="980x240">
       <folder name="edge_includes">
@@ -2600,21 +2342,21 @@
     </folder>
     <folder name="728x903">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566204938000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576572072000"/>
       </folder>
       <folder name="images">
         <file name="img_1.jpg" crc="3988631608" mt="1448461313000"/>
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566204938000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1566204938000"/>
-        <file name="text-01.svg" crc="4194014563" mt="1566204938000"/>
-        <file name="text-02.svg" crc="149721605" mt="1566204938000"/>
-        <file name="text-03.svg" crc="464296852" mt="1566204938000"/>
-        <file name="text-04.svg" crc="4289585942" mt="1566204938000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1566204938000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1576572072000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1576572072000"/>
+        <file name="text-01.svg" crc="46830634" mt="1576572072000"/>
+        <file name="text-02.svg" crc="149721605" mt="1576572072000"/>
+        <file name="text-03.svg" crc="259651802" mt="1576572072000"/>
+        <file name="text-04.svg" crc="4083112022" mt="1576572072000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1576572072000"/>
       </folder>
-      <file name="transparent.png" crc="163585526" mt="1566204938000"/>
-      <file name="728x90_edge.js" crc="490287065" mt="1566204938000"/>
-      <file name="728x90.html" crc="3862761563" mt="1566204938000"/>
+      <file name="transparent.png" crc="163585526" mt="1576572072000"/>
+      <file name="728x90_edge.js" crc="3912091358" mt="1576572072000"/>
+      <file name="728x90.html" crc="3862761563" mt="1576572072000"/>
     </folder>
     <folder name="728x902">
       <folder name="edge_includes">
@@ -2672,7 +2414,7 @@
     </folder>
     <folder name="300x2502">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1566301171000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1568882422000"/>
       </folder>
       <folder name="images">
         <file name="bg.jpg" crc="266443163" mt="1448453252000"/>
@@ -2683,17 +2425,19 @@
         <file name="animated_button_longshort.svg" crc="106381627" mt="1448453252000"/>
         <file name="animated_button_longshort2.svg" crc="106381627" mt="1448453252000"/>
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1448453252000"/>
-        <file name="text-01.svg" crc="4121211447" mt="1566301171000"/>
-        <file name="text-02.svg" crc="3848311144" mt="1566301171000"/>
+        <file name="text-01.svg" crc="194994216" mt="1568882422000"/>
+        <file name="text-02.svg" crc="4288270392" mt="1568882422000"/>
         <file name="text-03.svg" crc="326426752" mt="1566301171000"/>
         <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1448453252000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1566301171000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1566301171000"/>
         <file name="text-04.svg" crc="3986497631" mt="1566301171000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1568882422000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="129026512" mt="1568882422000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1566301171000"/>
-      <file name="300x250_edge.js" crc="462114819" mt="1566301171000"/>
-      <file name="300x250.html" crc="275176850" mt="1566301171000"/>
+      <file name="transparent.png" crc="3806630332" mt="1568882422000"/>
+      <file name="300x250_edge.js" crc="4288709805" mt="1568882422000"/>
+      <file name="300x250.html" crc="275176850" mt="1568882422000"/>
     </folder>
     <folder name="728x90">
       <folder name="edge_includes">
@@ -2877,34 +2621,34 @@
   <folder name="images">
     <file name="pattern-1.jpg" crc="4229835355" ref="index"/>
     <file name="adrapid logo 3x1 text white new.svg" crc="374240259" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor-m2:innofactor-m3:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-1:epsiservers-2:epsiservers-3:epsiservers-4:epsiservers-5"/>
-    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet"/>
+    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
     <file name="adform_logo.png" crc="4183796416" seo="true" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing"/>
     <file name="hemnet.svg" crc="268460664" ref="index:trivselhus---hemnet:movehome---hemnet"/>
     <file name="hemnet_poster_.png" crc="4161190793" ref="index:movehome---hemnet:trivselhus---hemnet"/>
     <file name="google_2015_logo.svg" crc="393842578" ref="movehome---remarketing"/>
     <file name="mail.svg" crc="341753094" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor-m2:innofactor-m3:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-1:epsiservers-2:epsiservers-3:epsiservers-4:epsiservers-5"/>
-    <file name="mail_poster_.png" crc="4101486600" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet"/>
+    <file name="mail_poster_.png" crc="4101486600" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
     <file name="facebook.svg" crc="426374568" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor-m2:innofactor-m3:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-1:epsiservers-2:epsiservers-3:epsiservers-4:epsiservers-5"/>
-    <file name="facebook_poster_.png" crc="436869026" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet"/>
+    <file name="facebook_poster_.png" crc="436869026" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
     <file name="youtube.svg" crc="4147027439" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor-m2:innofactor-m3:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-1:epsiservers-2:epsiservers-3:epsiservers-4:epsiservers-5"/>
-    <file name="youtube_poster_.png" crc="176465924" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet"/>
+    <file name="youtube_poster_.png" crc="176465924" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
     <file name="twitter.svg" crc="3934615787" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor-m2:innofactor-m3:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-1:epsiservers-2:epsiservers-3:epsiservers-4:epsiservers-5"/>
-    <file name="twitter_poster_.png" crc="70529161" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet"/>
+    <file name="twitter_poster_.png" crc="70529161" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
     <file name="googleplus.svg" crc="4118354756" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor-m2:innofactor-m3:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-1:epsiservers-2:epsiservers-3:epsiservers-4:epsiservers-5"/>
-    <file name="googleplus_poster_.png" crc="372156627" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet"/>
+    <file name="googleplus_poster_.png" crc="372156627" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
     <file name="linkedin.svg" crc="4186885566" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor-m2:innofactor-m3:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-1:epsiservers-2:epsiservers-3:epsiservers-4:epsiservers-5"/>
-    <file name="linkedin_poster_.png" crc="183638388" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet"/>
+    <file name="linkedin_poster_.png" crc="183638388" ref="index:epsiservers:epsiservers-1:movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
     <file name="arrow.svg" crc="147237265" ref="movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing"/>
-    <file name="arrow_poster_.png" crc="47535081" ref="movehome---hemnet:trivselhus---hemnet"/>
+    <file name="arrow_poster_.png" crc="47535081" ref="movehome---hemnet:trivselhus---hemnet:mm---adforms-display"/>
   </folder>
   <file name="index.html" crc="74239481" seo="true" mt="1571234676463" redirect="true"/>
   <file name="movehome---remarketing.html" crc="427188349" seo="true" mt="1568114409541" redirect="true"/>
   <file name="trivselhus---hemnet.html" crc="4247110751" seo="true" mt="1573482867802" redirect="true"/>
   <file name="movehome---hemnet.html" crc="183002524" seo="true" mt="1572879787161" redirect="true"/>
-  <file name="mm---adforms-display.html" crc="405312414" seo="true" mt="1568114409541" redirect="true"/>
+  <file name="mm---adforms-display.html" crc="64538891" seo="true" mt="1576578573247" redirect="true"/>
   <file name="tr---adform-display.html" crc="22408043" seo="true" mt="1568114409541" redirect="true"/>
   <file name="trivselhus---adform-remarketing.html" crc="515236142" seo="true" mt="1568114409541" redirect="true"/>
-  <file name="movehome---adforms-remarketing.html" crc="3972831577" seo="true" mt="1568114409541" redirect="true"/>
+  <file name="movehome---adforms-remarketing.html" crc="3892253130" seo="true" mt="1576578717131" redirect="true"/>
   <file name="innofactor-m2.html" crc="4104894939" seo="true" mt="1568883612834" redirect="true"/>
   <file name="innofactor-m3.html" crc="3840527846" seo="true" mt="1568883689408" redirect="true"/>
   <file name="innofactor-m4.html" crc="4141943688" seo="true" mt="1568883767119" redirect="true"/>
