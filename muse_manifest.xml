@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1576757864497">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1576765545217">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="4053262757" ref="mm---adforms-display:movehome---adforms-remarketing:index:movehome---remarketing:trivselhus---adform-remarketing:trivselhus---hemnet:tr---adform-display:movehome---hemnet:innofactor-m3:innofactor-m2:innofactor-m4:innofactor-m5:innofactor:epsiservers:epsiservers-3:epsiservers-2:epsiservers-4:epsiservers-1:epsiservers-5:powel"/>
@@ -14,7 +14,7 @@
     <file name="innofactor-m2.css" crc="4145183901" ref="innofactor-m2"/>
     <file name="innofactor-m4.css" crc="162471463" ref="innofactor-m4"/>
     <file name="innofactor-m5.css" crc="4156977403" ref="innofactor-m5"/>
-    <file name="innofactor.css" crc="4018262760" ref="innofactor"/>
+    <file name="innofactor.css" crc="3794290397" ref="innofactor"/>
     <file name="epsiservers.css" crc="4123771119" ref="epsiservers"/>
     <file name="epsiservers-3.css" crc="373599722" ref="epsiservers-3"/>
     <file name="epsiservers-2.css" crc="4243440923" ref="epsiservers-2"/>
@@ -26,34 +26,34 @@
   <folder name="assets">
     <folder name="160x60013">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576756006000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576763263000"/>
       </folder>
       <folder name="images">
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576756006000"/>
-        <file name="Moderne-Samhandling-Hero-160x200.jpg" crc="180380956" mt="1576756006000"/>
-        <file name="text-01.svg" crc="33672730" mt="1576756006000"/>
-        <file name="text-02.svg" crc="4209521029" mt="1576756006000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576763263000"/>
+        <file name="Moderne-Samhandling-Hero-160x200.jpg" crc="180380956" mt="1576763263000"/>
+        <file name="text-01.svg" crc="4290185754" mt="1576763263000"/>
+        <file name="text-02.svg" crc="4209521029" mt="1576763263000"/>
       </folder>
-      <file name="transparent.png" crc="3834486344" mt="1576756006000"/>
-      <file name="160x600_edge.js" crc="197024376" mt="1576756006000"/>
-      <file name="160x600.html" crc="4125032490" mt="1576756006000"/>
+      <file name="transparent.png" crc="3834486344" mt="1576763263000"/>
+      <file name="160x600_edge.js" crc="175597230" mt="1576763263000"/>
+      <file name="160x600.html" crc="4125032490" mt="1576763263000"/>
     </folder>
     <folder name="300x25014">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576756333000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576763953000"/>
       </folder>
       <folder name="images">
         <file name="Layer 1.jpg" crc="436664539" mt="1576751234000"/>
         <file name="powel-logo_hvit_RGB_04-2019_2.png" crc="4288121653" mt="1576751234000"/>
-        <file name="text-01.svg" crc="3876175339" mt="1576756333000"/>
-        <file name="text-02.svg" crc="3889146506" mt="1576756333000"/>
+        <file name="text-01.svg" crc="4148713790" mt="1576763953000"/>
+        <file name="text-02.svg" crc="502183643" mt="1576763953000"/>
         <file name="text-03.svg" crc="476193452" mt="1576751234000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576756333000"/>
-        <file name="Moderne Samhandling Hero 300 250.jpg" crc="520735609" mt="1576756333000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576763953000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="520735609" mt="1576763953000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1576756333000"/>
-      <file name="300x250_edge.js" crc="212672023" mt="1576756333000"/>
-      <file name="300x250.html" crc="275176850" mt="1576756333000"/>
+      <file name="transparent.png" crc="3806630332" mt="1576763953000"/>
+      <file name="300x250_edge.js" crc="174058242" mt="1576763953000"/>
+      <file name="300x250.html" crc="275176850" mt="1576763953000"/>
     </folder>
     <folder name="160x60012">
       <folder name="edge_includes">
@@ -74,72 +74,72 @@
     </folder>
     <folder name="320x25012">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576756818000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576764153000"/>
       </folder>
       <folder name="images">
         <file name="Layer 1.jpg" crc="436664539" mt="1576751704000"/>
         <file name="powel-logo_hvit_RGB_04-2019_2.png" crc="4288121653" mt="1576751704000"/>
-        <file name="text-01.svg" crc="3876175339" mt="1576756818000"/>
-        <file name="text-02.svg" crc="3889146506" mt="1576756818000"/>
+        <file name="text-01.svg" crc="154537875" mt="1576764153000"/>
+        <file name="text-02.svg" crc="502183643" mt="1576764153000"/>
         <file name="text-03.svg" crc="476193452" mt="1576751704000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576756818000"/>
-        <file name="Moderne Samhandling Hero 300 250.jpg" crc="3935581868" mt="1576756818000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576764153000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="3935581868" mt="1576764153000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1576756818000"/>
-      <file name="320x250_edge.js" crc="3764725235" mt="1576756818000"/>
-      <file name="320x250.html" crc="231206593" mt="1576756818000"/>
+      <file name="transparent.png" crc="4254097456" mt="1576764153000"/>
+      <file name="320x250_edge.js" crc="516579188" mt="1576764153000"/>
+      <file name="320x250.html" crc="231206593" mt="1576764153000"/>
     </folder>
     <folder name="980x30013">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576756886000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576764492000"/>
       </folder>
       <folder name="images">
         <file name="Layer 1.jpg" crc="436664539" mt="1576750170000"/>
         <file name="powel-logo_hvit_RGB_04-2019_2.png" crc="4288121653" mt="1576750170000"/>
-        <file name="text-01.svg" crc="3798180116" mt="1576756886000"/>
-        <file name="text-02.svg" crc="3867708741" mt="1576756886000"/>
+        <file name="text-01.svg" crc="33891415" mt="1576764492000"/>
+        <file name="text-02.svg" crc="3867708741" mt="1576764492000"/>
         <file name="text_Artboard 3.svg" crc="153621324" mt="1576750170000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1576756886000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576756886000"/>
-        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="3950051539" mt="1576756886000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small.png" crc="516937415" mt="1576764492000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576764492000"/>
+        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="3950051539" mt="1576764492000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1576756886000"/>
-      <file name="980x300_edge.js" crc="3931158751" mt="1576756886000"/>
-      <file name="980x300.html" crc="193717391" mt="1576756886000"/>
+      <file name="transparent.png" crc="3898389484" mt="1576764492000"/>
+      <file name="980x300_edge.js" crc="4095698236" mt="1576764492000"/>
+      <file name="980x300.html" crc="193717391" mt="1576764492000"/>
     </folder>
     <folder name="300x30011">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576756596000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576764034000"/>
       </folder>
       <folder name="images">
         <file name="Layer 1.jpg" crc="436664539" mt="1576751485000"/>
         <file name="powel-logo_hvit_RGB_04-2019_2.png" crc="4288121653" mt="1576751485000"/>
-        <file name="text-01.svg" crc="4131467180" mt="1576756596000"/>
-        <file name="text-02.svg" crc="502183643" mt="1576756596000"/>
+        <file name="text-01.svg" crc="154537875" mt="1576764034000"/>
+        <file name="text-02.svg" crc="502183643" mt="1576764034000"/>
         <file name="text-03.svg" crc="476193452" mt="1576751485000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576756596000"/>
-        <file name="Moderne Samhandling Hero 300 250.jpg" crc="3870128335" mt="1576756596000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576764034000"/>
+        <file name="Moderne Samhandling Hero 300 250.jpg" crc="3870128335" mt="1576764034000"/>
       </folder>
-      <file name="transparent.png" crc="3867455704" mt="1576756596000"/>
-      <file name="300x300_edge.js" crc="84945751" mt="1576756596000"/>
-      <file name="300x300.html" crc="6218752" mt="1576756596000"/>
+      <file name="transparent.png" crc="3867455704" mt="1576764034000"/>
+      <file name="300x300_edge.js" crc="4006540337" mt="1576764034000"/>
+      <file name="300x300.html" crc="6218752" mt="1576764034000"/>
     </folder>
     <folder name="300x60014">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576756700000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1576764328000"/>
       </folder>
       <folder name="images">
         <file name="Layer 1.jpg" crc="436664539" mt="1576752024000"/>
         <file name="powel-logo_hvit_RGB_04-2019_2.png" crc="4288121653" mt="1576752024000"/>
-        <file name="text-01.svg" crc="4229940650" mt="1576756700000"/>
-        <file name="text-02.svg" crc="325929431" mt="1576756700000"/>
+        <file name="text-01.svg" crc="354419376" mt="1576764328000"/>
+        <file name="text-02.svg" crc="325929431" mt="1576764328000"/>
         <file name="text-03.svg" crc="4243652308" mt="1576752024000"/>
-        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576756700000"/>
-        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="3817126111" mt="1576756700000"/>
+        <file name="Innofactorlogo_RGB_0_67_168_transparent_small_white.png" crc="3855795907" mt="1576764328000"/>
+        <file name="Moderne-Samhandling-Hero-smal.jpg" crc="3817126111" mt="1576764328000"/>
       </folder>
-      <file name="transparent.png" crc="3932104168" mt="1576756700000"/>
-      <file name="300x600_edge.js" crc="442019635" mt="1576756700000"/>
-      <file name="300x600.html" crc="4272690459" mt="1576756700000"/>
+      <file name="transparent.png" crc="3932104168" mt="1576764328000"/>
+      <file name="300x600_edge.js" crc="3963462129" mt="1576764328000"/>
+      <file name="300x600.html" crc="4272690459" mt="1576764328000"/>
     </folder>
     <folder name="300x60013">
       <folder name="images">
@@ -2853,7 +2853,7 @@
   <file name="innofactor-m3.html" crc="3840527846" seo="true" mt="1568883689408" redirect="true"/>
   <file name="innofactor-m4.html" crc="4141943688" seo="true" mt="1568883767119" redirect="true"/>
   <file name="innofactor-m5.html" crc="3951025693" seo="true" mt="1568883838574" redirect="true"/>
-  <file name="innofactor.html" crc="4253918838" seo="true" mt="1576757836108" redirect="true"/>
+  <file name="innofactor.html" crc="249906140" seo="true" mt="1576765487695" redirect="true"/>
   <file name="epsiservers.html" crc="3969856203" seo="true" mt="1571393741430" redirect="true"/>
   <file name="epsiservers-1.html" crc="265138897" seo="true" mt="1571644762665" redirect="true"/>
   <file name="epsiservers-2.html" crc="4176938121" seo="true" mt="1571644865702" redirect="true"/>
