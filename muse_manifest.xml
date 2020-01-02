@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1577976738826">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1577977140446">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="261215042" ref="trivselhus---hemnet:powel:innofactor:tr---adform-display:movehome---hemnet:index:epsiservers:movehome---adforms-remarketing:mm---adforms-display:movehome---remarketing:epsiservers-1:trivselhus---adform-remarketing:powel1"/>
@@ -14,24 +14,24 @@
     <file name="movehome---remarketing.css" crc="4077166678" ref="movehome---remarketing"/>
     <file name="epsiservers-1.css" crc="3928647259" ref="epsiservers-1"/>
     <file name="trivselhus---adform-remarketing.css" crc="475222852" ref="trivselhus---adform-remarketing"/>
-    <file name="powel1.css" crc="475612260" ref="powel1"/>
+    <file name="powel1.css" crc="3817440996" ref="powel1"/>
   </folder>
   <folder name="assets">
     <folder name="980x30010">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1577973208000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1577976477000"/>
       </folder>
       <folder name="images">
-        <file name="Layer 1.jpg" crc="3878564414" mt="1577973208000"/>
-        <file name="Asset 1a.svg" crc="4188115536" mt="1577973208000"/>
-        <file name="image.svg" crc="3906946394" mt="1577973208000"/>
-        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1577973208000"/>
-        <file name="text-01.svg" crc="4142532142" mt="1577973208000"/>
-        <file name="text-02.svg" crc="460386697" mt="1577973208000"/>
+        <file name="Layer 1.jpg" crc="3878564414" mt="1577976477000"/>
+        <file name="Asset 1a.svg" crc="4188115536" mt="1577976477000"/>
+        <file name="image.svg" crc="3906946394" mt="1577976477000"/>
+        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1577976477000"/>
+        <file name="text-01.svg" crc="4142532142" mt="1577976477000"/>
+        <file name="text-02.svg" crc="460386697" mt="1577976477000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1577973208000"/>
-      <file name="980x300_edge.js" crc="4110276091" mt="1577973208000"/>
-      <file name="980x300.html" crc="193717391" mt="1577973208000"/>
+      <file name="transparent.png" crc="3898389484" mt="1577976477000"/>
+      <file name="980x300_edge.js" crc="138194295" mt="1577976477000"/>
+      <file name="980x300.html" crc="193717391" mt="1577976477000"/>
     </folder>
     <folder name="300x3004">
       <folder name="edge_includes">
@@ -1615,22 +1615,22 @@
   <folder name="images">
     <file name="pattern-1.jpg" crc="4229835355" ref="index"/>
     <file name="adrapid logo 3x1 text white new.svg" crc="374240259" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:epsiservers-1:powel:powel1"/>
-    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:innofactor"/>
+    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:innofactor:powel1"/>
     <file name="adform_logo.png" crc="4183796416" seo="true" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing"/>
     <file name="hemnet.svg" crc="268460664" ref="index:trivselhus---hemnet:movehome---hemnet"/>
     <file name="hemnet_poster_.png" crc="78949463" ref="index"/>
     <file name="mail.svg" crc="341753094" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:epsiservers-1:powel:powel1"/>
-    <file name="mail_poster_.png" crc="4101486600" ref="index:innofactor"/>
+    <file name="mail_poster_.png" crc="4101486600" ref="index:innofactor:powel1"/>
     <file name="facebook.svg" crc="426374568" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:epsiservers-1:powel:powel1"/>
-    <file name="facebook_poster_.png" crc="436869026" ref="index:innofactor"/>
+    <file name="facebook_poster_.png" crc="436869026" ref="index:innofactor:powel1"/>
     <file name="youtube.svg" crc="4147027439" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:epsiservers-1:powel:powel1"/>
-    <file name="youtube_poster_.png" crc="176465924" ref="index:innofactor"/>
+    <file name="youtube_poster_.png" crc="176465924" ref="index:innofactor:powel1"/>
     <file name="twitter.svg" crc="3934615787" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:epsiservers-1:powel:powel1"/>
-    <file name="twitter_poster_.png" crc="70529161" ref="index:innofactor"/>
+    <file name="twitter_poster_.png" crc="70529161" ref="index:innofactor:powel1"/>
     <file name="googleplus.svg" crc="4118354756" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:epsiservers-1:powel:powel1"/>
-    <file name="googleplus_poster_.png" crc="372156627" ref="index:innofactor"/>
+    <file name="googleplus_poster_.png" crc="372156627" ref="index:innofactor:powel1"/>
     <file name="linkedin.svg" crc="4186885566" ref="index:movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:epsiservers-1:powel:powel1"/>
-    <file name="linkedin_poster_.png" crc="183638388" ref="index:innofactor"/>
+    <file name="linkedin_poster_.png" crc="183638388" ref="index:innofactor:powel1"/>
     <file name="arrow.svg" crc="147237265" ref="movehome---remarketing:trivselhus---hemnet:movehome---hemnet:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing"/>
     <file name="arrow_poster_.png" crc="47535081" ref="movehome---remarketing"/>
     <file name="google_2015_logo.svg" crc="393842578" ref="movehome---remarketing"/>
@@ -1648,5 +1648,5 @@
   <file name="epsiservers.html" crc="4042774219" seo="true" mt="1571393741430" redirect="true"/>
   <file name="epsiservers-1.html" crc="425919753" seo="true" mt="1571644762665" redirect="true"/>
   <file name="powel.html" crc="402869333" seo="true" mt="1577960616433" redirect="true"/>
-  <file name="powel1.html" crc="447768798" seo="true" mt="1577976720560" redirect="true"/>
+  <file name="powel1.html" crc="4107427308" seo="true" mt="1577977129613" redirect="true"/>
 </manifest>

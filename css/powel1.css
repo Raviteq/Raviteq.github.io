@@ -1,7 +1,7 @@
 .version.powel1 /* version checker */
 {
-	color: #00001C;
-	background-color: #594464;
+	color: #0000E3;
+	background-color: #8986E4;
 }
 
 .html
@@ -104,10 +104,10 @@
 	left: -45px;
 	margin-top: 89px;
 	position: relative;
-	padding: 34px 31px 15.000000000000966px 23px;
+	padding: 26px 31px 15.050000000000864px 23px;
 }
 
-#u11279
+#u11304
 {
 	z-index: 65;
 	width: 980px;
@@ -117,7 +117,7 @@
 	position: relative;
 }
 
-#U11301_animation
+#U11306_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +132,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -385,8 +385,8 @@
 	width: 293px;
 	min-height: 34px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 367px;
