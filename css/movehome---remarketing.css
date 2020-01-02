@@ -1,7 +1,7 @@
 .version.movehome___remarketing /* version checker */
 {
-	color: #000003;
-	background-color: #BE30AC;
+	color: #0000F3;
+	background-color: #04A056;
 }
 
 .html
@@ -134,8 +134,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;

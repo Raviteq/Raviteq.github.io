@@ -1,7 +1,7 @@
 .version.innofactor /* version checker */
 {
-	color: #0000E2;
-	background-color: #2846DD;
+	color: #000006;
+	background-color: #D4EE5F;
 }
 
 .html
@@ -104,10 +104,10 @@
 	left: -33px;
 	margin-top: 37px;
 	position: relative;
-	padding: 25px 28px 15.000000000000682px 23px;
+	padding: 36px 28px 15.000000000000682px 23px;
 }
 
-#u11141
+#u11216
 {
 	z-index: 62;
 	width: 980px;
@@ -117,7 +117,7 @@
 	position: relative;
 }
 
-#U11168_animation
+#U11243_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +132,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 7px;
 	position: relative;
 }
 
@@ -157,19 +157,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 9px 13px 5.25px 16px;
+	padding: 10px 17px 5px 12px;
 }
 
-#u11145
+#u11220
 {
-	z-index: 58;
+	z-index: 61;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11152_animation
+#U11239_animation
 {
 	width: 300px;
 	height: 250px;
@@ -184,6 +184,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
+	margin-left: 4px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -191,26 +192,25 @@
 #u10088
 {
 	z-index: 15;
-	width: 300px;
+	width: 306px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	margin-left: 4px;
-	margin-top: 13px;
+	margin-top: 12px;
 	position: relative;
-	padding: 7px 34px 9px 18px;
+	padding: 9px 30px 8px 16px;
 }
 
-#u11142
+#u11217
 {
-	z-index: 60;
+	z-index: 57;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11160_animation
+#U11223_animation
 {
 	width: 300px;
 	height: 600px;
@@ -225,8 +225,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 9px;
+	margin-left: 13px;
+	margin-top: 8px;
 	position: relative;
 }
 
@@ -245,20 +245,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 20px 9.25px 21px;
+	padding: 10px 32px 9px 9px;
 }
 
-#u11143
+#u11218
 {
-	z-index: 61;
+	z-index: 58;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
-	left: -1px;
 	position: relative;
 }
 
-#U11164_animation
+#U11227_animation
 {
 	width: 320px;
 	height: 250px;
@@ -273,38 +272,28 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 2px;
+	margin-left: 14px;
 	margin-top: 7px;
 	position: relative;
+}
+
+#pu10089
+{
+	width: 0.01px;
+	margin-left: 69px;
+	margin-top: 9px;
 }
 
 #u10089
 {
 	z-index: 16;
-	width: 161px;
+	width: 190px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	margin-left: 69px;
-	margin-top: 9px;
+	padding-bottom: 9px;
 	position: relative;
-	padding: 7px 14px 9px 15px;
-}
-
-#u11146
-{
-	z-index: 59;
-	width: 160px;
-	height: 600px;
-	background-color: transparent;
-	position: relative;
-}
-
-#U11156_animation
-{
-	width: 160px;
-	height: 600px;
-	border: none;
+	margin-right: -10000px;
 }
 
 #u10105-6
@@ -315,34 +304,55 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 1px;
-	margin-top: 9px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 616px;
+	left: 16px;
+}
+
+#u11221
+{
+	z-index: 59;
+	width: 160px;
+	height: 600px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 13px;
+}
+
+#U11231_animation
+{
+	width: 160px;
+	height: 600px;
+	border: none;
 }
 
 #u10090
 {
 	z-index: 17;
-	width: 300px;
+	width: 308px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 10px 46px 7px 15px;
+	padding: 10px 38px 7px 15px;
 }
 
-#u11144
+#u11219
 {
-	z-index: 57;
+	z-index: 60;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U11148_animation
+#U11235_animation
 {
 	width: 300px;
 	height: 300px;
@@ -357,7 +367,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
+	margin-top: 8px;
 	position: relative;
 }
 
