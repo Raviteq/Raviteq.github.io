@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1578385630713">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1578387499810">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="261215042" ref="trivselhus---hemnet:powel:innofactor:tr---adform-display:movehome---hemnet:index:epsiservers:movehome---adforms-remarketing:mm---adforms-display:movehome---remarketing:epsiservers-1:trivselhus---adform-remarketing:powel1"/>
@@ -14,104 +14,104 @@
     <file name="movehome---remarketing.css" crc="4077166678" ref="movehome---remarketing"/>
     <file name="epsiservers-1.css" crc="3928647259" ref="epsiservers-1"/>
     <file name="trivselhus---adform-remarketing.css" crc="475222852" ref="trivselhus---adform-remarketing"/>
-    <file name="powel1.css" crc="4136148088" ref="powel1"/>
+    <file name="powel1.css" crc="508374112" ref="powel1"/>
   </folder>
   <folder name="assets">
     <folder name="980x30010">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578384381000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578386543000"/>
       </folder>
       <folder name="images">
-        <file name="Layer 1.jpg" crc="4160229320" mt="1578384381000"/>
-        <file name="Asset 1a.svg" crc="4188115536" mt="1578384381000"/>
-        <file name="image.svg" crc="3906946394" mt="1578384381000"/>
-        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578384381000"/>
-        <file name="text-01.svg" crc="4142532142" mt="1578384381000"/>
-        <file name="text-02.svg" crc="460386697" mt="1578384381000"/>
+        <file name="Layer 1.jpg" crc="4160229320" mt="1578386543000"/>
+        <file name="Asset 1a.svg" crc="4188115536" mt="1578386543000"/>
+        <file name="image.svg" crc="3906946394" mt="1578386543000"/>
+        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578386543000"/>
+        <file name="text-01.svg" crc="3948622469" mt="1578386543000"/>
+        <file name="text-02.svg" crc="460386697" mt="1578386543000"/>
       </folder>
-      <file name="transparent.png" crc="3898389484" mt="1578384381000"/>
-      <file name="980x300_edge.js" crc="147909849" mt="1578384381000"/>
-      <file name="980x300.html" crc="193717391" mt="1578384381000"/>
+      <file name="transparent.png" crc="3898389484" mt="1578386543000"/>
+      <file name="980x300_edge.js" crc="118867030" mt="1578386543000"/>
+      <file name="980x300.html" crc="193717391" mt="1578386543000"/>
     </folder>
     <folder name="300x3004">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578384221000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578386322000"/>
       </folder>
       <folder name="images">
-        <file name="Layer 1.jpg" crc="4160229320" mt="1578384221000"/>
-        <file name="Asset 1a.svg" crc="4188115536" mt="1578384221000"/>
-        <file name="image.svg" crc="3906946394" mt="1578384221000"/>
-        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578384221000"/>
-        <file name="text-01.svg" crc="3845545847" mt="1578384221000"/>
-        <file name="text-02.svg" crc="239070653" mt="1578384221000"/>
+        <file name="Layer 1.jpg" crc="4160229320" mt="1578386322000"/>
+        <file name="Asset 1a.svg" crc="4188115536" mt="1578386322000"/>
+        <file name="image.svg" crc="3906946394" mt="1578386322000"/>
+        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578386322000"/>
+        <file name="text-01.svg" crc="435791004" mt="1578386322000"/>
+        <file name="text-02.svg" crc="239070653" mt="1578386322000"/>
       </folder>
-      <file name="transparent.png" crc="3867455704" mt="1578384221000"/>
-      <file name="300x300_edge.js" crc="217904155" mt="1578384221000"/>
-      <file name="300x300.html" crc="6218752" mt="1578384221000"/>
+      <file name="transparent.png" crc="3867455704" mt="1578386322000"/>
+      <file name="300x300_edge.js" crc="169467987" mt="1578386322000"/>
+      <file name="300x300.html" crc="6218752" mt="1578386322000"/>
     </folder>
     <folder name="300x6007">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578384255000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578386465000"/>
       </folder>
       <folder name="images">
-        <file name="Layer 1.jpg" crc="4160229320" mt="1578384255000"/>
-        <file name="Asset 1a.svg" crc="4188115536" mt="1578384255000"/>
-        <file name="image.svg" crc="3906946394" mt="1578384255000"/>
-        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578384255000"/>
-        <file name="text-01.svg" crc="516405140" mt="1578384255000"/>
-        <file name="text-02.svg" crc="4152864486" mt="1578384255000"/>
+        <file name="Layer 1.jpg" crc="4160229320" mt="1578386465000"/>
+        <file name="Asset 1a.svg" crc="4188115536" mt="1578386465000"/>
+        <file name="image.svg" crc="3906946394" mt="1578386465000"/>
+        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578386465000"/>
+        <file name="text-01.svg" crc="11819641" mt="1578386465000"/>
+        <file name="text-02.svg" crc="4152864486" mt="1578386465000"/>
       </folder>
-      <file name="transparent.png" crc="3932104168" mt="1578384255000"/>
-      <file name="300x600_edge.js" crc="149919159" mt="1578384255000"/>
-      <file name="300x600.html" crc="4272690459" mt="1578384255000"/>
+      <file name="transparent.png" crc="3932104168" mt="1578386465000"/>
+      <file name="300x600_edge.js" crc="369956722" mt="1578386465000"/>
+      <file name="300x600.html" crc="4272690459" mt="1578386465000"/>
     </folder>
     <folder name="320x2505">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578384306000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578386346000"/>
       </folder>
       <folder name="images">
-        <file name="Layer 1.jpg" crc="4160229320" mt="1578384306000"/>
-        <file name="Asset 1a.svg" crc="4188115536" mt="1578384306000"/>
-        <file name="image.svg" crc="3906946394" mt="1578384306000"/>
-        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578384306000"/>
-        <file name="text-01.svg" crc="3845545847" mt="1578384306000"/>
-        <file name="text-02.svg" crc="239070653" mt="1578384306000"/>
+        <file name="Layer 1.jpg" crc="4160229320" mt="1578386346000"/>
+        <file name="Asset 1a.svg" crc="4188115536" mt="1578386346000"/>
+        <file name="image.svg" crc="3906946394" mt="1578386346000"/>
+        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578386346000"/>
+        <file name="text-01.svg" crc="435791004" mt="1578386346000"/>
+        <file name="text-02.svg" crc="239070653" mt="1578386346000"/>
       </folder>
-      <file name="transparent.png" crc="4254097456" mt="1578384306000"/>
-      <file name="320x250_edge.js" crc="3893354355" mt="1578384306000"/>
-      <file name="320x250.html" crc="231206593" mt="1578384306000"/>
+      <file name="transparent.png" crc="4254097456" mt="1578386346000"/>
+      <file name="320x250_edge.js" crc="426431804" mt="1578386346000"/>
+      <file name="320x250.html" crc="231206593" mt="1578386346000"/>
     </folder>
     <folder name="160x6006">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578383543000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578386251000"/>
       </folder>
       <folder name="images">
-        <file name="Layer 1.jpg" crc="4160229320" mt="1578383543000"/>
-        <file name="Asset 1a.svg" crc="4188115536" mt="1578383543000"/>
-        <file name="image.svg" crc="3906946394" mt="1578383543000"/>
-        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578383543000"/>
-        <file name="text-01.svg" crc="118414852" mt="1578383543000"/>
-        <file name="text-02.svg" crc="237463057" mt="1578383543000"/>
+        <file name="Layer 1.jpg" crc="4160229320" mt="1578386251000"/>
+        <file name="Asset 1a.svg" crc="4188115536" mt="1578386251000"/>
+        <file name="image.svg" crc="3906946394" mt="1578386251000"/>
+        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578386251000"/>
+        <file name="text-01.svg" crc="472277361" mt="1578386251000"/>
+        <file name="text-02.svg" crc="237463057" mt="1578386251000"/>
       </folder>
-      <file name="transparent.png" crc="3834486344" mt="1578383543000"/>
-      <file name="160x600_edge.js" crc="387324409" mt="1578383543000"/>
-      <file name="160x600.html" crc="4125032490" mt="1578383543000"/>
+      <file name="transparent.png" crc="3834486344" mt="1578386251000"/>
+      <file name="160x600_edge.js" crc="387324409" mt="1578386251000"/>
+      <file name="160x600.html" crc="4125032490" mt="1578386251000"/>
     </folder>
     <folder name="300x2507">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578383537000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1578386282000"/>
       </folder>
       <folder name="images">
-        <file name="Layer 1.jpg" crc="4160229320" mt="1578383537000"/>
-        <file name="Asset 1a.svg" crc="4188115536" mt="1578383537000"/>
-        <file name="image.svg" crc="3906946394" mt="1578383537000"/>
-        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578383537000"/>
-        <file name="text-01.svg" crc="3845545847" mt="1578383537000"/>
-        <file name="text-02.svg" crc="239070653" mt="1578383537000"/>
+        <file name="Layer 1.jpg" crc="4160229320" mt="1578386282000"/>
+        <file name="Asset 1a.svg" crc="4188115536" mt="1578386282000"/>
+        <file name="image.svg" crc="3906946394" mt="1578386282000"/>
+        <file name="powel-logo_hvit_RGB_04-2019.svg" crc="4235198686" mt="1578386282000"/>
+        <file name="text-01.svg" crc="435791004" mt="1578386282000"/>
+        <file name="text-02.svg" crc="239070653" mt="1578386282000"/>
       </folder>
-      <file name="transparent.png" crc="3806630332" mt="1578383537000"/>
-      <file name="300x250_edge.js" crc="4245596179" mt="1578383537000"/>
-      <file name="300x250.html" crc="275176850" mt="1578383537000"/>
+      <file name="transparent.png" crc="3806630332" mt="1578386282000"/>
+      <file name="300x250_edge.js" crc="240242468" mt="1578386282000"/>
+      <file name="300x250.html" crc="275176850" mt="1578386282000"/>
     </folder>
     <folder name="980x3009">
       <folder name="edge_includes">
@@ -1648,5 +1648,5 @@
   <file name="epsiservers.html" crc="4042774219" seo="true" mt="1571393741430" redirect="true"/>
   <file name="epsiservers-1.html" crc="425919753" seo="true" mt="1571644762665" redirect="true"/>
   <file name="powel.html" crc="402869333" seo="true" mt="1577960616433" redirect="true"/>
-  <file name="powel1.html" crc="393992566" seo="true" mt="1578385613973" redirect="true"/>
+  <file name="powel1.html" crc="514831703" seo="true" mt="1578387483006" redirect="true"/>
 </manifest>
