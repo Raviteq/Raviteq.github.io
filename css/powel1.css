@@ -1,7 +1,7 @@
 .version.powel1 /* version checker */
 {
-	color: #000001;
-	background-color: #95614B;
+	color: #0000F6;
+	background-color: #889C78;
 }
 
 .html
@@ -104,10 +104,10 @@
 	left: -45px;
 	margin-top: 89px;
 	position: relative;
-	padding: 39px 40px 15.050000000000864px 16px;
+	padding: 23px 33px 15.050000000000864px 23px;
 }
 
-#u11309
+#u11344
 {
 	z-index: 65;
 	width: 980px;
@@ -116,7 +116,7 @@
 	position: relative;
 }
 
-#U11336_animation
+#U11366_animation
 {
 	width: 980px;
 	height: 300px;
@@ -131,8 +131,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 4px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -152,32 +151,27 @@
 #u11265
 {
 	z-index: 19;
-	width: 329px;
+	width: 306px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
+	padding: 4px 7px 5px 16px;
 }
 
-#u11265_position_content
+#u11343
 {
-	padding-top: 10px;
-	padding-bottom: 5px;
-}
-
-#u11310
-{
-	z-index: 61;
-	width: 320px;
+	z-index: 64;
+	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 16px;
+	margin-left: 6px;
 	position: relative;
 }
 
-#U11320_animation
+#U11362_animation
 {
-	width: 320px;
+	width: 300px;
 	height: 250px;
 	border: none;
 }
@@ -190,8 +184,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 16px;
-	margin-top: 7px;
+	margin-top: 13px;
 	position: relative;
 }
 
@@ -202,24 +195,24 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-left: 19px;
-	padding-top: 18px;
-	padding-right: 33px;
+	padding-left: 26px;
+	padding-top: 6px;
+	padding-right: 26px;
 	margin-left: 4px;
 	margin-top: 13px;
 	position: relative;
 }
 
-#u11311
+#u11340
 {
-	z-index: 63;
+	z-index: 60;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11328_animation
+#U11346_animation
 {
 	width: 300px;
 	height: 600px;
@@ -234,8 +227,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 7px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -249,27 +241,27 @@
 #u11264
 {
 	z-index: 18;
-	width: 300px;
+	width: 320px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 38px 9px 23px;
+	padding: 10px 18px 9px 23px;
 }
 
-#u11313
+#u11339
 {
-	z-index: 60;
-	width: 300px;
+	z-index: 62;
+	width: 320px;
 	height: 250px;
 	background-color: transparent;
 	left: -1px;
 	position: relative;
 }
 
-#U11316_animation
+#U11354_animation
 {
-	width: 300px;
+	width: 320px;
 	height: 250px;
 	border: none;
 }
@@ -306,17 +298,17 @@
 	padding-bottom: 7px;
 }
 
-#u11314
+#u11342
 {
-	z-index: 62;
+	z-index: 63;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 17px;
+	margin-left: 15px;
 	position: relative;
 }
 
-#U11324_animation
+#U11358_animation
 {
 	width: 160px;
 	height: 600px;
@@ -339,27 +331,26 @@
 #u11263
 {
 	z-index: 17;
-	width: 308px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 10px 38px 7px 15px;
+	padding: 10px 46px 7px 15px;
 }
 
-#u11312
+#u11341
 {
-	z-index: 64;
+	z-index: 61;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 8px;
 	position: relative;
 }
 
-#U11332_animation
+#U11350_animation
 {
 	width: 300px;
 	height: 300px;
@@ -390,8 +381,8 @@
 	width: 293px;
 	min-height: 34px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 367px;
