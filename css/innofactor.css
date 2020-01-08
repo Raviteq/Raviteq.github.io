@@ -1,7 +1,7 @@
 .version.innofactor /* version checker */
 {
-	color: #000005;
-	background-color: #DA2056;
+	color: #0000F8;
+	background-color: #0BD3B7;
 }
 
 .html
@@ -97,27 +97,26 @@
 #u10093
 {
 	z-index: 20;
-	width: 985px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -33px;
 	margin-top: 37px;
 	position: relative;
-	padding: 36px 28px 15.000000000000682px 23px;
+	padding: 25px 33px 15.000000000000739px 23px;
 }
 
-#u11216
+#u11492
 {
-	z-index: 61;
+	z-index: 57;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
 	position: relative;
 }
 
-#U11243_animation
+#U11499_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +131,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-top: 18px;
 	position: relative;
 }
 
@@ -152,26 +151,32 @@
 #u10092
 {
 	z-index: 19;
-	width: 300px;
+	width: 329px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 17px 5px 12px;
 }
 
-#u11220
+#u10092_position_content
 {
-	z-index: 60;
-	width: 300px;
+	padding-top: 7px;
+	padding-bottom: 5px;
+}
+
+#u11494
+{
+	z-index: 59;
+	width: 320px;
 	height: 250px;
 	background-color: transparent;
+	margin-left: 16px;
 	position: relative;
 }
 
-#U11239_animation
+#U11507_animation
 {
-	width: 300px;
+	width: 320px;
 	height: 250px;
 	border: none;
 }
@@ -184,37 +189,27 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 7px;
+	margin-left: 16px;
+	margin-top: 10px;
 	position: relative;
+}
+
+#pu10088
+{
+	width: 0.01px;
+	margin-top: 12px;
 }
 
 #u10088
 {
 	z-index: 15;
-	width: 306px;
+	width: 352px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	margin-top: 12px;
+	padding-bottom: 8px;
 	position: relative;
-	padding: 9px 30px 8px 16px;
-}
-
-#u11217
-{
-	z-index: 57;
-	width: 300px;
-	height: 600px;
-	background-color: transparent;
-	position: relative;
-}
-
-#U11223_animation
-{
-	width: 300px;
-	height: 600px;
-	border: none;
+	margin-right: -10000px;
 }
 
 #u10104-6
@@ -225,9 +220,29 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 13px;
-	margin-top: 8px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 617px;
+	left: 29px;
+}
+
+#u11493
+{
+	z-index: 61;
+	width: 300px;
+	height: 600px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 19px;
+}
+
+#U11515_animation
+{
+	width: 300px;
+	height: 600px;
+	border: none;
 }
 
 #pu10091
@@ -240,26 +255,26 @@
 #u10091
 {
 	z-index: 18;
-	width: 320px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 32px 9px 9px;
+	padding: 7px 42px 9px 19px;
 }
 
-#u11218
+#u11496
 {
-	z-index: 58;
-	width: 320px;
+	z-index: 62;
+	width: 300px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11227_animation
+#U11519_animation
 {
-	width: 320px;
+	width: 300px;
 	height: 250px;
 	border: none;
 }
@@ -272,8 +287,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 14px;
-	margin-top: 7px;
+	margin-left: 4px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -310,19 +325,19 @@
 	left: 16px;
 }
 
-#u11246
+#u11497
 {
-	z-index: 62;
+	z-index: 60;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 16px;
-	left: 8px;
+	left: 15px;
 }
 
-#U11248_animation
+#U11511_animation
 {
 	width: 160px;
 	height: 600px;
@@ -339,12 +354,12 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 10px 38px 7px 15px;
+	padding: 7px 38px 7px 15px;
 }
 
-#u11219
+#u11495
 {
-	z-index: 59;
+	z-index: 58;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
@@ -352,7 +367,7 @@
 	position: relative;
 }
 
-#U11235_animation
+#U11503_animation
 {
 	width: 300px;
 	height: 300px;
@@ -367,7 +382,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-top: 11px;
 	position: relative;
 }
 
