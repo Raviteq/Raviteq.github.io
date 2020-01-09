@@ -1,7 +1,7 @@
 .version.powel1 /* version checker */
 {
-	color: #00001B;
-	background-color: #23816A;
+	color: #00000C;
+	background-color: #ECB7B1;
 }
 
 .html
@@ -97,27 +97,26 @@
 #u11266
 {
 	z-index: 20;
-	width: 985px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -45px;
 	margin-top: 89px;
 	position: relative;
-	padding: 23px 28px 15.050000000000864px 23px;
+	padding: 31px 40px 15.050000000000864px 16px;
 }
 
-#u11685
+#u11915
 {
-	z-index: 60;
+	z-index: 64;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
 	position: relative;
 }
 
-#U11692_animation
+#U11938_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +131,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 20px;
+	margin-left: 7px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -157,19 +157,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 17px 5px 12px;
+	padding: 7px 13px 5px 16px;
 }
 
-#u11689
+#u11919
 {
-	z-index: 62;
+	z-index: 63;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11700_animation
+#U11934_animation
 {
 	width: 300px;
 	height: 250px;
@@ -184,36 +184,35 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 7px;
+	margin-top: 10px;
 	position: relative;
 }
 
 #u11261
 {
 	z-index: 15;
-	width: 300px;
+	width: 307px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-left: 26px;
-	padding-top: 6px;
-	padding-right: 26px;
+	padding-left: 12px;
+	padding-top: 16px;
+	padding-right: 33px;
 	margin-left: 4px;
 	margin-top: 13px;
 	position: relative;
 }
 
-#u11686
+#u11916
 {
-	z-index: 63;
+	z-index: 60;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11704_animation
+#U11922_animation
 {
 	width: 300px;
 	height: 600px;
@@ -228,7 +227,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 19px;
+	margin-left: 14px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -247,10 +247,10 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 18px 9px 23px;
+	padding: 7px 28px 9px 13px;
 }
 
-#u11687
+#u11917
 {
 	z-index: 61;
 	width: 320px;
@@ -260,7 +260,7 @@
 	position: relative;
 }
 
-#U11696_animation
+#U11926_animation
 {
 	width: 320px;
 	height: 250px;
@@ -275,8 +275,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	left: -1px;
-	margin-top: 7px;
+	margin-left: 10px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -295,21 +295,21 @@
 
 #u11262_position_content
 {
-	padding-top: 11px;
+	padding-top: 6px;
 	padding-bottom: 7px;
 }
 
-#u11690
+#u11920
 {
-	z-index: 64;
+	z-index: 65;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 17px;
+	margin-left: 10px;
 	position: relative;
 }
 
-#U11708_animation
+#U11942_animation
 {
 	width: 160px;
 	height: 600px;
@@ -325,34 +325,34 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 17px;
-	margin-top: 7px;
+	margin-top: 12px;
 	position: relative;
 }
 
 #u11263
 {
 	z-index: 17;
-	width: 300px;
+	width: 308px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 10px 49px 7px 12px;
+	padding: 3px 38px 7px 15px;
 }
 
-#u11688
+#u11918
 {
-	z-index: 65;
+	z-index: 62;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	left: -1px;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U11712_animation
+#U11930_animation
 {
 	width: 300px;
 	height: 300px;
@@ -367,8 +367,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 3px;
-	margin-top: 8px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -384,8 +383,8 @@
 	width: 293px;
 	min-height: 34px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 367px;

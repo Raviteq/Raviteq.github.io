@@ -1,7 +1,7 @@
 .version.capra /* version checker */
 {
-	color: #000014;
-	background-color: #ECD047;
+	color: #000012;
+	background-color: #7C3C63;
 }
 
 .html
@@ -104,19 +104,19 @@
 	left: -60px;
 	margin-top: 32px;
 	position: relative;
-	padding: 30px 33px 15px 23px;
+	padding: 22px 36px 15px 20px;
 }
 
-#u11720
+#u11855
 {
-	z-index: 58;
+	z-index: 60;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11726_animation
+#U11874_animation
 {
 	width: 980px;
 	height: 300px;
@@ -131,7 +131,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 13px;
+	margin-left: 3px;
+	margin-top: 21px;
 	position: relative;
 }
 
@@ -156,19 +157,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 8px 13px 5px 16px;
+	padding: 11px 13px 5px 16px;
 }
 
-#u11718
+#u11859
 {
-	z-index: 60;
+	z-index: 59;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11734_animation
+#U11870_animation
 {
 	width: 300px;
 	height: 250px;
@@ -183,33 +184,33 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
+	margin-top: 6px;
 	position: relative;
 }
 
 #u11651
 {
 	z-index: 15;
-	width: 304px;
+	width: 307px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 4px;
 	margin-top: 13px;
 	position: relative;
-	padding: 16px 33px 0px 15px;
+	padding: 16px 33px 0px 12px;
 }
 
-#u11715
+#u11856
 {
-	z-index: 59;
+	z-index: 62;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U11730_animation
+#U11882_animation
 {
 	width: 300px;
 	height: 600px;
@@ -224,7 +225,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 11px;
+	margin-left: 14px;
 	margin-top: 9px;
 	position: relative;
 }
@@ -244,19 +245,20 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 8px 23px 9px 18px;
+	padding: 17px 18px 9.04999999999984px 23px;
 }
 
-#u11716
+#u11857
 {
-	z-index: 61;
+	z-index: 57;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
+	left: -1px;
 	position: relative;
 }
 
-#U11738_animation
+#U11862_animation
 {
 	width: 320px;
 	height: 250px;
@@ -271,8 +273,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 5px;
-	margin-top: 9px;
+	left: -1px;
 	position: relative;
 }
 
@@ -283,6 +284,7 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: 69px;
 	margin-top: 9px;
 	position: relative;
@@ -290,21 +292,21 @@
 
 #u11652_position_content
 {
-	padding-top: 7px;
+	padding-top: 16px;
 	padding-bottom: 7px;
 }
 
-#u11719
+#u11860
 {
-	z-index: 62;
+	z-index: 61;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 8px;
+	margin-left: 24px;
 	position: relative;
 }
 
-#U11742_animation
+#U11878_animation
 {
 	width: 160px;
 	height: 600px;
@@ -320,34 +322,34 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 17px;
-	margin-top: 11px;
+	margin-top: 2px;
 	position: relative;
 }
 
 #u11653
 {
 	z-index: 17;
-	width: 316px;
+	width: 308px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 5px 30px 7px 15px;
+	padding: 11px 38px 7px 15px;
 }
 
-#u11717
+#u11858
 {
-	z-index: 57;
+	z-index: 58;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 16px;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U11722_animation
+#U11866_animation
 {
 	width: 300px;
 	height: 300px;
@@ -362,7 +364,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 13px;
+	margin-top: 7px;
 	position: relative;
 }
 
