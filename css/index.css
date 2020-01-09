@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #03D029;
+	color: #0000E2;
+	background-color: #B3F36A;
 }
 
 .html
@@ -198,6 +198,14 @@
 	padding-bottom: 10px;
 	margin-top: 13px;
 	position: relative;
+}
+
+#buttonu1424:hover
+{
+	background-color: #545454;
+	width: 246px;
+	min-height: 0px;
+	margin: 13px 0px 0px;
 }
 
 #u1429
@@ -425,9 +433,17 @@
 	position: relative;
 }
 
-#buttonu1424:hover,#buttonu2500:hover,#buttonu1524:hover
+#buttonu2500:hover,#buttonu1524:hover
 {
 	background-color: #545454;
+	width: 246px;
+	min-height: 0px;
+	margin: 13px 0px 0px;
+}
+
+#buttonu1424.ButtonSelected,#buttonu1524.ButtonSelected
+{
+	background-color: #F1F1F1;
 	width: 246px;
 	min-height: 0px;
 	margin: 13px 0px 0px;
