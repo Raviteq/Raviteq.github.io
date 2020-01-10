@@ -1,7 +1,7 @@
 .version.trivselhus___adform_remarketing /* version checker */
 {
-	color: #0000FA;
-	background-color: #09D67E;
+	color: #00001F;
+	background-color: #5DBD4B;
 }
 
 .html
@@ -134,8 +134,8 @@
 	width: 871px;
 	min-height: 159px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	margin-left: 45px;
@@ -177,9 +177,9 @@
 	width: 390px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 400;
 	margin-left: 285px;
@@ -190,26 +190,27 @@
 #u11563
 {
 	z-index: 65;
-	width: 980px;
+	width: 993px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -60px;
 	margin-top: 39px;
 	position: relative;
-	padding: 14px 35px 18px 21px;
+	padding: 15px 15px 18px 28px;
 }
 
-#u11980
+#u12031
 {
-	z-index: 98;
+	z-index: 93;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
+	margin-left: 13px;
 	position: relative;
 }
 
-#U12008_animation
+#U12033_animation
 {
 	width: 980px;
 	height: 240px;
@@ -224,8 +225,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 23px;
+	margin-top: 22px;
 	position: relative;
 }
 
@@ -239,26 +239,25 @@
 #u11561
 {
 	z-index: 58;
-	width: 326px;
+	width: 320px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 19px 26px 12.448442249245147px 20px;
+	padding: 17px 32px 12.448442249245147px 20px;
 }
 
-#u11983
+#u12028
 {
-	z-index: 99;
+	z-index: 97;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
-	margin-left: 6px;
 	position: relative;
 }
 
-#U12012_animation
+#U12049_animation
 {
 	width: 320px;
 	height: 320px;
@@ -273,34 +272,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 14px;
+	margin-top: 16px;
 	position: relative;
 }
 
 #u11557
 {
 	z-index: 44;
-	width: 167px;
+	width: 168px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 376px;
-	padding: 8px 17px 15.49844224924675px 10px;
+	padding: 21px 16px 15.49844224924675px 10px;
 }
 
-#u11981
+#u12025
 {
 	z-index: 94;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 7px;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U11992_animation
+#U12037_animation
 {
 	width: 160px;
 	height: 600px;
@@ -315,7 +314,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 27px;
+	margin-top: 14px;
 	position: relative;
 }
 
@@ -329,19 +328,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 584px;
-	padding: 8px 19px 15.54844224924534px 10px;
+	padding: 26px 15px 15.54844224924534px 14px;
 }
 
-#u11982
+#u12026
 {
-	z-index: 97;
+	z-index: 95;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12004_animation
+#U12041_animation
 {
 	width: 300px;
 	height: 600px;
@@ -356,35 +355,35 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 27px;
+	margin-left: 3px;
+	margin-top: 9px;
 	position: relative;
 }
 
 #u11567
 {
 	z-index: 74;
-	width: 307px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -9px;
 	margin-top: 22px;
 	position: relative;
-	padding: 19px 48px 19.012499999999818px 22px;
+	padding: 16px 55px 19.012499999999818px 22px;
 }
 
-#u11984
+#u12027
 {
-	z-index: 93;
+	z-index: 96;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 7px;
+	left: -1px;
 	position: relative;
 }
 
-#U11988_animation
+#U12045_animation
 {
 	width: 300px;
 	height: 250px;
@@ -399,34 +398,33 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 16px;
+	margin-top: 19px;
 	position: relative;
 }
 
 #u11566
 {
 	z-index: 73;
-	width: 1006px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -96px;
 	margin-top: 21px;
 	position: relative;
-	padding: 22px 31px 11px 22px;
+	padding: 16px 74px 11.112499999999727px 5px;
 }
 
-#u11986
+#u12030
 {
-	z-index: 95;
+	z-index: 99;
 	width: 980px;
 	height: 120px;
 	background-color: transparent;
-	margin-left: 26px;
 	position: relative;
 }
 
-#U11996_animation
+#U12057_animation
 {
 	width: 980px;
 	height: 120px;
@@ -441,34 +439,35 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-left: 17px;
+	margin-top: 16px;
 	position: relative;
 }
 
 #u11565
 {
 	z-index: 72;
-	width: 737px;
+	width: 728px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 41px;
 	margin-top: 21px;
 	position: relative;
-	padding: 8px 10px 13.412500000000364px 28px;
+	padding: 19px 23px 13px 24px;
 }
 
-#u11985
+#u12029
 {
-	z-index: 96;
+	z-index: 98;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
-	margin-left: 9px;
+	left: -1px;
 	position: relative;
 }
 
-#U12000_animation
+#U12053_animation
 {
 	width: 728px;
 	height: 90px;
@@ -483,7 +482,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 20px;
+	margin-left: 4px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -536,9 +536,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -578,9 +578,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: proxima-nova, sans-serif;
 	font-weight: 300;
 	position: relative;
