@@ -1,7 +1,7 @@
 .version.capra_1 /* version checker */
 {
-	color: #000015;
-	background-color: #B62032;
+	color: #000011;
+	background-color: #4E5566;
 }
 
 .html
@@ -104,12 +104,12 @@
 	left: -61px;
 	margin-top: 28px;
 	position: relative;
-	padding: 17px 28px 15px 23px;
+	padding: 12px 28px 15.00000000000091px 23px;
 }
 
-#u12316
+#u12466
 {
-	z-index: 61;
+	z-index: 59;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -117,7 +117,7 @@
 	position: relative;
 }
 
-#U12338_animation
+#U12480_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +132,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 26px;
+	margin-top: 31px;
 	position: relative;
 }
 
@@ -154,26 +154,25 @@
 #u11677
 {
 	z-index: 19;
-	width: 304px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 1px;
 	position: relative;
-	padding: 7px 14px 7px 11px;
+	padding: 6px 18px 7px 11px;
 }
 
-#u12319
+#u12469
 {
-	z-index: 59;
+	z-index: 62;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 3px;
 	position: relative;
 }
 
-#U12330_animation
+#U12492_animation
 {
 	width: 300px;
 	height: 250px;
@@ -188,34 +187,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-top: 9px;
 	position: relative;
 }
 
 #u11673
 {
 	z-index: 15;
-	width: 300px;
+	width: 304px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-left: 19px;
-	padding-top: 11px;
+	padding-left: 15px;
+	padding-top: 16px;
 	padding-right: 33px;
 	margin-top: 11px;
 	position: relative;
 }
 
-#u12315
+#u12465
 {
-	z-index: 57;
+	z-index: 60;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12322_animation
+#U12484_animation
 {
 	width: 300px;
 	height: 600px;
@@ -230,8 +229,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 14px;
+	margin-left: 11px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -250,20 +249,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 9px 21px 9px 20px;
+	padding: 8px 22px 9px 19px;
 }
 
-#u12317
+#u12467
 {
-	z-index: 62;
+	z-index: 61;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
-	left: -1px;
 	position: relative;
 }
 
-#U12342_animation
+#U12488_animation
 {
 	width: 320px;
 	height: 250px;
@@ -278,8 +276,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 3px;
-	margin-top: 8px;
+	margin-left: 4px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -290,7 +288,6 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: 69px;
 	margin-top: 9px;
 	position: relative;
@@ -298,21 +295,21 @@
 
 #u11674_position_content
 {
-	padding-top: 16px;
+	padding-top: 11px;
 	padding-bottom: 7px;
 }
 
-#u12320
+#u12470
 {
 	z-index: 58;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 20px;
+	margin-left: 17px;
 	position: relative;
 }
 
-#U12326_animation
+#U12476_animation
 {
 	width: 160px;
 	height: 600px;
@@ -328,34 +325,33 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 17px;
-	margin-top: 2px;
+	margin-top: 7px;
 	position: relative;
 }
 
 #u11675
 {
 	z-index: 17;
-	width: 305px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 728px;
-	padding: 8px 41px 7.049999999999841px 15px;
+	padding: 8px 46px 7.049999999999841px 15px;
 }
 
-#u12318
+#u12468
 {
-	z-index: 60;
+	z-index: 57;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
 	position: relative;
 }
 
-#U12334_animation
+#U12472_animation
 {
 	width: 300px;
 	height: 300px;

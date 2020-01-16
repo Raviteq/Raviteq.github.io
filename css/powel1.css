@@ -1,7 +1,7 @@
 .version.powel1 /* version checker */
 {
-	color: #000012;
-	background-color: #49C366;
+	color: #00000C;
+	background-color: #470C88;
 }
 
 .html
@@ -97,27 +97,32 @@
 #u11266
 {
 	z-index: 20;
-	width: 982px;
+	width: 1036px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	left: -45px;
 	margin-top: 89px;
 	position: relative;
-	padding: 32px 31px 15.050000000000864px 23px;
 }
 
-#u12375
+#u11266_position_content
 {
-	z-index: 60;
+	padding-bottom: 15px;
+}
+
+#u12525
+{
+	z-index: 62;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 2px;
+	margin-left: 23px;
 	position: relative;
 }
 
-#U12382_animation
+#U12540_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +137,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 11px;
+	margin-left: 23px;
+	margin-top: 43px;
 	position: relative;
 }
 
@@ -157,19 +163,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 7px 13px 5.2999999999996135px 16px;
+	padding: 12px 13px 5px 16px;
 }
 
-#u12379
+#u12529
 {
-	z-index: 62;
+	z-index: 61;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12390_animation
+#U12536_animation
 {
 	width: 300px;
 	height: 250px;
@@ -184,7 +190,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -195,24 +201,24 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-left: 25px;
-	padding-top: 16px;
-	padding-right: 27px;
+	padding-left: 19px;
+	padding-top: 18px;
+	padding-right: 33px;
 	margin-left: 4px;
 	margin-top: 13px;
 	position: relative;
 }
 
-#u12376
+#u12526
 {
-	z-index: 65;
+	z-index: 64;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12402_animation
+#U12548_animation
 {
 	width: 300px;
 	height: 600px;
@@ -227,8 +233,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 1px;
-	margin-top: 9px;
+	margin-left: 7px;
+	margin-top: 7px;
 	position: relative;
 }
 
@@ -247,12 +253,12 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 12px 20px 9px 21px;
+	padding: 10px 18px 9px 23px;
 }
 
-#u12377
+#u12527
 {
-	z-index: 63;
+	z-index: 65;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
@@ -260,7 +266,7 @@
 	position: relative;
 }
 
-#U12394_animation
+#U12552_animation
 {
 	width: 320px;
 	height: 250px;
@@ -275,8 +281,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 2px;
-	margin-top: 5px;
+	left: -1px;
+	margin-top: 7px;
 	position: relative;
 }
 
@@ -295,21 +301,21 @@
 
 #u11262_position_content
 {
-	padding-top: 16px;
+	padding-top: 10px;
 	padding-bottom: 7px;
 }
 
-#u12380
+#u12530
 {
-	z-index: 61;
+	z-index: 63;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 15px;
+	margin-left: 17px;
 	position: relative;
 }
 
-#U12386_animation
+#U12544_animation
 {
 	width: 160px;
 	height: 600px;
@@ -325,34 +331,34 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 17px;
-	margin-top: 2px;
+	margin-top: 8px;
 	position: relative;
 }
 
 #u11263
 {
 	z-index: 17;
-	width: 305px;
+	width: 308px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 6px 41px 7px 15px;
+	padding: 10px 38px 7px 15px;
 }
 
-#u12378
+#u12528
 {
-	z-index: 64;
+	z-index: 60;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U12398_animation
+#U12532_animation
 {
 	width: 300px;
 	height: 300px;
@@ -367,7 +373,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 12px;
+	margin-top: 8px;
 	position: relative;
 }
 
