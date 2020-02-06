@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #B3F36A;
+	color: #00000D;
+	background-color: #5C100D;
 }
 
 .html
@@ -54,7 +54,7 @@
 	margin-right: -10000px;
 	margin-top: 123px;
 	left: 168px;
-	padding: 12px 21px 344px;
+	padding: 8px 21px 344.49999999999994px;
 }
 
 #buttonu2177
@@ -92,11 +92,10 @@
 	width: 113px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: left;
-	font-family: proxima-nova, sans-serif;
-	font-weight: 300;
+	line-height: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
@@ -126,7 +125,7 @@
 	background-color: #F1F1F1;
 	border-radius: 10px;
 	padding-bottom: 11px;
-	margin-top: 12px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -135,7 +134,7 @@
 	background-color: #545454;
 	width: 246px;
 	min-height: 0px;
-	margin: 12px 0px 0px;
+	margin: 17px 0px 0px;
 }
 
 #u2496
@@ -162,11 +161,10 @@
 	width: 113px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: left;
-	font-family: proxima-nova, sans-serif;
-	font-weight: 300;
+	line-height: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
@@ -196,7 +194,7 @@
 	background-color: #F1F1F1;
 	border-radius: 10px;
 	padding-bottom: 10px;
-	margin-top: 13px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -205,7 +203,15 @@
 	background-color: #545454;
 	width: 246px;
 	min-height: 0px;
-	margin: 13px 0px 0px;
+	margin: 12px 0px 0px;
+}
+
+#buttonu1424.ButtonSelected
+{
+	background-color: #F1F1F1;
+	width: 246px;
+	min-height: 0px;
+	margin: 12px 0px 0px;
 }
 
 #u1429
@@ -233,11 +239,10 @@
 	width: 67px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: left;
-	font-family: proxima-nova, sans-serif;
-	font-weight: 300;
+	line-height: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 15px;
@@ -317,11 +322,10 @@
 	width: 113px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: left;
-	font-family: proxima-nova, sans-serif;
-	font-weight: 300;
+	line-height: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
@@ -386,11 +390,10 @@
 	width: 113px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: left;
-	font-family: proxima-nova, sans-serif;
-	font-weight: 300;
+	line-height: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
@@ -441,7 +444,7 @@
 	margin: 13px 0px 0px;
 }
 
-#buttonu1424.ButtonSelected,#buttonu1524.ButtonSelected
+#buttonu1524.ButtonSelected
 {
 	background-color: #F1F1F1;
 	width: 246px;
@@ -483,11 +486,10 @@
 	width: 67px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: left;
-	font-family: proxima-nova, sans-serif;
-	font-weight: 300;
+	line-height: 22px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 15px;
@@ -528,7 +530,7 @@
 {
 	z-index: 59;
 	width: 189px;
-	padding-bottom: 35px;
+	padding-bottom: 47px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;

@@ -1,7 +1,7 @@
 .version.epsiservers_1 /* version checker */
 {
-	color: #0000EA;
-	background-color: #2A665B;
+	color: #0000FA;
+	background-color: #1968C5;
 }
 
 .html
@@ -33,7 +33,7 @@
 #pu89
 {
 	width: 0.01px;
-	padding-bottom: 56px;
+	padding-bottom: 58px;
 	margin-left: -100px;
 }
 
@@ -61,7 +61,7 @@
 {
 	z-index: 65;
 	width: 189px;
-	padding-bottom: 35px;
+	padding-bottom: 47px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
@@ -103,7 +103,7 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -57px;
-	margin-top: 42px;
+	margin-top: 40px;
 	position: relative;
 	padding: 27px 20px 15.20000000000067px 23px;
 }

@@ -1,7 +1,7 @@
 .version.powel /* version checker */
 {
-	color: #00000E;
-	background-color: #70558B;
+	color: #0000E5;
+	background-color: #80132D;
 }
 
 .html
@@ -33,7 +33,7 @@
 #pu89
 {
 	width: 0.01px;
-	padding-bottom: 56px;
+	padding-bottom: 58px;
 	margin-left: -100px;
 }
 
@@ -61,7 +61,7 @@
 {
 	z-index: 65;
 	width: 189px;
-	padding-bottom: 35px;
+	padding-bottom: 47px;
 	top: 11px;
 	left: 50%;
 	margin-left: 265px;
@@ -98,26 +98,27 @@
 #u10990
 {
 	z-index: 20;
-	width: 980px;
+	width: 985px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -60px;
-	margin-top: 29px;
+	margin-top: 27px;
 	position: relative;
-	padding: 32px 33px 15px 23px;
+	padding: 33px 28px 15.450000000000784px 23px;
 }
 
-#u12498
+#u12648
 {
-	z-index: 60;
+	z-index: 62;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
+	margin-left: 5px;
 	position: relative;
 }
 
-#U12513_animation
+#U12672_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +133,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 11px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -157,10 +158,10 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 13px 5.2499999999998295px 16px;
+	padding: 8px 17px 5.199999999999818px 12px;
 }
 
-#u12497
+#u12647
 {
 	z-index: 61;
 	width: 300px;
@@ -169,7 +170,7 @@
 	position: relative;
 }
 
-#U12517_animation
+#U12668_animation
 {
 	width: 300px;
 	height: 250px;
@@ -184,33 +185,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 6px;
+	margin-left: 4px;
+	margin-top: 9px;
 	position: relative;
 }
 
 #u10985
 {
 	z-index: 15;
-	width: 300px;
+	width: 305px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 4px;
 	margin-top: 13px;
 	position: relative;
-	padding: 9px 27px 9.449999999999136px 25px;
+	padding: 8px 34px 9px 13px;
 }
 
-#u12499
+#u12649
 {
-	z-index: 58;
+	z-index: 57;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12505_animation
+#U12652_animation
 {
 	width: 300px;
 	height: 600px;
@@ -225,7 +227,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-left: 12px;
+	margin-top: 8px;
 	position: relative;
 }
 
@@ -244,19 +247,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 10px 32px 9.249999999999773px 9px;
+	padding: 8px 32px 9.199999999999818px 9px;
 }
 
-#u12495
+#u12645
 {
-	z-index: 57;
+	z-index: 58;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12501_animation
+#U12656_animation
 {
 	width: 320px;
 	height: 250px;
@@ -272,33 +275,33 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 14px;
-	margin-top: 6px;
+	margin-top: 9px;
 	position: relative;
 }
 
 #u10986
 {
 	z-index: 16;
-	width: 161px;
+	width: 163px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 69px;
 	margin-top: 9px;
 	position: relative;
-	padding: 9px 14px 9.449999999999136px 15px;
+	padding: 7px 14px 9px 13px;
 }
 
-#u12520
+#u12650
 {
-	z-index: 62;
+	z-index: 59;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12522_animation
+#U12660_animation
 {
 	width: 160px;
 	height: 600px;
@@ -313,34 +316,35 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 1px;
-	margin-top: 7px;
+	margin-left: 3px;
+	margin-top: 9px;
 	position: relative;
 }
 
 #u10987
 {
 	z-index: 17;
-	width: 300px;
+	width: 308px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 11px 46px 7.449999999999818px 15px;
+	padding: 8px 38px 7.449999999999818px 15px;
 }
 
-#u12496
+#u12646
 {
-	z-index: 59;
+	z-index: 60;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
+	margin-left: 8px;
 	position: relative;
 }
 
-#U12509_animation
+#U12664_animation
 {
 	width: 300px;
 	height: 300px;
@@ -355,7 +359,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-top: 10px;
 	position: relative;
 }
 
