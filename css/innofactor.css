@@ -1,7 +1,7 @@
 .version.innofactor /* version checker */
 {
-	color: #0000F4;
-	background-color: #A65053;
+	color: #0000E8;
+	background-color: #E1250A;
 }
 
 .html
@@ -97,27 +97,26 @@
 #u10093
 {
 	z-index: 20;
-	width: 990px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -33px;
 	margin-top: 35px;
 	position: relative;
-	padding: 30px 23px 15.000000000000682px;
+	padding: 25px 40px 15.000000000000682px 16px;
 }
 
-#u12555
+#u12705
 {
-	z-index: 62;
+	z-index: 58;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 10px;
 	position: relative;
 }
 
-#U12582_animation
+#U12716_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +131,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 13px;
+	margin-left: 7px;
+	margin-top: 18px;
 	position: relative;
 }
 
@@ -157,19 +157,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 8px 17px 5px 12px;
+	padding: 10px 20px 5px 9px;
 }
 
-#u12559
+#u12709
 {
-	z-index: 61;
+	z-index: 57;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12578_animation
+#U12712_animation
 {
 	width: 300px;
 	height: 250px;
@@ -184,33 +184,33 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 9px;
+	margin-left: 7px;
+	margin-top: 7px;
 	position: relative;
 }
 
 #u10088
 {
 	z-index: 15;
-	width: 310px;
+	width: 306px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-top: 12px;
 	position: relative;
-	padding: 9px 30px 8px 12px;
+	padding: 8px 30px 8.049999999999955px 16px;
 }
 
-#u12556
+#u12706
 {
-	z-index: 58;
+	z-index: 60;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12566_animation
+#U12724_animation
 {
 	width: 300px;
 	height: 600px;
@@ -225,8 +225,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 17px;
-	margin-top: 8px;
+	margin-left: 13px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -245,12 +245,12 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 8px 20px 9px 21px;
+	padding: 10px 18px 9px 23px;
 }
 
-#u12557
+#u12707
 {
-	z-index: 59;
+	z-index: 61;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
@@ -258,7 +258,7 @@
 	position: relative;
 }
 
-#U12570_animation
+#U12728_animation
 {
 	width: 320px;
 	height: 250px;
@@ -273,8 +273,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 2px;
-	margin-top: 9px;
+	left: -1px;
+	margin-top: 7px;
 	position: relative;
 }
 
@@ -285,6 +285,7 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: 86px;
 	margin-top: 8px;
 	position: relative;
@@ -292,13 +293,13 @@
 
 #u10089_position_content
 {
-	padding-top: 12px;
+	padding-top: 8px;
 	padding-bottom: 8px;
 }
 
-#u12560
+#u12710
 {
-	z-index: 57;
+	z-index: 59;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
@@ -306,7 +307,7 @@
 	position: relative;
 }
 
-#U12562_animation
+#U12720_animation
 {
 	width: 160px;
 	height: 600px;
@@ -322,34 +323,34 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	left: -1px;
-	margin-top: 5px;
+	margin-top: 9px;
 	position: relative;
 }
 
 #u10090
 {
 	z-index: 17;
-	width: 308px;
+	width: 304px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 10px 38px 7.049999999999898px 15px;
+	padding: 14px 42px 7px 15px;
 }
 
-#u12558
+#u12708
 {
-	z-index: 60;
+	z-index: 62;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 8px;
+	margin-left: 4px;
 	position: relative;
 }
 
-#U12574_animation
+#U12732_animation
 {
 	width: 300px;
 	height: 300px;
@@ -364,7 +365,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-top: 4px;
 	position: relative;
 }
 

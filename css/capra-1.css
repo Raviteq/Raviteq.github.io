@@ -1,7 +1,7 @@
 .version.capra_1 /* version checker */
 {
-	color: #000019;
-	background-color: #3917CE;
+	color: #0000EB;
+	background-color: #DFBC10;
 }
 
 .html
@@ -104,19 +104,19 @@
 	left: -61px;
 	margin-top: 26px;
 	position: relative;
-	padding: 34px 40px 15px 16px;
+	padding: 34px 33px 15px 23px;
 }
 
-#u12615
+#u12767
 {
-	z-index: 58;
+	z-index: 61;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12626_animation
+#U12788_animation
 {
 	width: 980px;
 	height: 300px;
@@ -131,7 +131,6 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
 	margin-top: 9px;
 	position: relative;
 }
@@ -154,26 +153,25 @@
 #u11677
 {
 	z-index: 19;
-	width: 307px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 1px;
 	position: relative;
-	padding: 9px 11px 7px;
+	padding: 7px 18px 7px 11px;
 }
 
-#u12619
+#u12770
 {
-	z-index: 57;
+	z-index: 59;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 7px;
 	position: relative;
 }
 
-#U12622_animation
+#U12780_animation
 {
 	width: 300px;
 	height: 250px;
@@ -188,7 +186,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 6px;
+	margin-top: 8px;
 	position: relative;
 }
 
@@ -200,22 +198,22 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	padding-left: 12px;
-	padding-top: 16px;
+	padding-top: 7px;
 	padding-right: 33px;
 	margin-top: 11px;
 	position: relative;
 }
 
-#u12617
+#u12766
 {
-	z-index: 61;
+	z-index: 60;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U12638_animation
+#U12784_animation
 {
 	width: 300px;
 	height: 600px;
@@ -231,7 +229,7 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 14px;
-	margin-top: 9px;
+	margin-top: 18px;
 	position: relative;
 }
 
@@ -250,19 +248,20 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 6px 30px 9px 11px;
+	padding: 9px 25px 9px 16px;
 }
 
-#u12616
+#u12768
 {
-	z-index: 60;
+	z-index: 57;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
+	left: -1px;
 	position: relative;
 }
 
-#U12634_animation
+#U12772_animation
 {
 	width: 320px;
 	height: 250px;
@@ -277,8 +276,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 12px;
-	margin-top: 11px;
+	margin-left: 7px;
+	margin-top: 8px;
 	position: relative;
 }
 
@@ -300,9 +299,9 @@
 	padding-bottom: 7px;
 }
 
-#u12620
+#u12765
 {
-	z-index: 59;
+	z-index: 62;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
@@ -310,7 +309,7 @@
 	position: relative;
 }
 
-#U12630_animation
+#U12792_animation
 {
 	width: 160px;
 	height: 600px;
@@ -340,12 +339,12 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 728px;
-	padding: 8px 43px 7.049999999999841px 15px;
+	padding: 9px 43px 7px 15px;
 }
 
-#u12618
+#u12769
 {
-	z-index: 62;
+	z-index: 58;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
@@ -353,7 +352,7 @@
 	position: relative;
 }
 
-#U12642_animation
+#U12776_animation
 {
 	width: 300px;
 	height: 300px;
@@ -368,7 +367,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-top: 9px;
 	position: relative;
 }
 
