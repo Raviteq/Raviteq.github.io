@@ -1,7 +1,7 @@
 .version.powel1 /* version checker */
 {
-	color: #0000EA;
-	background-color: #835117;
+	color: #0000F7;
+	background-color: #E222FD;
 }
 
 .html
@@ -104,10 +104,10 @@
 	left: -45px;
 	margin-top: 87px;
 	position: relative;
-	padding: 12px 33px 15.000000000000853px 23px;
+	padding: 21px 40px 15.050000000000864px 16px;
 }
 
-#u13125
+#u13329
 {
 	z-index: 64;
 	width: 980px;
@@ -116,7 +116,7 @@
 	position: relative;
 }
 
-#U13148_animation
+#U13352_animation
 {
 	width: 980px;
 	height: 300px;
@@ -131,7 +131,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 31px;
+	margin-left: 7px;
+	margin-top: 22px;
 	position: relative;
 }
 
@@ -151,25 +152,24 @@
 #u11265
 {
 	z-index: 19;
-	width: 304px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 8px 9px 5.449999999999704px 16px;
+	padding: 6px 17px 5px 12px;
 }
 
-#u13130
+#u13334
 {
-	z-index: 62;
+	z-index: 60;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
-	margin-left: 4px;
 	position: relative;
 }
 
-#U13140_animation
+#U13336_animation
 {
 	width: 300px;
 	height: 250px;
@@ -184,7 +184,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-left: 4px;
+	margin-top: 11px;
 	position: relative;
 }
 
@@ -196,23 +197,23 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	padding-left: 15px;
-	padding-top: 10px;
+	padding-top: 7px;
 	padding-right: 33px;
 	margin-left: 4px;
 	margin-top: 13px;
 	position: relative;
 }
 
-#u13127
+#u13331
 {
-	z-index: 60;
+	z-index: 61;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13132_animation
+#U13340_animation
 {
 	width: 300px;
 	height: 600px;
@@ -228,7 +229,7 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 11px;
-	margin-top: 15px;
+	margin-top: 18px;
 	position: relative;
 }
 
@@ -247,19 +248,20 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 8px 25px 9.449999999999704px 16px;
+	padding: 6px 24px 9px 17px;
 }
 
-#u13126
+#u13330
 {
-	z-index: 61;
+	z-index: 62;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
+	left: -1px;
 	position: relative;
 }
 
-#U13136_animation
+#U13344_animation
 {
 	width: 320px;
 	height: 250px;
@@ -274,8 +276,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 8px;
+	margin-left: 6px;
+	margin-top: 11px;
 	position: relative;
 }
 
@@ -286,7 +288,6 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: 69px;
 	margin-top: 9px;
 	position: relative;
@@ -294,21 +295,21 @@
 
 #u11262_position_content
 {
-	padding-top: 10px;
+	padding-top: 7px;
 	padding-bottom: 7px;
 }
 
-#u13129
+#u13333
 {
 	z-index: 63;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
-	margin-left: 11px;
+	margin-left: 15px;
 	position: relative;
 }
 
-#U13144_animation
+#U13348_animation
 {
 	width: 160px;
 	height: 600px;
@@ -324,21 +325,37 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 17px;
-	margin-top: 8px;
+	margin-top: 11px;
 	position: relative;
 }
 
 #u11263
 {
 	z-index: 17;
-	width: 361px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-bottom: 7px;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
+	padding: 6px 46px 7px 15px;
+}
+
+#u13332
+{
+	z-index: 65;
+	width: 300px;
+	height: 300px;
+	background-color: transparent;
+	position: relative;
+}
+
+#U13356_animation
+{
+	width: 300px;
+	height: 300px;
+	border: none;
 }
 
 #u11270-6
@@ -349,35 +366,14 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
+	margin-top: 12px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 318px;
-	left: 15px;
 }
 
 #u11267-4,#u11268-4,#u11271-4,#u11269-4,#u11272-4,#u11270-4
 {
 	font-size: 12px;
 	line-height: 14px;
-}
-
-#u13128
-{
-	z-index: 65;
-	width: 300px;
-	height: 300px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 10px;
-	left: 723px;
-}
-
-#U13152_animation
-{
-	width: 300px;
-	height: 300px;
-	border: none;
 }
 
 #u11273-3

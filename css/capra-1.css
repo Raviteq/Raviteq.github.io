@@ -1,7 +1,7 @@
 .version.capra_1 /* version checker */
 {
-	color: #0000E7;
-	background-color: #9744E4;
+	color: #0000E6;
+	background-color: #5769D4;
 }
 
 .html
@@ -97,27 +97,26 @@
 #u11678
 {
 	z-index: 20;
-	width: 985px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -61px;
 	margin-top: 26px;
 	position: relative;
-	padding: 24px 28px 15px 23px;
+	padding: 18px 35px 15px 21px;
 }
 
-#u13065
+#u13269
 {
 	z-index: 60;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
 	position: relative;
 }
 
-#U13084_animation
+#U13288_animation
 {
 	width: 980px;
 	height: 300px;
@@ -132,7 +131,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 19px;
+	margin-left: 2px;
+	margin-top: 25px;
 	position: relative;
 }
 
@@ -160,19 +160,19 @@
 	background-color: #FFFFFF;
 	margin-left: 1px;
 	position: relative;
-	padding: 7px 18px 7px 11px;
+	padding: 6px 18px 7px 11px;
 }
 
-#u13068
+#u13272
 {
-	z-index: 61;
+	z-index: 58;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13088_animation
+#U13280_animation
 {
 	width: 300px;
 	height: 250px;
@@ -187,7 +187,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -198,23 +198,21 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
-	padding-left: 19px;
-	padding-top: 11px;
-	padding-right: 33px;
 	margin-top: 11px;
 	position: relative;
+	padding: 16px 26px 0px;
 }
 
-#u13066
+#u13270
 {
-	z-index: 57;
+	z-index: 59;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13072_animation
+#U13284_animation
 {
 	width: 300px;
 	height: 600px;
@@ -229,8 +227,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 7px;
-	margin-top: 14px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -249,20 +246,19 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 9px 21px 9px 20px;
+	padding: 8px 30px 9px 11px;
 }
 
-#u13067
+#u13271
 {
-	z-index: 58;
+	z-index: 57;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
-	left: -1px;
 	position: relative;
 }
 
-#U13076_animation
+#U13276_animation
 {
 	width: 320px;
 	height: 250px;
@@ -277,8 +273,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 3px;
-	margin-top: 8px;
+	margin-left: 12px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -289,6 +285,7 @@
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: 69px;
 	margin-top: 9px;
 	position: relative;
@@ -296,11 +293,11 @@
 
 #u11674_position_content
 {
-	padding-top: 7px;
+	padding-top: 16px;
 	padding-bottom: 7px;
 }
 
-#u13070
+#u13274
 {
 	z-index: 62;
 	width: 160px;
@@ -310,7 +307,7 @@
 	position: relative;
 }
 
-#U13092_animation
+#U13296_animation
 {
 	width: 160px;
 	height: 600px;
@@ -326,34 +323,34 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 17px;
-	margin-top: 11px;
+	margin-top: 2px;
 	position: relative;
 }
 
 #u11675
 {
 	z-index: 17;
-	width: 303px;
+	width: 305px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 728px;
-	padding: 9px 43px 7px 15px;
+	padding: 8px 41px 7.049999999999841px 15px;
 }
 
-#u13069
+#u13273
 {
-	z-index: 59;
+	z-index: 61;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 3px;
+	margin-left: 5px;
 	position: relative;
 }
 
-#U13080_animation
+#U13292_animation
 {
 	width: 300px;
 	height: 300px;
@@ -368,7 +365,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
+	margin-top: 10px;
 	position: relative;
 }
 
