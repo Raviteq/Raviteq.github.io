@@ -1,7 +1,7 @@
 .version.powel /* version checker */
 {
-	color: #0000EB;
-	background-color: #731C2B;
+	color: #0000E2;
+	background-color: #26202B;
 }
 
 .html
@@ -105,12 +105,12 @@
 	left: -60px;
 	margin-top: 27px;
 	position: relative;
-	padding: 33px 28px 15.450000000000784px 23px;
+	padding: 22px 28px 15.450000000000784px 23px;
 }
 
-#u13302
+#u13452
 {
-	z-index: 61;
+	z-index: 62;
 	width: 980px;
 	height: 300px;
 	background-color: transparent;
@@ -118,7 +118,7 @@
 	position: relative;
 }
 
-#U13322_animation
+#U13476_animation
 {
 	width: 980px;
 	height: 300px;
@@ -133,7 +133,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-top: 21px;
 	position: relative;
 }
 
@@ -153,24 +153,25 @@
 #u10989
 {
 	z-index: 19;
-	width: 300px;
+	width: 303px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 9px 17px 5px 12px;
+	padding: 11px 10px 5.199999999999818px 16px;
 }
 
-#u13301
+#u13451
 {
-	z-index: 60;
+	z-index: 58;
 	width: 300px;
 	height: 250px;
 	background-color: transparent;
+	margin-left: 3px;
 	position: relative;
 }
 
-#U13318_animation
+#U13460_animation
 {
 	width: 300px;
 	height: 250px;
@@ -185,8 +186,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 8px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -200,19 +200,19 @@
 	margin-left: 4px;
 	margin-top: 13px;
 	position: relative;
-	padding: 14px 34px 9.449999999999136px 15px;
+	padding: 8px 34px 9.449999999999136px 15px;
 }
 
-#u13303
+#u13453
 {
-	z-index: 62;
+	z-index: 60;
 	width: 300px;
 	height: 600px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13326_animation
+#U13468_animation
 {
 	width: 300px;
 	height: 600px;
@@ -228,7 +228,7 @@
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 10px;
-	margin-top: 2px;
+	margin-top: 8px;
 	position: relative;
 }
 
@@ -247,19 +247,20 @@
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 9px 20px 9px 21px;
+	padding: 11px 18px 9.199999999999818px 23px;
 }
 
-#u13299
+#u13449
 {
-	z-index: 57;
+	z-index: 61;
 	width: 320px;
 	height: 250px;
 	background-color: transparent;
+	left: -1px;
 	position: relative;
 }
 
-#U13306_animation
+#U13472_animation
 {
 	width: 320px;
 	height: 250px;
@@ -274,34 +275,35 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 2px;
-	margin-top: 8px;
+	left: -1px;
+	margin-top: 6px;
 	position: relative;
 }
 
 #u10986
 {
 	z-index: 16;
-	width: 161px;
+	width: 168px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 69px;
 	margin-top: 9px;
 	position: relative;
-	padding: 14px 14px 9.449999999999136px 15px;
+	padding: 8px 14px 9.449999999999136px 8px;
 }
 
-#u13304
+#u13454
 {
-	z-index: 58;
+	z-index: 57;
 	width: 160px;
 	height: 600px;
 	background-color: transparent;
+	left: -1px;
 	position: relative;
 }
 
-#U13310_animation
+#U13456_animation
 {
 	width: 160px;
 	height: 600px;
@@ -316,35 +318,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 1px;
-	margin-top: 2px;
+	margin-left: 8px;
+	margin-top: 8px;
 	position: relative;
 }
 
 #u10987
 {
 	z-index: 17;
-	width: 305px;
+	width: 300px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 732px;
-	padding: 10px 41px 7px 15px;
+	padding: 6px 46px 7px 15px;
 }
 
-#u13300
+#u13450
 {
 	z-index: 59;
 	width: 300px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
 	position: relative;
 }
 
-#U13314_animation
+#U13464_animation
 {
 	width: 300px;
 	height: 300px;
@@ -359,7 +360,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 8px;
+	margin-top: 12px;
 	position: relative;
 }
 
