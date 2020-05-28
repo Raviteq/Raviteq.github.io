@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1590655202746">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1590668559198">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="4193395790" ref="powel:innofactor:tr---adform-display:index:epsiservers:movehome---adforms-remarketing:mm---adforms-display:trivselhus---adform-remarketing:powel1:capra-1:capra"/>
+    <file name="master_a-master.css" crc="348701591" ref="powel:innofactor:tr---adform-display:index:epsiservers:movehome---adforms-remarketing:mm---adforms-display:trivselhus---adform-remarketing:powel1:capra-1:capra"/>
     <file name="powel.css" crc="3794149419" ref="powel"/>
     <file name="innofactor.css" crc="3842743794" ref="innofactor"/>
-    <file name="tr---adform-display.css" crc="3848634185" ref="tr---adform-display"/>
+    <file name="tr---adform-display.css" crc="3923622575" ref="tr---adform-display"/>
     <file name="index.css" crc="224137229" ref="index"/>
     <file name="epsiservers.css" crc="4090503971" ref="epsiservers"/>
     <file name="movehome---adforms-remarketing.css" crc="4106751809" ref="movehome---adforms-remarketing"/>
-    <file name="mm---adforms-display.css" crc="4120568022" ref="mm---adforms-display"/>
+    <file name="mm---adforms-display.css" crc="4292328815" ref="mm---adforms-display"/>
     <file name="trivselhus---adform-remarketing.css" crc="73564529" ref="trivselhus---adform-remarketing"/>
     <file name="powel1.css" crc="263053177" ref="powel1"/>
     <file name="capra-1.css" crc="4220464650" ref="capra-1"/>
@@ -17,166 +17,166 @@
   <folder name="assets">
     <folder name="320x2402">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590653803000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590665995000"/>
       </folder>
       <folder name="images">
-        <file name="bg.jpg" crc="266443163" mt="1590653803000"/>
-        <file name="img_1.jpg" crc="4014670080" mt="1590653803000"/>
-        <file name="animated_button_longlong.svg" crc="307992496" mt="1590653803000"/>
-        <file name="animated_button_longlong2.svg" crc="307992496" mt="1590653803000"/>
-        <file name="animated_button_longshort.svg" crc="106381627" mt="1590653803000"/>
-        <file name="animated_button_longshort2.svg" crc="106381627" mt="1590653803000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590653803000"/>
-        <file name="text-01.svg" crc="93963581" mt="1590653803000"/>
-        <file name="text-02.svg" crc="373343178" mt="1590653803000"/>
-        <file name="text-03.svg" crc="111736809" mt="1590653803000"/>
-        <file name="text-04.svg" crc="121608413" mt="1590653803000"/>
-        <file name="text-05.svg" crc="3967563463" mt="1590653803000"/>
-        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1590653803000"/>
+        <file name="bg.jpg" crc="266443163" mt="1590665995000"/>
+        <file name="img_1.jpg" crc="4051320602" mt="1590665995000"/>
+        <file name="animated_button_longlong.svg" crc="307992496" mt="1590665995000"/>
+        <file name="animated_button_longlong2.svg" crc="307992496" mt="1590665995000"/>
+        <file name="animated_button_longshort.svg" crc="106381627" mt="1590665995000"/>
+        <file name="animated_button_longshort2.svg" crc="106381627" mt="1590665995000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590665995000"/>
+        <file name="text-01.svg" crc="3810778453" mt="1590665995000"/>
+        <file name="text-02.svg" crc="173355414" mt="1590665995000"/>
+        <file name="text-03.svg" crc="111736809" mt="1590665995000"/>
+        <file name="text-04.svg" crc="121608413" mt="1590665995000"/>
+        <file name="text-05.svg" crc="3967563463" mt="1590665995000"/>
+        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1590665995000"/>
       </folder>
-      <file name="transparent.png" crc="369183335" mt="1590653803000"/>
-      <file name="320x240_edge.js" crc="3853258650" mt="1590653803000"/>
-      <file name="320x240.html" crc="112831739" mt="1590653803000"/>
+      <file name="transparent.png" crc="369183335" mt="1590665995000"/>
+      <file name="320x240_edge.js" crc="3976872279" mt="1590665995000"/>
+      <file name="320x240.html" crc="112831739" mt="1590665995000"/>
     </folder>
     <folder name="980x1402">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590653552000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590665484000"/>
       </folder>
       <folder name="images">
-        <file name="animated_button_standard.png" crc="276052936" mt="1590653552000"/>
-        <file name="bg.jpg" crc="4009106860" mt="1590653552000"/>
-        <file name="img_1.jpg" crc="331571447" mt="1590653552000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590653552000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590653552000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590653552000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590653552000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590653552000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590653552000"/>
-        <file name="text-01.svg" crc="256706938" mt="1590653552000"/>
-        <file name="text-02.svg" crc="4287543222" mt="1590653552000"/>
-        <file name="text-03.svg" crc="293715686" mt="1590653552000"/>
-        <file name="text-04.svg" crc="412652570" mt="1590653552000"/>
-        <file name="text-05.svg" crc="10492430" mt="1590653552000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590653552000"/>
+        <file name="animated_button_standard.png" crc="276052936" mt="1590665484000"/>
+        <file name="bg.jpg" crc="4009106860" mt="1590665484000"/>
+        <file name="img_1.jpg" crc="67744404" mt="1590665484000"/>
+        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590665484000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590665484000"/>
+        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590665484000"/>
+        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590665484000"/>
+        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590665484000"/>
+        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590665484000"/>
+        <file name="text-01.svg" crc="3909382019" mt="1590665484000"/>
+        <file name="text-02.svg" crc="4101441999" mt="1590665484000"/>
+        <file name="text-03.svg" crc="293715686" mt="1590665484000"/>
+        <file name="text-04.svg" crc="412652570" mt="1590665484000"/>
+        <file name="text-05.svg" crc="10492430" mt="1590665484000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590665484000"/>
       </folder>
-      <file name="transparent.png" crc="4171806873" mt="1590653552000"/>
-      <file name="980x140_edge.js" crc="284443369" mt="1590653552000"/>
-      <file name="980x140.html" crc="3849758339" mt="1590653552000"/>
+      <file name="transparent.png" crc="4171806873" mt="1590665484000"/>
+      <file name="980x140_edge.js" crc="3990910522" mt="1590665484000"/>
+      <file name="980x140.html" crc="3849758339" mt="1590665484000"/>
     </folder>
     <folder name="250x2402">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590653930000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590666179000"/>
       </folder>
       <folder name="images">
-        <file name="bg.jpg" crc="266443163" mt="1590653930000"/>
-        <file name="img_1.jpg" crc="4014670080" mt="1590653930000"/>
-        <file name="img_2.png" crc="93385445" mt="1590653930000"/>
-        <file name="animated_button_longlong.svg" crc="307992496" mt="1590653930000"/>
-        <file name="animated_button_longlong2.svg" crc="307992496" mt="1590653930000"/>
-        <file name="animated_button_longshort.svg" crc="106381627" mt="1590653930000"/>
-        <file name="animated_button_longshort2.svg" crc="106381627" mt="1590653930000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590653930000"/>
-        <file name="text-01.svg" crc="93963581" mt="1590653930000"/>
-        <file name="text-02.svg" crc="373343178" mt="1590653930000"/>
-        <file name="text-03.svg" crc="111736809" mt="1590653930000"/>
-        <file name="text-04.svg" crc="121608413" mt="1590653930000"/>
-        <file name="text-05.svg" crc="3967563463" mt="1590653930000"/>
-        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1590653930000"/>
+        <file name="bg.jpg" crc="266443163" mt="1590666179000"/>
+        <file name="img_1.jpg" crc="4051320602" mt="1590666179000"/>
+        <file name="img_2.png" crc="93385445" mt="1590666179000"/>
+        <file name="animated_button_longlong.svg" crc="307992496" mt="1590666179000"/>
+        <file name="animated_button_longlong2.svg" crc="307992496" mt="1590666179000"/>
+        <file name="animated_button_longshort.svg" crc="106381627" mt="1590666179000"/>
+        <file name="animated_button_longshort2.svg" crc="106381627" mt="1590666179000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590666179000"/>
+        <file name="text-01.svg" crc="3810778453" mt="1590666179000"/>
+        <file name="text-02.svg" crc="173355414" mt="1590666179000"/>
+        <file name="text-03.svg" crc="111736809" mt="1590666179000"/>
+        <file name="text-04.svg" crc="121608413" mt="1590666179000"/>
+        <file name="text-05.svg" crc="3967563463" mt="1590666179000"/>
+        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1590666179000"/>
       </folder>
-      <file name="transparent.png" crc="4102216493" mt="1590653930000"/>
-      <file name="250x240_edge.js" crc="4146789895" mt="1590653930000"/>
-      <file name="250x240.html" crc="3867666600" mt="1590653930000"/>
+      <file name="transparent.png" crc="4102216493" mt="1590666179000"/>
+      <file name="250x240_edge.js" crc="4194837891" mt="1590666179000"/>
+      <file name="250x240.html" crc="3867666600" mt="1590666179000"/>
     </folder>
     <folder name="730x2502">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590652735000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590664910000"/>
       </folder>
       <folder name="images">
-        <file name="animated_button_standard.png" crc="276052936" mt="1590652735000"/>
-        <file name="bg.jpg" crc="4009106860" mt="1590652735000"/>
-        <file name="img_1.jpg" crc="331571447" mt="1590652735000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590652735000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590652735000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590652735000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590652735000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590652735000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590652735000"/>
-        <file name="text-01.svg" crc="256706938" mt="1590652735000"/>
-        <file name="text-02.svg" crc="4287543222" mt="1590652735000"/>
-        <file name="text-03.svg" crc="293715686" mt="1590652735000"/>
-        <file name="text-04.svg" crc="412652570" mt="1590652735000"/>
-        <file name="text-05.svg" crc="10492430" mt="1590652735000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590652735000"/>
+        <file name="animated_button_standard.png" crc="276052936" mt="1590664910000"/>
+        <file name="bg.jpg" crc="4009106860" mt="1590664910000"/>
+        <file name="img_1.jpg" crc="67744404" mt="1590664910000"/>
+        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590664910000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590664910000"/>
+        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590664910000"/>
+        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590664910000"/>
+        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590664910000"/>
+        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590664910000"/>
+        <file name="text-01.svg" crc="3909382019" mt="1590664910000"/>
+        <file name="text-02.svg" crc="4101441999" mt="1590664910000"/>
+        <file name="text-03.svg" crc="293715686" mt="1590664910000"/>
+        <file name="text-04.svg" crc="412652570" mt="1590664910000"/>
+        <file name="text-05.svg" crc="10492430" mt="1590664910000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590664910000"/>
       </folder>
-      <file name="transparent.png" crc="374963232" mt="1590652735000"/>
-      <file name="730x250_edge.js" crc="3881164875" mt="1590652735000"/>
-      <file name="730x250.html" crc="162613638" mt="1590652735000"/>
+      <file name="transparent.png" crc="374963232" mt="1590664910000"/>
+      <file name="730x250_edge.js" crc="3802509213" mt="1590664910000"/>
+      <file name="730x250.html" crc="162613638" mt="1590664910000"/>
     </folder>
     <folder name="980x140">
       <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590650676000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590650676000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590650676000"/>
-        <file name="text-01.svg" crc="490132744" mt="1590650676000"/>
-        <file name="text-02.svg" crc="149721605" mt="1590650676000"/>
-        <file name="text-03.svg" crc="4061545474" mt="1590650676000"/>
-        <file name="text-04.svg" crc="254388440" mt="1590650676000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590663489000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590663489000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590663489000"/>
+        <file name="text-01.svg" crc="3896045054" mt="1590663489000"/>
+        <file name="text-02.svg" crc="149721605" mt="1590663489000"/>
+        <file name="text-03.svg" crc="4061545474" mt="1590663489000"/>
+        <file name="text-04.svg" crc="433043901" mt="1590663489000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590650676000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590663489000"/>
       </folder>
-      <file name="transparent.png" crc="4171806873" mt="1590650676000"/>
-      <file name="980x140_edge.js" crc="275954466" mt="1590650676000"/>
-      <file name="980x140.html" crc="32580195" mt="1590650676000"/>
+      <file name="transparent.png" crc="4171806873" mt="1590663489000"/>
+      <file name="980x140_edge.js" crc="220542426" mt="1590663489000"/>
+      <file name="980x140.html" crc="32580195" mt="1590663489000"/>
     </folder>
     <folder name="250x240">
       <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1590651005000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590651005000"/>
-        <file name="text-01.svg" crc="503116844" mt="1590651005000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1590651005000"/>
-        <file name="text-03.svg" crc="4291258732" mt="1590651005000"/>
-        <file name="text-04.svg" crc="85985446" mt="1590651005000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="4130502456" mt="1590663928000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590663928000"/>
+        <file name="text-01.svg" crc="4151611465" mt="1590663928000"/>
+        <file name="text-02.svg" crc="3943103464" mt="1590663928000"/>
+        <file name="text-03.svg" crc="4291258732" mt="1590663928000"/>
+        <file name="text-04.svg" crc="105214947" mt="1590663928000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590651005000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590663928000"/>
       </folder>
-      <file name="transparent.png" crc="4102216493" mt="1590651005000"/>
-      <file name="250x240_edge.js" crc="364943719" mt="1590651005000"/>
-      <file name="250x240.html" crc="276142873" mt="1590651005000"/>
+      <file name="transparent.png" crc="4102216493" mt="1590663928000"/>
+      <file name="250x240_edge.js" crc="61259079" mt="1590663928000"/>
+      <file name="250x240.html" crc="276142873" mt="1590663928000"/>
     </folder>
     <folder name="320x240">
       <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590650849000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590650849000"/>
-        <file name="text-01.svg" crc="503116844" mt="1590650849000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1590650849000"/>
-        <file name="text-03.svg" crc="4291258732" mt="1590650849000"/>
-        <file name="text-04.svg" crc="85985446" mt="1590650849000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590663768000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590663768000"/>
+        <file name="text-01.svg" crc="4151611465" mt="1590663768000"/>
+        <file name="text-02.svg" crc="3943103464" mt="1590663768000"/>
+        <file name="text-03.svg" crc="4291258732" mt="1590663768000"/>
+        <file name="text-04.svg" crc="105214947" mt="1590663768000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590650849000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590663768000"/>
       </folder>
-      <file name="transparent.png" crc="369183335" mt="1590650849000"/>
-      <file name="320x240_edge.js" crc="4196478571" mt="1590650849000"/>
-      <file name="320x240.html" crc="115357833" mt="1590650849000"/>
+      <file name="transparent.png" crc="369183335" mt="1590663768000"/>
+      <file name="320x240_edge.js" crc="4099134793" mt="1590663768000"/>
+      <file name="320x240.html" crc="115357833" mt="1590663768000"/>
     </folder>
     <folder name="730x250">
       <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590649923000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590649923000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590649923000"/>
-        <file name="text-01.svg" crc="490132744" mt="1590649923000"/>
-        <file name="text-02.svg" crc="149721605" mt="1590649923000"/>
-        <file name="text-03.svg" crc="4061545474" mt="1590649923000"/>
-        <file name="text-04.svg" crc="254388440" mt="1590649923000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590662896000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590662896000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590662896000"/>
+        <file name="text-01.svg" crc="3896045054" mt="1590662896000"/>
+        <file name="text-02.svg" crc="149721605" mt="1590662896000"/>
+        <file name="text-03.svg" crc="4061545474" mt="1590662896000"/>
+        <file name="text-04.svg" crc="433043901" mt="1590662896000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590649923000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590662896000"/>
       </folder>
-      <file name="transparent.png" crc="374963232" mt="1590649923000"/>
-      <file name="730x250_edge.js" crc="233043272" mt="1590649923000"/>
-      <file name="730x250.html" crc="418680485" mt="1590649923000"/>
+      <file name="transparent.png" crc="374963232" mt="1590662896000"/>
+      <file name="730x250_edge.js" crc="97198625" mt="1590662896000"/>
+      <file name="730x250.html" crc="418680485" mt="1590662896000"/>
     </folder>
     <folder name="980x30010">
       <folder name="edge_includes">
@@ -776,30 +776,30 @@
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1581409673000"/>
         <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1581409673000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1581409673000"/>
-        <file name="text-01.svg" crc="256706938" mt="1590653664000"/>
-        <file name="text-02.svg" crc="4287543222" mt="1590653664000"/>
-        <file name="text-03.svg" crc="293715686" mt="1590653664000"/>
-        <file name="text-04.svg" crc="412652570" mt="1590653664000"/>
-        <file name="animated_button_standard.png" crc="276052936" mt="1590653664000"/>
-        <file name="bg.jpg" crc="4009106860" mt="1590653664000"/>
-        <file name="img_1.jpg" crc="331571447" mt="1590653664000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590653664000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590653664000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590653664000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590653664000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590653664000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590653664000"/>
-        <file name="text-05.svg" crc="10492430" mt="1590653664000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590653664000"/>
+        <file name="text-01.svg" crc="3909382019" mt="1590665784000"/>
+        <file name="text-02.svg" crc="4101441999" mt="1590665784000"/>
+        <file name="text-03.svg" crc="293715686" mt="1590665784000"/>
+        <file name="text-04.svg" crc="412652570" mt="1590665784000"/>
+        <file name="animated_button_standard.png" crc="276052936" mt="1590665784000"/>
+        <file name="bg.jpg" crc="4009106860" mt="1590665784000"/>
+        <file name="img_1.jpg" crc="67744404" mt="1590665784000"/>
+        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590665784000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590665784000"/>
+        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590665784000"/>
+        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590665784000"/>
+        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590665784000"/>
+        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590665784000"/>
+        <file name="text-05.svg" crc="10492430" mt="1590665784000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590665784000"/>
         <file name="Asset 1logo.svg" crc="3931801214" mt="1581409673000"/>
         <file name="Asset 1svanen.svg" crc="99883948" mt="1581409673000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590653664000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590665784000"/>
       </folder>
-      <file name="transparent.png" crc="163585526" mt="1590653664000"/>
-      <file name="728x90_edge.js" crc="270658820" mt="1590653664000"/>
-      <file name="728x90.html" crc="176443236" mt="1590653664000"/>
+      <file name="transparent.png" crc="163585526" mt="1590665784000"/>
+      <file name="728x90_edge.js" crc="4049845682" mt="1590665784000"/>
+      <file name="728x90.html" crc="176443236" mt="1590665784000"/>
     </folder>
     <folder name="300x2504">
       <folder name="images">
@@ -989,13 +989,13 @@
     </folder>
     <folder name="728x903">
       <folder name="images">
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590650764000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590650764000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590650764000"/>
-        <file name="text-01.svg" crc="490132744" mt="1590650764000"/>
-        <file name="text-02.svg" crc="149721605" mt="1590650764000"/>
-        <file name="text-03.svg" crc="4061545474" mt="1590650764000"/>
-        <file name="text-04.svg" crc="254388440" mt="1590650764000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590663621000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590663621000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590663621000"/>
+        <file name="text-01.svg" crc="3896045054" mt="1590663621000"/>
+        <file name="text-02.svg" crc="149721605" mt="1590663621000"/>
+        <file name="text-03.svg" crc="4061545474" mt="1590663621000"/>
+        <file name="text-04.svg" crc="433043901" mt="1590663621000"/>
         <file name="animated_button_standard.png" crc="276052936" mt="1578644323000"/>
         <file name="bg.jpg" crc="4009106860" mt="1578644323000"/>
         <file name="img_1.jpg" crc="331571447" mt="1578644323000"/>
@@ -1009,11 +1009,11 @@
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1578644323000"/>
       </folder>
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590650764000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590663621000"/>
       </folder>
-      <file name="transparent.png" crc="163585526" mt="1590650764000"/>
-      <file name="728x90_edge.js" crc="157214897" mt="1590650764000"/>
-      <file name="728x90.html" crc="108869012" mt="1590650764000"/>
+      <file name="transparent.png" crc="163585526" mt="1590663621000"/>
+      <file name="728x90_edge.js" crc="250517399" mt="1590663621000"/>
+      <file name="728x90.html" crc="108869012" mt="1590663621000"/>
     </folder>
     <folder name="300x2503">
       <folder name="images">
@@ -1044,41 +1044,41 @@
     </folder>
     <folder name="320x3204">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590653203000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590665329000"/>
       </folder>
       <folder name="images">
         <file name="background.png" crc="3853839787" mt="1572866575000"/>
-        <file name="img_1.jpg" crc="4014670080" mt="1590653203000"/>
+        <file name="img_1.jpg" crc="4051320602" mt="1590665329000"/>
         <file name="img_2.jpg" crc="25397420" mt="1572866575000"/>
         <file name="movehome-3a.png" crc="346755312" mt="1572866575000"/>
         <file name="movehome-3a.eas" crc="47267089" mt="1572866575000"/>
-        <file name="text-01.svg" crc="93963581" mt="1590653203000"/>
-        <file name="text-02.svg" crc="373343178" mt="1590653203000"/>
-        <file name="text-03.svg" crc="111736809" mt="1590653203000"/>
-        <file name="text-04.svg" crc="121608413" mt="1590653203000"/>
+        <file name="text-01.svg" crc="3810778453" mt="1590665329000"/>
+        <file name="text-02.svg" crc="173355414" mt="1590665329000"/>
+        <file name="text-03.svg" crc="111736809" mt="1590665329000"/>
+        <file name="text-04.svg" crc="121608413" mt="1590665329000"/>
         <file name="background.jpg" crc="3894467353" mt="1573462300000"/>
         <file name="image.jpg" crc="273996215" mt="1573462300000"/>
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1573462300000"/>
-        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1590653203000"/>
-        <file name="bg.jpg" crc="266443163" mt="1590653203000"/>
-        <file name="animated_button_longlong.svg" crc="307992496" mt="1590653203000"/>
-        <file name="animated_button_longlong2.svg" crc="307992496" mt="1590653203000"/>
-        <file name="animated_button_longshort.svg" crc="106381627" mt="1590653203000"/>
-        <file name="animated_button_longshort2.svg" crc="106381627" mt="1590653203000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590653203000"/>
-        <file name="text-05.svg" crc="3967563463" mt="1590653203000"/>
+        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1590665329000"/>
+        <file name="bg.jpg" crc="266443163" mt="1590665329000"/>
+        <file name="animated_button_longlong.svg" crc="307992496" mt="1590665329000"/>
+        <file name="animated_button_longlong2.svg" crc="307992496" mt="1590665329000"/>
+        <file name="animated_button_longshort.svg" crc="106381627" mt="1590665329000"/>
+        <file name="animated_button_longshort2.svg" crc="106381627" mt="1590665329000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590665329000"/>
+        <file name="text-05.svg" crc="3967563463" mt="1590665329000"/>
         <file name="Asset 1logo.svg" crc="3931801214" mt="1581409661000"/>
         <file name="Asset 1svanen.svg" crc="99883948" mt="1581409661000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1581409661000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1581409661000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1590653203000"/>
-      <file name="320x320_edge.js" crc="3939418651" mt="1590653203000"/>
-      <file name="320x320.html" crc="4073720903" mt="1590653203000"/>
+      <file name="transparent.png" crc="212055269" mt="1590665329000"/>
+      <file name="320x320_edge.js" crc="4233366172" mt="1590665329000"/>
+      <file name="320x320.html" crc="4073720903" mt="1590665329000"/>
     </folder>
     <folder name="320x3203">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590650441000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590663256000"/>
       </folder>
       <folder name="images">
         <file name="background.png" crc="3853839787" mt="1572866575000"/>
@@ -1086,10 +1086,10 @@
         <file name="img_2.jpg" crc="25397420" mt="1572866575000"/>
         <file name="movehome-3a.png" crc="346755312" mt="1572866575000"/>
         <file name="movehome-3a.eas" crc="47267089" mt="1572866575000"/>
-        <file name="text-01.svg" crc="503116844" mt="1590650441000"/>
-        <file name="text-02.svg" crc="3943103464" mt="1590650441000"/>
-        <file name="text-03.svg" crc="4291258732" mt="1590650441000"/>
-        <file name="text-04.svg" crc="85985446" mt="1590650441000"/>
+        <file name="text-01.svg" crc="4151611465" mt="1590663256000"/>
+        <file name="text-02.svg" crc="3943103464" mt="1590663256000"/>
+        <file name="text-03.svg" crc="4291258732" mt="1590663256000"/>
+        <file name="text-04.svg" crc="105214947" mt="1590663256000"/>
         <file name="bg.jpg" crc="266443163" mt="1578644328000"/>
         <file name="animated_button_longlong.svg" crc="307992496" mt="1578644328000"/>
         <file name="animated_button_longlong2.svg" crc="307992496" mt="1578644328000"/>
@@ -1098,12 +1098,13 @@
         <file name="animated_button_standardlong22.svg" crc="474230334" mt="1578644328000"/>
         <file name="text-05.svg" crc="3967563463" mt="1578644328000"/>
         <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1578644328000"/>
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590650441000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590650441000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590663256000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590663256000"/>
+        <file name="text.svg" crc="153467537" mt="1590663256000"/>
       </folder>
-      <file name="transparent.png" crc="212055269" mt="1590650441000"/>
-      <file name="320x320_edge.js" crc="182566034" mt="1590650441000"/>
-      <file name="320x320.html" crc="3820890745" mt="1590650441000"/>
+      <file name="transparent.png" crc="212055269" mt="1590663256000"/>
+      <file name="320x320_edge.js" crc="4224077013" mt="1590663256000"/>
+      <file name="320x320.html" crc="3820890745" mt="1590663256000"/>
     </folder>
     <folder name="320x2502">
       <folder name="edge_includes">
@@ -1340,38 +1341,38 @@
     </folder>
     <folder name="980x2404">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590652491000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590664695000"/>
       </folder>
       <folder name="images">
-        <file name="animated_button_standard.png" crc="276052936" mt="1590652491000"/>
-        <file name="bg.jpg" crc="4009106860" mt="1590652491000"/>
+        <file name="animated_button_standard.png" crc="276052936" mt="1590664695000"/>
+        <file name="bg.jpg" crc="4009106860" mt="1590664695000"/>
         <file name="book.png" crc="4239139397" mt="1546851130000"/>
-        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590652491000"/>
-        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590652491000"/>
-        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590652491000"/>
-        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590652491000"/>
-        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590652491000"/>
-        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590652491000"/>
-        <file name="text-01.svg" crc="256706938" mt="1590652491000"/>
-        <file name="text-02.svg" crc="4287543222" mt="1590652491000"/>
-        <file name="text-03.svg" crc="293715686" mt="1590652491000"/>
-        <file name="text-04.svg" crc="412652570" mt="1590652491000"/>
-        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590652491000"/>
-        <file name="img_1.jpg" crc="331571447" mt="1590652491000"/>
-        <file name="text-05.svg" crc="10492430" mt="1590652491000"/>
+        <file name="animated_button_standardlong.svg" crc="474230334" mt="1590664695000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1590664695000"/>
+        <file name="animated_button_standardlong222.svg" crc="474230334" mt="1590664695000"/>
+        <file name="animated_button_standardshort.svg" crc="317668044" mt="1590664695000"/>
+        <file name="animated_button_standardshort22.svg" crc="317668044" mt="1590664695000"/>
+        <file name="animated_button_standardshort222.svg" crc="317668044" mt="1590664695000"/>
+        <file name="text-01.svg" crc="3909382019" mt="1590664695000"/>
+        <file name="text-02.svg" crc="4101441999" mt="1590664695000"/>
+        <file name="text-03.svg" crc="293715686" mt="1590664695000"/>
+        <file name="text-04.svg" crc="412652570" mt="1590664695000"/>
+        <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1590664695000"/>
+        <file name="img_1.jpg" crc="67744404" mt="1590664695000"/>
+        <file name="text-05.svg" crc="10492430" mt="1590664695000"/>
         <file name="Asset 1logo.svg" crc="3931801214" mt="1581409700000"/>
         <file name="Asset 1svanen.svg" crc="99883948" mt="1581409700000"/>
         <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1581409700000"/>
         <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1581409700000"/>
         <file name="pictogram_byggonline.svg" crc="116093766" mt="1581409700000"/>
       </folder>
-      <file name="transparent.png" crc="4096946367" mt="1590652491000"/>
-      <file name="980x240_edge.js" crc="55760801" mt="1590652491000"/>
-      <file name="980x240.html" crc="4268556174" mt="1590652491000"/>
+      <file name="transparent.png" crc="4096946367" mt="1590664695000"/>
+      <file name="980x240_edge.js" crc="306502819" mt="1590664695000"/>
+      <file name="980x240.html" crc="4268556174" mt="1590664695000"/>
     </folder>
     <folder name="980x2403">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590650207000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1590662763000"/>
       </folder>
       <folder name="images">
         <file name="animated_button_standard.png" crc="276052936" mt="1578644311000"/>
@@ -1383,19 +1384,19 @@
         <file name="animated_button_standardshort.svg" crc="317668044" mt="1578644311000"/>
         <file name="animated_button_standardshort22.svg" crc="317668044" mt="1578644311000"/>
         <file name="animated_button_standardshort222.svg" crc="317668044" mt="1578644311000"/>
-        <file name="text-01.svg" crc="490132744" mt="1590650207000"/>
-        <file name="text-02.svg" crc="149721605" mt="1590650207000"/>
-        <file name="text-03.svg" crc="4061545474" mt="1590650207000"/>
-        <file name="text-04.svg" crc="254388440" mt="1590650207000"/>
+        <file name="text-01.svg" crc="3896045054" mt="1590662763000"/>
+        <file name="text-02.svg" crc="149721605" mt="1590662763000"/>
+        <file name="text-03.svg" crc="4061545474" mt="1590662763000"/>
+        <file name="text-04.svg" crc="433043901" mt="1590662763000"/>
         <file name="TH-logo1_7508-RGB.svg" crc="3898594176" mt="1578644311000"/>
-        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590650207000"/>
-        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590650207000"/>
-        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590650207000"/>
+        <file name="Movehome_logo1-RGB.svg" crc="203768526" mt="1590662763000"/>
+        <file name="Movehome_logo2-RGB-01.svg" crc="3832552881" mt="1590662763000"/>
+        <file name="pictogram_byggonline.svg" crc="116093766" mt="1590662763000"/>
         <file name="text-05.svg" crc="10492430" mt="1578644311000"/>
       </folder>
-      <file name="transparent.png" crc="4096946367" mt="1590650207000"/>
-      <file name="980x240_edge.js" crc="4042713736" mt="1590650207000"/>
-      <file name="980x240.html" crc="433572677" mt="1590650207000"/>
+      <file name="transparent.png" crc="4096946367" mt="1590662763000"/>
+      <file name="980x240_edge.js" crc="252295066" mt="1590662763000"/>
+      <file name="980x240.html" crc="433572677" mt="1590662763000"/>
     </folder>
     <folder name="320x3202">
       <folder name="images">
@@ -1733,8 +1734,8 @@
     <file name="arrow_poster_.png" crc="47535081" ref="mm---adforms-display"/>
   </folder>
   <file name="index.html" crc="4161513394" seo="true" mt="1580989849294" redirect="true"/>
-  <file name="mm---adforms-display.html" crc="7275906" seo="true" mt="1590654962376" redirect="true"/>
-  <file name="tr---adform-display.html" crc="348197485" seo="true" mt="1590655178388" redirect="true"/>
+  <file name="mm---adforms-display.html" crc="410681722" seo="true" mt="1590668362910" redirect="true"/>
+  <file name="tr---adform-display.html" crc="3987994258" seo="true" mt="1590668536152" redirect="true"/>
   <file name="trivselhus---adform-remarketing.html" crc="3928054769" seo="true" mt="1580989821018" redirect="true"/>
   <file name="movehome---adforms-remarketing.html" crc="515638849" seo="true" mt="1580989896100" redirect="true"/>
   <file name="innofactor.html" crc="225592012" seo="true" mt="1581582857255" redirect="true"/>
