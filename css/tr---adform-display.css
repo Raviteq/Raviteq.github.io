@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000E9;
-	background-color: #DDBAAF;
+	color: #0000E3;
+	background-color: #82262B;
 }
 
 .html
@@ -174,9 +174,9 @@
 	width: 262px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	margin-left: 349px;
 	margin-top: 5px;
@@ -186,26 +186,27 @@
 #u13588
 {
 	z-index: 47;
-	width: 980px;
+	width: 984px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -52px;
 	margin-top: 26px;
 	position: relative;
-	padding: 20px 28px 18.012500000002547px;
+	padding: 17px 24px 18.012500000002547px 28px;
 }
 
-#u13683
+#u13753
 {
 	z-index: 82;
 	width: 980px;
 	height: 240px;
 	background-color: transparent;
+	margin-left: 4px;
 	position: relative;
 }
 
-#U13689_animation
+#U13759_animation
 {
 	width: 980px;
 	height: 240px;
@@ -220,7 +221,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 17px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -234,19 +235,19 @@
 	left: -30px;
 	margin-top: 30px;
 	position: relative;
-	padding: 15px 32px 12.723442249245693px 20px;
+	padding: 22px 32px 12.723442249245693px 20px;
 }
 
-#u13681
+#u13751
 {
-	z-index: 83;
+	z-index: 81;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13693_animation
+#U13755_animation
 {
 	width: 320px;
 	height: 320px;
@@ -261,7 +262,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 11px;
 	position: relative;
 }
 
@@ -278,16 +279,16 @@
 	padding: 9px 28px 13.31250000000091px 15px;
 }
 
-#u13682
+#u13752
 {
-	z-index: 81;
+	z-index: 83;
 	width: 730px;
 	height: 250px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13685_animation
+#U13763_animation
 {
 	width: 730px;
 	height: 250px;
@@ -316,25 +317,26 @@
 #u13592
 {
 	z-index: 56;
-	width: 320px;
+	width: 326px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 18px 35px 19.287499999997635px 22px;
+	padding: 21px 29px 19px 22px;
 }
 
-#u13697
+#u13767
 {
-	z-index: 86;
+	z-index: 87;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
+	margin-left: 6px;
 	position: relative;
 }
 
-#U13709_animation
+#U13783_animation
 {
 	width: 320px;
 	height: 240px;
@@ -349,7 +351,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 26px;
+	margin-top: 24px;
 	position: relative;
 }
 
@@ -363,19 +365,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 471px;
-	padding: 19px 42px 19px 22px;
+	padding: 21px 52px 19px 12px;
 }
 
-#u13696
+#u13766
 {
-	z-index: 85;
+	z-index: 84;
 	width: 250px;
 	height: 240px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13705_animation
+#U13771_animation
 {
 	width: 250px;
 	height: 240px;
@@ -390,7 +392,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 26px;
+	margin-left: 10px;
+	margin-top: 24px;
 	position: relative;
 }
 
@@ -404,19 +407,19 @@
 	left: -90px;
 	margin-top: 21px;
 	position: relative;
-	padding: 7px 63px 9px 16px;
+	padding: 5px 63px 9px 16px;
 }
 
-#u13699
+#u13769
 {
-	z-index: 87;
+	z-index: 85;
 	width: 980px;
 	height: 140px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13713_animation
+#U13775_animation
 {
 	width: 980px;
 	height: 140px;
@@ -431,7 +434,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 7px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -448,16 +451,16 @@
 	padding: 19px 19px 13px 28px;
 }
 
-#u13698
+#u13768
 {
-	z-index: 84;
+	z-index: 86;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U13701_animation
+#U13779_animation
 {
 	width: 728px;
 	height: 90px;
