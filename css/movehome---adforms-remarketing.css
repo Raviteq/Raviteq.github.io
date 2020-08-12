@@ -1,7 +1,7 @@
 .version.movehome___adforms_remarketing /* version checker */
 {
-	color: #0000E6;
-	background-color: #F9A430;
+	color: #000019;
+	background-color: #028A65;
 }
 
 .html
@@ -193,12 +193,12 @@
 	margin-left: 10px;
 	margin-top: 72px;
 	position: relative;
-	padding: 19px 26px 12.598442249245238px 20px;
+	padding: 20px 26px 12.598442249245238px 20px;
 }
 
-#u14083
+#u14093
 {
-	z-index: 59;
+	z-index: 58;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -206,7 +206,7 @@
 	position: relative;
 }
 
-#U14089_animation
+#U14095_animation
 {
 	width: 320px;
 	height: 320px;
@@ -221,33 +221,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 14px;
+	margin-top: 13px;
 	position: relative;
 }
 
 #u14005
 {
 	z-index: 51;
-	width: 690px;
+	width: 691px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 66px;
 	margin-top: 227px;
 	position: relative;
-	padding: 18px 78px 21.200000000001637px 34px;
+	padding: 18px 77px 21.200000000001637px 34px;
 }
 
-#u14082
+#u14092
 {
-	z-index: 58;
+	z-index: 59;
 	width: 690px;
 	height: 480px;
 	background-color: transparent;
+	margin-left: 1px;
 	position: relative;
 }
 
-#U14085_animation
+#U14099_animation
 {
 	width: 690px;
 	height: 480px;
@@ -309,10 +310,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -350,10 +351,10 @@
 	width: 151px;
 	min-height: 18px;
 	background-color: transparent;
-	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
+	color: #FFFFFF;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
