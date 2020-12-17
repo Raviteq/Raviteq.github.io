@@ -1,7 +1,7 @@
 .version.tr___adform_display /* version checker */
 {
-	color: #0000F5;
-	background-color: #C5CDAB;
+	color: #0000EC;
+	background-color: #13031A;
 }
 
 .html
@@ -199,12 +199,12 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 15px 26px 12.560942249244874px 20px;
+	padding: 21px 26px 12.710942249244852px 20px;
 }
 
-#u14107
+#u14137
 {
-	z-index: 82;
+	z-index: 81;
 	width: 320px;
 	height: 320px;
 	background-color: transparent;
@@ -212,7 +212,7 @@
 	position: relative;
 }
 
-#U14114_animation
+#U14140_animation
 {
 	width: 320px;
 	height: 320px;
@@ -227,34 +227,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 12px;
 	position: relative;
 }
 
 #u13839
 {
 	z-index: 74;
-	width: 267px;
+	width: 265px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	left: 393px;
-	padding: 30px 81px 25.460942249244965px 24px;
+	padding: 33px 83px 25.76094224924492px 24px;
 }
 
-#u14108
+#u14151
 {
-	z-index: 83;
+	z-index: 86;
 	width: 250px;
 	height: 360px;
 	background-color: transparent;
-	margin-left: 17px;
+	margin-left: 15px;
 	position: relative;
 }
 
-#U14118_animation
+#U14165_animation
 {
 	width: 250px;
 	height: 360px;
@@ -269,34 +269,34 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 15px;
+	margin-top: 12px;
 	position: relative;
 }
 
 #u13835
 {
 	z-index: 60;
-	width: 725px;
+	width: 721px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	margin-left: 25px;
 	margin-top: 74px;
 	position: relative;
-	padding: 14px 33px 13.049999999999727px 15px;
+	padding: 16px 37px 13.0499999999995px 15px;
 }
 
-#u14106
+#u14138
 {
-	z-index: 81;
+	z-index: 82;
 	width: 720px;
 	height: 300px;
 	background-color: transparent;
-	margin-left: 5px;
+	margin-left: 1px;
 	position: relative;
 }
 
-#U14110_animation
+#U14144_animation
 {
 	width: 720px;
 	height: 300px;
@@ -311,7 +311,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 18px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -325,25 +325,26 @@
 #u13592
 {
 	z-index: 41;
-	width: 320px;
+	width: 324px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 26px 40px 19px 17px;
+	padding: 25px 31px 19px 22px;
 }
 
-#u14104
+#u14148
 {
-	z-index: 86;
+	z-index: 83;
 	width: 320px;
 	height: 240px;
 	background-color: transparent;
+	margin-left: 4px;
 	position: relative;
 }
 
-#U14130_animation
+#U14153_animation
 {
 	width: 320px;
 	height: 240px;
@@ -358,8 +359,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 5px;
-	margin-top: 19px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -373,19 +373,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 471px;
-	padding: 26px 42px 19px 22px;
+	padding: 25px 42px 19px 22px;
 }
 
-#u14105
+#u14147
 {
-	z-index: 87;
+	z-index: 85;
 	width: 250px;
 	height: 240px;
 	background-color: transparent;
 	position: relative;
 }
 
-#U14134_animation
+#U14161_animation
 {
 	width: 250px;
 	height: 240px;
@@ -400,34 +400,33 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 19px;
+	margin-top: 20px;
 	position: relative;
 }
 
 #u13591
 {
 	z-index: 40;
-	width: 988px;
+	width: 980px;
 	-pie-box-shadow: 0px 2px 4px #E5E5E5;
 	box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
 	background-color: #FFFFFF;
 	left: -32px;
 	margin-top: 21px;
 	position: relative;
-	padding: 5px 55px 9px 16px;
+	padding: 8px 63px 9px 16px;
 }
 
-#u14102
+#u14150
 {
-	z-index: 84;
+	z-index: 87;
 	width: 980px;
 	height: 140px;
 	background-color: transparent;
-	margin-left: 8px;
 	position: relative;
 }
 
-#U14122_animation
+#U14169_animation
 {
 	width: 980px;
 	height: 140px;
@@ -442,7 +441,7 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -456,20 +455,19 @@
 	margin-left: 106px;
 	margin-top: 20px;
 	position: relative;
-	padding: 13px 23px 13.13749999999709px 24px;
+	padding: 15px 27px 13.13749999999709px 20px;
 }
 
-#u14103
+#u14149
 {
-	z-index: 85;
+	z-index: 84;
 	width: 728px;
 	height: 90px;
 	background-color: transparent;
-	left: -1px;
 	position: relative;
 }
 
-#U14126_animation
+#U14157_animation
 {
 	width: 728px;
 	height: 90px;
@@ -484,8 +482,8 @@
 	background-color: transparent;
 	font-family: abel, sans-serif;
 	font-weight: 400;
-	margin-left: 4px;
-	margin-top: 16px;
+	margin-left: 8px;
+	margin-top: 14px;
 	position: relative;
 }
 
