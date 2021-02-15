@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1608214579199">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://platform.adrapid.com/testbanner/trivselhus" resolutions="1x" timestamp="1613378304846">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="181802820" ref="powel:innofactor:tr---adform-display:index:epsiservers:movehome---adforms-remarketing:mm---adforms-display:trivselhus---adform-remarketing:powel1:capra-1:capra"/>
+    <file name="master_a-master.css" crc="121471967" ref="powel:innofactor:tr---adform-display:index:epsiservers:movehome---adforms-remarketing:mm---adforms-display:trivselhus---adform-remarketing:powel1:capra-1:capra"/>
     <file name="powel.css" crc="3794149419" ref="powel"/>
     <file name="innofactor.css" crc="3842743794" ref="innofactor"/>
     <file name="tr---adform-display.css" crc="4190723820" ref="tr---adform-display"/>
@@ -9,12 +9,37 @@
     <file name="epsiservers.css" crc="4090503971" ref="epsiservers"/>
     <file name="movehome---adforms-remarketing.css" crc="66232297" ref="movehome---adforms-remarketing"/>
     <file name="mm---adforms-display.css" crc="4157482324" ref="mm---adforms-display"/>
-    <file name="trivselhus---adform-remarketing.css" crc="3792656493" ref="trivselhus---adform-remarketing"/>
+    <file name="trivselhus---adform-remarketing.css" crc="90346342" ref="trivselhus---adform-remarketing"/>
     <file name="powel1.css" crc="263053177" ref="powel1"/>
     <file name="capra-1.css" crc="4220464650" ref="capra-1"/>
     <file name="capra.css" crc="322581931" ref="capra"/>
   </folder>
   <folder name="assets">
+    <folder name="690x480">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1613377377000"/>
+      </folder>
+      <folder name="images">
+        <file name="Layer 1.jpg" crc="4107201324" mt="1613377377000"/>
+        <file name="Layer 2.jpg" crc="521272125" mt="1613377377000"/>
+        <file name="Layer-1.jpg" crc="186333454" mt="1613377377000"/>
+        <file name="Layer-2.jpg" crc="274846918" mt="1613377377000"/>
+        <file name="animated_button_longlong.svg" crc="307992496" mt="1613377377000"/>
+        <file name="animated_button_longlong2.svg" crc="307992496" mt="1613377377000"/>
+        <file name="animated_button_longshort.svg" crc="106381627" mt="1613377377000"/>
+        <file name="animated_button_longshort2.svg" crc="106381627" mt="1613377377000"/>
+        <file name="animated_button_standardlong22.svg" crc="474230334" mt="1613377377000"/>
+        <file name="STELLA logo_1.svg" crc="4007759409" mt="1613377377000"/>
+        <file name="text-01.svg" crc="3814366467" mt="1613377377000"/>
+        <file name="text-02.svg" crc="4110664488" mt="1613377377000"/>
+        <file name="text-03.svg" crc="3959418096" mt="1613377377000"/>
+        <file name="text-04.svg" crc="121608413" mt="1613377377000"/>
+        <file name="TH-logo2_7508-RGB.svg" crc="4072902197" mt="1613377377000"/>
+      </folder>
+      <file name="transparent.png" crc="3945577995" mt="1613377377000"/>
+      <file name="690x480_edge.js" crc="334097047" mt="1613377377000"/>
+      <file name="690x480.html" crc="9989386" mt="1613377377000"/>
+    </folder>
     <folder name="250x360">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1608203161000"/>
@@ -1449,29 +1474,29 @@
   <folder name="images">
     <file name="pattern-1.jpg" crc="4229835355" ref="index"/>
     <file name="adrapid logo 3x1 text white new.svg" crc="374240259" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:powel:powel1:capra:capra-1"/>
-    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:mm---adforms-display"/>
+    <file name="adrapid logo 3x1 text white new_poster_.png" crc="367434001" ref="index:mm---adforms-display:trivselhus---adform-remarketing"/>
     <file name="adform_logo.png" crc="4183796416" seo="true" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing"/>
     <file name="hemnet.svg" crc="268460664" ref="index"/>
     <file name="hemnet_poster_.png" crc="78949463" ref="index"/>
     <file name="mail.svg" crc="341753094" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:powel:powel1:capra:capra-1"/>
-    <file name="mail_poster_.png" crc="4101486600" ref="index:mm---adforms-display"/>
+    <file name="mail_poster_.png" crc="4101486600" ref="index:mm---adforms-display:trivselhus---adform-remarketing"/>
     <file name="facebook.svg" crc="426374568" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:powel:powel1:capra:capra-1"/>
-    <file name="facebook_poster_.png" crc="436869026" ref="index:mm---adforms-display"/>
+    <file name="facebook_poster_.png" crc="436869026" ref="index:mm---adforms-display:trivselhus---adform-remarketing"/>
     <file name="youtube.svg" crc="4147027439" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:powel:powel1:capra:capra-1"/>
-    <file name="youtube_poster_.png" crc="176465924" ref="index:mm---adforms-display"/>
+    <file name="youtube_poster_.png" crc="176465924" ref="index:mm---adforms-display:trivselhus---adform-remarketing"/>
     <file name="twitter.svg" crc="3934615787" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:powel:powel1:capra:capra-1"/>
-    <file name="twitter_poster_.png" crc="70529161" ref="index:mm---adforms-display"/>
+    <file name="twitter_poster_.png" crc="70529161" ref="index:mm---adforms-display:trivselhus---adform-remarketing"/>
     <file name="googleplus.svg" crc="4118354756" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:powel:powel1:capra:capra-1"/>
-    <file name="googleplus_poster_.png" crc="372156627" ref="index:mm---adforms-display"/>
+    <file name="googleplus_poster_.png" crc="372156627" ref="index:mm---adforms-display:trivselhus---adform-remarketing"/>
     <file name="linkedin.svg" crc="4186885566" ref="index:mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing:innofactor:epsiservers:powel:powel1:capra:capra-1"/>
-    <file name="linkedin_poster_.png" crc="183638388" ref="index:mm---adforms-display"/>
+    <file name="linkedin_poster_.png" crc="183638388" ref="index:mm---adforms-display:trivselhus---adform-remarketing"/>
     <file name="arrow.svg" crc="147237265" ref="mm---adforms-display:tr---adform-display:trivselhus---adform-remarketing:movehome---adforms-remarketing"/>
-    <file name="arrow_poster_.png" crc="47535081" ref="mm---adforms-display"/>
+    <file name="arrow_poster_.png" crc="47535081" ref="mm---adforms-display:trivselhus---adform-remarketing"/>
   </folder>
   <file name="index.html" crc="4161513394" seo="true" mt="1580989849294" redirect="true"/>
   <file name="mm---adforms-display.html" crc="3937476241" seo="true" mt="1608214567965" redirect="true"/>
   <file name="tr---adform-display.html" crc="158293418" seo="true" mt="1608214261313" redirect="true"/>
-  <file name="trivselhus---adform-remarketing.html" crc="4229276246" seo="true" mt="1608214246440" redirect="true"/>
+  <file name="trivselhus---adform-remarketing.html" crc="4045702613" seo="true" mt="1613378288289" redirect="true"/>
   <file name="movehome---adforms-remarketing.html" crc="4270285396" seo="true" mt="1608214450199" redirect="true"/>
   <file name="innofactor.html" crc="225592012" seo="true" mt="1581582857255" redirect="true"/>
   <file name="epsiservers.html" crc="4048717710" seo="true" mt="1580989614775" redirect="true"/>
